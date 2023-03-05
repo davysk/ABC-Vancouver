@@ -1,0 +1,41 @@
+.elementor-widget-ova_header{
+	.wrap_ova_header{
+		.ova_header_el {
+			.header_title{
+				padding: 99px 0 12px 0;
+				color: #fff;
+				text-transform: capitalize;
+				font-size: 50px;
+				line-height: 1.2;
+				font-weight: 700;
+				letter-spacing: 0.2px;
+			}
+			.ovatheme_breadcrumbs{
+				padding: 0 0 100px 0;
+				.breadcrumb{
+					color: #fff;
+					font-size: 18px;
+					line-height: 26px;
+					letter-spacing: 0.2px;
+					font-weight: 400;
+					.separator{
+						color: #fff;
+						&:before{
+							font-size: 20px;
+						}
+					}
+					li{
+						color:#fff;
+					}
+					a{
+						color: #fff;
+						font-size: 18px;
+						line-height: 26px;
+						letter-spacing: 0.2px;
+						font-weight: 400;
+					}
+				}
+			}
+		}
+	}
+}

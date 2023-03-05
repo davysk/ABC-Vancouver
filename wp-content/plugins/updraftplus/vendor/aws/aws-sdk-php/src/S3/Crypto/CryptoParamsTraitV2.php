@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\S3\Crypto\CryptoParamsTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\updraftplus\vendor\aws\aws-sdk-php\src\S3\Crypto\CryptoParamsTraitV2.php</b> on line <b>6</b><br>

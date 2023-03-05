@@ -1,0 +1,55 @@
+.ova_mission{
+	.items{
+	    box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+		.ova-media{
+			margin: 0 0 0 0;
+			a{
+				display: block;
+			}
+		}
+		.content{
+			padding: 38px 30px 40px 30px;
+			background: #fff;
+			.title{
+				margin: 0 0 10px 0;
+				a{
+					font-size: 24px;
+					line-height: 30px;
+					font-weight: 600;
+					color: #202b5d;
+					transition: 0.4s;
+					&:hover{
+						color: #c32644;
+					}
+				}
+			}
+			.excerpt{
+				margin: 0 0 34px 0;
+				font-size: 17px;
+				line-height: 24px;
+				color: #62718d;
+			}
+			.readmore{
+				display: inline-block;
+				font-size: 16px;
+				line-height: 26px;
+				font-weight: 400;
+				letter-spacing: 0.2px;
+				height: 40px;
+				line-height: 40px;
+				border: 1px solid #e5e5e5;
+				padding: 0 18px 0 18px;
+				transition: 0.4s;
+				svg{
+					margin-left: 5px;
+					width: 20px;
+				}
+				&:hover{
+					background: #c32644;
+					border-color: #c32644;
+					color: #fff;
+				}
+			}
+		}
+	}
+}

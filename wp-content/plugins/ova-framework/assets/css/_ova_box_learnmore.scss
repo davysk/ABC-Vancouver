@@ -1,0 +1,29 @@
+.ova_box_learnmore{
+	.content{
+		display: inline-block;
+		width: 275px;
+		padding: 41px 30px 39px 30px;
+		border-radius: 4px;
+		.title{
+			margin: 0 0 28px 0;
+			font-size: 22px;
+			line-height: 26px;
+			font-weight: 400;
+			color: #fff;
+		}
+		.ova-learn-more{
+			font-size: 18px;
+			line-height: 26px;
+			font-weight: 600;
+			color: #fff;
+			display: inline-flex;
+			align-items: center;
+			svg{
+				width: 19px;
+			}
+			&:hover{
+				color: #0067DA;
+			}
+		}
+	}
+}

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\DonorDashboards\Routes\Captcha\ProtectedRoute&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\DonorDashboards\Routes\VerifyEmailRoute.php</b> on line <b>12</b><br>

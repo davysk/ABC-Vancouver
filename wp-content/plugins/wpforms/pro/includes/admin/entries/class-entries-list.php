@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WPForms\Pro\Admin\Entries\FilterSearch&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wpforms\pro\includes\admin\entries\class-entries-list.php</b> on line <b>10</b><br>

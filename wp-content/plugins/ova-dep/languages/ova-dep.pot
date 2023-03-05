@@ -1,0 +1,482 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Department\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.6.1"
+
+#: inc/class-ova-get-data.php:26
+msgid "- In"
+msgstr ""
+
+#: inc/class-customize.php:63
+msgid "2 column"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep.php:89
+#: elementor/widgets/ova_list_dep.php:89
+msgid "2 Columns"
+msgstr ""
+
+#: inc/class-customize.php:64
+msgid "3 column"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep.php:90
+#: elementor/widgets/ova_list_dep.php:90
+msgid "3 Columns"
+msgstr ""
+
+#: inc/class-customize.php:65
+msgid "4 column"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep.php:91
+#: elementor/widgets/ova_list_dep.php:91
+msgid "4 Columns"
+msgstr ""
+
+#: templates/elementor/ova_dep_list_file.php:39
+msgid "[ download ]"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:67 inc/class-ova-custom-post-type.php:68
+msgid "Add New Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:28 inc/class-ova-custom-post-type.php:29
+msgid "Add New Department"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:72
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:63
+msgid "All Category Department"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:27
+msgid "All Department"
+msgstr ""
+
+#: templates/single-dep.php:32
+msgid "All Departments"
+msgstr ""
+
+#: inc/class-customize.php:78
+msgid "Background Archive Department"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:307
+#: elementor/widgets/ova_archive_dep.php:195
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:318
+#: elementor/widgets/ova_archive_dep.php:206
+msgid "Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:488
+msgid "Background Color hover"
+msgstr ""
+
+#: inc/class-customize.php:91
+msgid "Background Single Department"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:69
+#: elementor/widgets/ova_archive_dep.php:66
+#: elementor/widgets/ova_list_dep.php:66
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:62
+msgid "Category Department"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:73
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/class-ova-metabox.php:35
+msgid "Class Icon"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:285
+#: elementor/widgets/ova_archive_dep.php:173
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:365
+#: elementor/widgets/ova_archive_dep_slide.php:421
+#: elementor/widgets/ova_archive_dep_slide.php:466
+#: elementor/widgets/ova_archive_dep.php:253
+#: elementor/widgets/ova_archive_dep.php:308
+#: elementor/widgets/ova_archive_dep.php:353
+msgid "Color "
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:296
+#: elementor/widgets/ova_archive_dep.php:184
+msgid "Color Hover"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:376
+#: elementor/widgets/ova_archive_dep_slide.php:477
+#: elementor/widgets/ova_archive_dep.php:264
+#: elementor/widgets/ova_archive_dep.php:364
+msgid "Color hover"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:45
+#: elementor/widgets/ova_dep_list_file.php:42
+#: elementor/widgets/ova_archive_dep.php:42
+#: elementor/widgets/ova_list_dep.php:42
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:93
+#: elementor/widgets/ova_archive_dep.php:104
+#: elementor/widgets/ova_list_dep.php:104
+msgid "Custom Order"
+msgstr ""
+
+#. Description of the plugin
+#: inc/class-customize.php:26 inc/class-ova-custom-post-type.php:22
+msgid "Department"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep.php:22
+msgid "Department Archive"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:22
+msgid "Department Archive Slide"
+msgstr ""
+
+#: elementor/widgets/ova_dep_list_file.php:50
+msgid "Department Id"
+msgstr ""
+
+#: elementor/widgets/ova_list_dep.php:22
+msgid "Department List"
+msgstr ""
+
+#: admin/class-ova-metabox.php:26
+msgid "Department settings"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:92
+msgctxt "Department Slug"
+msgid "cat_dep"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:516
+msgid "Dot"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:524
+msgid "Dot Active Color"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:69
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:31
+msgid "Edit Department"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:404
+#: elementor/widgets/ova_archive_dep.php:291
+msgid "Excerpt"
+msgstr ""
+
+#: admin/class-ova-metabox.php:41
+msgid "File in Sidebar"
+msgstr ""
+
+#: elementor/widgets/ova_dep_list_file.php:22
+msgid "File List In Department"
+msgstr ""
+
+#: inc/class-customize.php:125
+msgid "Footer Archive"
+msgstr ""
+
+#: inc/class-customize.php:159
+msgid "Footer Single"
+msgstr ""
+
+#: inc/class-customize.php:107
+msgid "Header Archive"
+msgstr ""
+
+#: inc/class-customize.php:142
+msgid "Header Single"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:104
+#: elementor/widgets/ova_archive_dep_slide.php:116
+#: elementor/widgets/ova_archive_dep_slide.php:128
+#: elementor/widgets/ova_archive_dep_slide.php:140
+#: elementor/widgets/ova_archive_dep.php:116
+#: elementor/widgets/ova_archive_dep.php:128
+#: elementor/widgets/ova_archive_dep.php:140
+#: elementor/widgets/ova_archive_dep.php:152
+msgid "Hide"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:277
+#: elementor/widgets/ova_archive_dep.php:165
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:92
+#: elementor/widgets/ova_archive_dep.php:103
+#: elementor/widgets/ova_list_dep.php:103
+msgid "ID"
+msgstr ""
+
+#: admin/class-ova-metabox.php:48
+msgid "Image"
+msgstr ""
+
+#: admin/class-ova-metabox.php:77
+msgid "Insert Number"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:24
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:25
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:78
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:79
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class-customize.php:58
+msgid "Layout"
+msgstr ""
+
+#: admin/class-ova-metabox.php:61
+msgid "Link Image"
+msgstr ""
+
+#: admin/class-ova-metabox.php:68
+msgid "List File Attachment"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:329
+#: elementor/widgets/ova_archive_dep_slide.php:388
+#: elementor/widgets/ova_archive_dep_slide.php:434
+#: elementor/widgets/ova_archive_dep_slide.php:500
+#: elementor/widgets/ova_archive_dep.php:217
+#: elementor/widgets/ova_archive_dep.php:275
+#: elementor/widgets/ova_archive_dep.php:321
+#: elementor/widgets/ova_archive_dep.php:377
+msgid "Margin"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:30
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:66
+msgid "New Item Name"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:63
+#: elementor/widgets/ova_archive_dep.php:60
+#: elementor/widgets/ova_list_dep.php:60
+msgid "No content Category found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:77
+msgid "No items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:76
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:35
+msgid "Not found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep.php:85
+#: elementor/widgets/ova_list_dep.php:85
+msgid "Number Of Columns"
+msgstr ""
+
+#: inc/class-customize.php:41
+msgid "Number of posts per page"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:88
+#: elementor/widgets/ova_archive_dep.php:99
+#: elementor/widgets/ova_list_dep.php:99
+msgid "OrderBy Post"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme Department"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:64
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:26 inc/class-ova-custom-post-type.php:65
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:74
+msgid "Popular Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:23
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:39
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:60
+msgctxt "Post Type General Name"
+msgid "Category Department"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:20
+msgctxt "Post Type General Name"
+msgid "Department"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:61
+msgctxt "Post Type Singular Name"
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:21
+msgctxt "Post Type Singular Name"
+msgid "Department"
+msgstr ""
+
+#: templates/archive-dep.php:50 elementor/widgets/ova_archive_dep_slide.php:449
+#: elementor/widgets/ova_archive_dep.php:336
+#: templates/elementor/ova_archive_dep_slide_temp.php:105
+#: templates/elementor/ova_archive_dep.php:95
+#: templates/elementor/ova_list_dep.php:82
+msgid "Read More"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:34
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:75
+msgid "Search Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:71
+msgid "Separate items with commas"
+msgstr ""
+
+#: templates/single-dep.php:104
+msgid "Share Article "
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:103
+#: elementor/widgets/ova_archive_dep_slide.php:115
+#: elementor/widgets/ova_archive_dep_slide.php:127
+#: elementor/widgets/ova_archive_dep_slide.php:139
+#: elementor/widgets/ova_archive_dep.php:115
+#: elementor/widgets/ova_archive_dep.php:127
+#: elementor/widgets/ova_archive_dep.php:139
+#: elementor/widgets/ova_archive_dep.php:151
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:125
+#: elementor/widgets/ova_archive_dep.php:137
+msgid "Show Excerpt"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:101
+#: elementor/widgets/ova_archive_dep.php:113
+msgid "Show Icon"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:137
+#: elementor/widgets/ova_archive_dep.php:149
+msgid "Show Read More"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:113
+#: elementor/widgets/ova_archive_dep.php:125
+msgid "Show Title"
+msgstr ""
+
+#: admin/class-ova-metabox.php:75
+msgid "Sort Order"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:348
+#: elementor/widgets/ova_archive_dep.php:236
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/ova_archive_dep_slide.php:79
+#: elementor/widgets/ova_archive_dep.php:76
+#: elementor/widgets/ova_list_dep.php:76
+msgid "Total"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:50
+msgctxt "URL slug"
+msgid "ova_dep"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:32 inc/class-ova-custom-post-type.php:70
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:33
+msgid "View Items"
+msgstr ""

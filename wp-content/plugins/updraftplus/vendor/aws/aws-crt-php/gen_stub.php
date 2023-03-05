@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  strict_types declaration must be the very first statement in the script in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\updraftplus\vendor\aws\aws-crt-php\gen_stub.php</b> on line <b>2</b><br>

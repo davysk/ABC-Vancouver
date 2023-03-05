@@ -1,0 +1,52 @@
+/*ICON BANNER*/
+.banner-icon{
+	padding: 40px 0px 40px 0px;
+.bn2-icon{
+		display: flex;
+		align-items: center;
+		color: #ffffff;
+		justify-content: center;
+		i:before{
+			font-size:50px;
+		};
+
+	}
+.bn2-text{
+	 display: flex;
+	 justify-content: center;
+	 padding-top: 20px;
+	 span{
+	 	color: #FFFFFF;
+	 	font-size: 24px;
+	 	font-weight: 700;
+	 	text-transform: uppercase;
+	 	line-height: 30px;
+	 	padding-right: 10px;
+	 }
+     .bn2-icon2{
+	          transform: rotate(-45deg);
+	          color: #ffff;
+	          font-size: 20px;
+	          i:before{
+	          	margin:0;
+	          };
+      }
+}
+
+	&:hover{
+		.bn2-icon i:before{
+			color:#ffffff !important;
+			transition: 0.4s;
+		}
+		.bn2-icon2 i:before{
+			color:#ffffff !important;
+			transition: 0.4s;
+		}
+		span{
+			color: #ffffff !important ;
+			transition: 0.4s;
+		}
+	};
+
+
+}

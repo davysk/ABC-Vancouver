@@ -1,0 +1,140 @@
+.ova_wrap_search_all{
+	&.type1{
+		form{
+			display: flex;
+			align-items: center;
+
+			@media(  max-width: 767px ){
+				display: block;
+			}
+
+			.wrap_field{
+				border-bottom: 2px solid #e0e0e0;
+				width: 100%;
+				margin-right: 20px;
+			}
+
+			input.search-field{
+				border: none;
+				height: 60px;
+
+				&::-webkit-input-placeholder { /* Edge */
+				  color: #62718d;		
+				}
+
+				&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+				  color: #62718d;		
+				}
+
+				&::placeholder {
+				 color: #62718d;		
+				}
+			}	
+			
+			i{
+				color: #aab1bd;
+			}
+
+			button{
+				border: none;
+				padding: 20px 30px;
+				font-size: 20px;
+				font-weight: 600;
+				letter-spacing: 0.2px;
+				cursor: pointer;
+
+				@media(  max-width: 767px ){
+					width: 100%;
+					margin-top: 15px;
+				}
+			}
+
+		}
+	}
+
+	&.type2{
+		form{
+			display: flex;
+		}
+		input{
+			border: 1px solid #e5e5e5;
+			border-bottom-left-radius: 50px;
+			border-top-left-radius: 50px;
+			height: 50px;	
+			padding-left: 20px;
+			
+				&::-webkit-input-placeholder { /* Edge */
+				  color: #62718d;		
+				}
+
+				&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+				  color: #62718d;		
+				}
+
+				&::placeholder {
+				 color: #62718d;		
+				}
+		}
+		button{
+			height: 50px;
+			border: 1px solid #e5e5e5;
+			border-bottom-left-radius: 50px;
+			border-top-left-radius: 50px;
+			padding-left: 15px;
+			padding-right: 15px;
+			cursor: pointer;
+			transform: rotateY(180deg);
+			outline: 0;
+
+			i{
+				&:before{
+					margin-left: 0;
+				}
+			}
+		}
+		
+	}
+
+	&.type3{
+		form{
+			display: flex;
+		}
+		input{
+			border: 1px solid #e5e5e5;
+			height: 50px;	
+			padding-left: 20px;
+			border-right: none;
+			
+				&::-webkit-input-placeholder { /* Edge */
+				  color: #62718d;		
+				}
+
+				&:-ms-input-placeholder { /* Internet Explorer 10-11 */
+				  color: #62718d;		
+				}
+
+				&::placeholder {
+				 color: #62718d;		
+				}
+		}
+		button{
+			height: 50px;
+			border: 1px solid #e5e5e5;
+			padding-left: 15px;
+			padding-right: 15px;
+			border-right: none;
+			background: none;
+			cursor: pointer;
+			transform: rotateY(180deg);
+			outline: 0;
+			i{
+				&:before{
+					margin-left: 0;
+				}
+			}
+		}
+		
+	}
+	
+	
+}

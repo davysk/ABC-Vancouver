@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Site_Kit\Core\Util\Requires_Javascript_Trait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\google-site-kit\includes\Core\Util\Activation_Notice.php</b> on line <b>25</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WPMailSMTP\Vendor\GuzzleHttp\Psr7\MessageTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wp-mail-smtp\vendor_prefixed\guzzlehttp\psr7\src\Request.php</b> on line <b>12</b><br>

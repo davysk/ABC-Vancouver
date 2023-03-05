@@ -1,0 +1,356 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Service\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.6.1"
+
+#: inc/class-ova-get-data.php:28
+msgid "- In"
+msgstr ""
+
+#: elementor/widgets/ova_sev_list_file.php:62
+msgid "1 Column"
+msgstr ""
+
+#: elementor/widgets/ova_sev_list_file.php:63
+msgid "2 Column"
+msgstr ""
+
+#: inc/class-customize.php:62
+msgid "2 column"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:89
+msgid "2 Columns"
+msgstr ""
+
+#: inc/class-customize.php:63
+msgid "3 column"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:90
+msgid "3 Columns"
+msgstr ""
+
+#: inc/class-customize.php:64
+msgid "4 column"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:91
+msgid "4 Columns"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:65 inc/class-ova-custom-post-type.php:66
+msgid "Add New Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:26 inc/class-ova-custom-post-type.php:27
+msgid "Add New Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:70
+msgid "Add or remove items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:61
+msgid "All Category Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:25
+msgid "All Service"
+msgstr ""
+
+#: templates/single-sev.php:59
+msgid "All Services"
+msgstr ""
+
+#: inc/class-customize.php:92
+msgid "Background Archive Service"
+msgstr ""
+
+#: inc/class-customize.php:105
+msgid "Background Single Service"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:66
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:60
+msgid "Category Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:71
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/class-ova-metabox.php:69
+msgid "Class Icon"
+msgstr ""
+
+#: admin/class-ova-metabox.php:75
+msgid "Class Icon Hover"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:123
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/ova_sev_list_file.php:42
+#: elementor/widgets/ova_archive_sev.php:42
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:104
+msgid "Custom Order"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:67
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:29
+msgid "Edit Service"
+msgstr ""
+
+#: admin/class-ova-metabox.php:36
+msgid "File in Sidebar"
+msgstr ""
+
+#: inc/class-customize.php:121
+msgid "Header Archive"
+msgstr ""
+
+#: inc/class-customize.php:155
+msgid "Header Single"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:115
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:103
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/ova_sev_list_file.php:50
+msgid "Id Service"
+msgstr ""
+
+#: admin/class-ova-metabox.php:43
+msgid "Image"
+msgstr ""
+
+#: admin/class-ova-metabox.php:83
+msgid "Insert Number"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:22
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:23
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:76
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:77
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class-customize.php:57
+msgid "Layout"
+msgstr ""
+
+#: inc/class-customize.php:77
+msgid "Link All Service"
+msgstr ""
+
+#: admin/class-ova-metabox.php:56
+msgid "Link Image"
+msgstr ""
+
+#: admin/class-ova-metabox.php:63
+msgid "List File Attachment"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:136
+msgid "Margin"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:28
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:64
+msgid "New Item Name"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:60
+msgid "No content Category found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:75
+msgid "No items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:74
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:33
+msgid "Not found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:34
+msgid "Not found in Trash"
+msgstr ""
+
+#: elementor/widgets/ova_sev_list_file.php:58
+msgid "Number Column"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:85
+msgid "Number Of Columns"
+msgstr ""
+
+#: inc/class-customize.php:40
+msgid "Number of posts per page"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:99
+msgid "OrderBy Post"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:62
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:24 inc/class-ova-custom-post-type.php:63
+msgid "Parent Item:"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:72
+msgid "Popular Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:21
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:37
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:58
+msgctxt "Post Type General Name"
+msgid "Category Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:18
+msgctxt "Post Type General Name"
+msgid "Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:59
+msgctxt "Post Type Singular Name"
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:19
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: templates/archive-sev.php:51 templates/elementor/ova_archive_sev.php:90
+msgid "Read More"
+msgstr ""
+
+#: elementor/widgets/ova_sev_list_file.php:22
+msgid "Resource In Service"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:32
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:73
+msgid "Search Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:69
+msgid "Separate items with commas"
+msgstr ""
+
+#. Description of the plugin
+#: inc/class-customize.php:25 inc/class-ova-custom-post-type.php:20
+msgid "Service"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:22
+msgid "Service Archive"
+msgstr ""
+
+#: admin/class-ova-metabox.php:26
+msgid "Service settings"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:90
+msgctxt "Service Slug"
+msgid "cat_sev"
+msgstr ""
+
+#: templates/single-sev.php:40
+msgid "Share Article "
+msgstr ""
+
+#: admin/class-ova-metabox.php:81
+msgid "Sort Order"
+msgstr ""
+
+#: elementor/widgets/ova_archive_sev.php:76
+msgid "Total"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:48
+msgctxt "URL slug"
+msgid "ova_sev"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:30 inc/class-ova-custom-post-type.php:68
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:31
+msgid "View Items"
+msgstr ""

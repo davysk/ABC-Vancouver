@@ -1,0 +1,287 @@
+.ova_feature{
+	.items{
+		padding: 40px 30px 43px 30px;
+		border: 1px solid #e8e8e8;
+		position: relative;
+		overflow: hidden;
+		transition: 0.4s;
+		min-height: 188px;
+		background: #fff;
+	}
+	.icon{
+		margin-bottom: 21px;
+		position: relative;
+		top: 0;
+		opacity: 1;
+		transition: 0.4s;
+		span{
+			display: inline-block;
+			line-height: 1;
+			&:before{
+				margin: 0;
+				font-size: 50px;
+				display: inline-block;
+			}
+		}
+	}
+	.title{
+		margin: 0;
+		font-size: 24px;
+		line-height: 30px;
+		color: #202b5d;
+		font-weight: 500;
+		position: relative;
+		top: 0;
+		transition: 0.4s;
+		a{
+			font-size: 24px;
+			line-height: 30px;
+			color: #202b5d;
+			font-weight: 500;
+		}
+	}
+	.content-sub{
+		opacity: 0;
+		top: 100%;
+		left: 0px;
+		position: absolute;
+		padding: 0px 30px;
+		transition: 0.4s;
+		.excerpt{
+			margin: 0;
+			font-size: 17px;
+			line-height: 24px;
+			margin-bottom: 16px;
+		}
+		.readmore{
+			font-size: 16px;
+			line-height: 26px;
+			letter-spacing: 0.2px;
+			font-weight: 400;
+			color: #0067da;
+			svg{
+				width: 18px;
+			}
+		}
+	}
+	.icon-hide{
+		position: absolute;
+		right: 45px;
+		bottom: -70px;
+		transition: 0.4s;
+		span{
+			&:before{
+				margin: 0;
+				font-size: 70px;
+				color: rgba(32, 43, 93, 0.1);
+			}
+		}
+	}
+
+	&.version_1{
+		.items{
+			&:hover{
+				box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+				padding: 40px 30px 62px 30px;
+				.content-sub{
+					display: block;
+				}
+				.icon{
+					top: -67px;
+					margin: 0;
+					opacity: 0;
+				}
+				.title{
+					top: -67px;
+				}
+				.content-sub{
+					top: calc(100% - 118px);
+					opacity: 1;
+				}
+				.icon-hide{
+					bottom: -3px;
+				}
+			}
+		}
+	}
+
+	&.version_2{
+		&.box-shadow{
+			.items{
+				box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+				&:hover{
+					box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+				}
+			}
+		}
+		.items{
+			background: transparent;
+			text-align: center;
+			padding: 23px 20px 34px 20px;
+			border: none;
+			&:hover{
+				box-shadow: 5px 9px 50px 0px rgba(0, 0, 0, 0.08);
+				.icon{
+					transition: background-color 2.5s ease;
+					span{
+						&:before{
+							color: #fff !important;
+						}
+					}
+					svg{
+
+						color: #fff !important;
+
+					}
+
+				}
+				.title{
+					&:after{
+						width: 40px;
+						visibility: visible;
+						opacity: 1;
+					}
+				}
+			}
+			.icon{
+				margin-bottom: 16px;
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 100px;
+				height: 100px;
+				background: #fff;
+				border-radius: 50%;
+				transition: background-color 1.5s ease;
+				span{
+					display: inline-block;
+					line-height: 1;
+					&.flaticon-balance-3{
+						&:before{
+							margin-left: 14px;
+						}
+					}
+					&:before{
+						margin: 0;
+						font-size: 60px;
+						display: inline-block;
+					}
+					&.flaticon-money-bag-2{
+						margin-left: 10px;
+					}
+				}
+			}
+			.title{
+				margin: 0;
+				font-size: 22px;
+				line-height: 24px;
+				color: #202b5d;
+				font-weight: 500;
+				a{
+					font-size: 22px;
+					line-height: 24px;
+					color: #202b5d;
+					font-weight: 500;
+				}
+				&:after{
+					content: '';
+					display: block;
+					width: 0px;
+					height: 1px;
+					background: rgba(6, 22, 58, 0.2);
+					margin: 23px auto 0px auto;
+					visibility: hidden;
+					opacity: 0;
+					transition: 0.4s;
+				}
+			}
+		}
+	}
+
+	&.version_3{
+		.items{
+			text-align: center;
+			padding: 32px 25px 54px 25px;
+			box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+			border: none;
+			&:hover{
+				.icon{
+					span{
+						&:before{
+							color: #fff !important;
+						}
+					}
+				}
+				.title{
+					color: #fff;
+					a{
+						color: #fff;
+					}
+					&:after{
+						background: #fff;
+					}
+				}
+				.excerpt{
+					p{
+						color: #fff;
+					}
+				}
+			}
+			.icon{
+				margin-bottom: 3px;
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 100px;
+				height: 100px;
+				background: transparent;
+				border-radius: 50%;
+				transition: 0.4s;
+				span{
+					display: inline-block;
+					line-height: 1;
+					&:before{
+						margin: 0;
+						font-size: 60px;
+						display: inline-block;
+					}
+					&.flaticon-money-bag-2{
+						margin-left: 10px;
+					}
+				}
+			}
+			.title{
+				margin: 0 0 25px 0;
+				font-size: 24px;
+				line-height: 30px;
+				color: #202b5d;
+				font-weight: 500;
+				a{
+					font-size: 24px;
+					line-height: 30px;
+					color: #202b5d;
+					font-weight: 500;
+				}
+				&:after{
+					content: '';
+					display: block;
+					width: 40px;
+					height: 1px;
+					background: rgba(6, 22, 58, 0.2);
+					margin: 14px auto 0px auto;
+					transition: 0.4s;
+				}
+			}
+
+			.excerpt{
+				p{
+					margin: 0;
+					font-size: 17px;
+					line-height: 24px;
+					color: #62718d;
+				}
+			}
+		}
+	}
+	
+}

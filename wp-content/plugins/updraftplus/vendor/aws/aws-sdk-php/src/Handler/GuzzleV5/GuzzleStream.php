@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;GuzzleHttp\Stream\StreamDecoratorTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\updraftplus\vendor\aws\aws-sdk-php\src\Handler\GuzzleV5\GuzzleStream.php</b> on line <b>13</b><br>

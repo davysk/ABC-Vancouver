@@ -1,0 +1,41 @@
+.ova_social {
+	.content {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		a {
+			display: inline-flex;
+			justify-content: center;
+			align-items: center;
+			width: 30px;
+			height: 30px;
+			background: #62718d;
+			border-radius: 50%;
+			&:not(:last-child) {
+				margin-right: 0;
+			}
+			&.ova-framework-social-icon{
+				&:not(:last-child){
+					margin-right: 8px;
+				}
+			}
+			span {
+				position: absolute;
+				top: -10000em;
+				width: 1px;
+				height: 1px;
+				margin: -1px;
+				padding: 0;
+				overflow: hidden;
+				clip: rect(0,0,0,0);
+				border: 0;
+			}
+			i {
+				position: relative;
+				display: block;
+				font-size: 15px;
+				color: #fff;
+			}
+		}
+	}
+}

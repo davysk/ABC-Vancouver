@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\PaymentGateways\PayPalCommerce\Repositories\Traits\HasMode&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\PaymentGateways\PayPalCommerce\Repositories\MerchantDetails.php</b> on line <b>15</b><br>

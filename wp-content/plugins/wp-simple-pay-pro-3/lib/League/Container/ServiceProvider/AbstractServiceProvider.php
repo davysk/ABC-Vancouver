@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;SimplePay\Vendor\League\Container\ContainerAwareTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wp-simple-pay-pro-3\lib\League\Container\ServiceProvider\AbstractServiceProvider.php</b> on line <b>7</b><br>

@@ -1,0 +1,50 @@
+.ova-education{
+	display: flex;
+	flex-wrap: wrap;
+	.dot-education{
+		flex: 0 0 20px;
+		span{
+			display: inline-block;
+			width: 10px;
+			height: 10px;
+			background: #f00;
+			position: relative;
+			border-radius: 50%;
+			&:after{
+				position: absolute;
+				content: '';
+				width: 5px;
+				height: 5px;
+				background: #fff;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%,-50%);
+				border-radius: 50%;
+			}
+		}
+	}
+	.content-education{
+		flex: 0 0 calc(100% - 20px);
+	}
+	.time{
+		font-size: 20px;
+		line-height: 1.2;
+		font-weight: 500;
+		color: #202b5d;
+		margin: 0 0 15px 0;
+	}
+	.position{
+		font-size: 17px;
+		line-height: 26px;
+		color: #202b5d;
+		font-weight: 600;
+		margin: 0 0 2px 0;
+	}
+	.college{
+		font-size: 17px;
+		line-height: 26px;
+		color: #62718d;
+		font-weight: 400;
+		margin: 0 0 0 0;
+	}
+}

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Site_Kit\Core\Util\Method_Proxy_Trait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\google-site-kit\includes\Core\Tracking\REST_Tracking_Consent_Controller.php</b> on line <b>28</b><br>

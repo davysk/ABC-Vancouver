@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\Framework\QueryBuilder\Concerns\WhereClause&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\Framework\QueryBuilder\WhereQueryBuilder.php</b> on line <b>10</b><br>

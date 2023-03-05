@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;phpseclib3\Crypt\EC\Formats\Keys\Common&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wp-seopress\vendor\phpseclib\phpseclib\phpseclib\Crypt\EC\Formats\Keys\XML.php</b> on line <b>40</b><br>

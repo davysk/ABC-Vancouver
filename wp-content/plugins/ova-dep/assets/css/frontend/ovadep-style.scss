@@ -1,0 +1,681 @@
+.ova_archive_dep_slide{
+	.owl-carousel .owl-stage-outer {
+       	margin-right: -20px;
+       	margin-left: -20px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	    width: calc(100% + 40px);
+
+	    @media(max-width: 1290px){
+	    	margin-right: 0px;
+	    	margin-left: 0px;
+	    	padding-left: 0px;
+		    padding-right: 0px;
+		    width: 100%;
+	    }
+	}
+
+	
+	
+	.ova_dep_slide{
+
+		.items.elementor-items{
+			width: 100%;
+			padding: 0;
+			margin: 0 0 50px 0;
+		}
+
+		&.content{
+			margin: 0;
+			.owl-item{
+				
+				.items:hover .wp-item{
+					box-shadow:0px 10px 40px -10px rgba(6, 22, 58, 0.1);
+				}
+				
+				.items{
+					&:hover{
+						.ova-content{
+							top: 0px;
+							background: #fff;
+							.icon{
+								>span{
+									background: transparent;
+									box-shadow: none;
+								}
+							}
+							.title{
+								a{
+									color: #202b5d;
+								}
+							}
+							.descption{
+								opacity: 1;
+							}
+							.readmore{
+								opacity: 1;
+							}
+						}
+					}
+				}
+				.items .wp-item{
+					box-shadow: none;
+					position: relative;
+					overflow: hidden;
+					.ova-media{
+						>a{
+							display: block;
+							background-size: cover;
+							background-position: center center;
+							width: 100%;
+							height: 350px;
+							position: relative;
+							&:after{
+							    content: '';
+							    width: 100%;
+							    height: 50%;
+							    position: absolute;
+							    bottom: 0;
+							    left: 0;
+							    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.8));
+							    z-index: 1;
+							    transition: 0.2s;
+							}
+							img{
+								display: none;
+							}
+
+						}
+					}
+				}
+
+				.ova-content{
+					padding-top: 40px;
+					text-align: left;
+					position: absolute;
+				    top: calc(100% + -199px);
+					left: 0;
+					transition: 0.4s;
+					z-index: 2;
+					width: 100%;
+					height: 100%;
+					.icon{
+						margin: 0;
+						>span{
+							width: unset;
+							height: unset;
+							background: transparent;
+							box-shadow: none;
+							i:before{
+								color: #fff;
+							}
+						}
+					}
+					.title{
+						margin-top: 19px;
+						a{
+							font-size: 24px;
+							line-height: 28px;
+							font-weight: 600;
+							color: #fff;
+							transition: 0.4s;
+						}
+						
+					}
+					.descption{
+						font-size: 17px;
+						line-height: 24px;
+						color: #62718d;
+						opacity: 0;
+						transition: 0.4s;
+					}
+					.readmore{
+						display: inline-flex;
+						width: unset;
+					    padding: 0 25px;
+					    margin-top: 49px;
+					    opacity: 0;
+					    transition: 0.4s;
+					}
+				}
+				
+			}
+		} 
+
+		.owl-dots{
+			text-align: center;
+			margin-top: 2px;
+			.owl-dot{
+				outline: none;
+				span{
+					width: 6px;
+					height: 6px;
+					margin: 5px;
+					background: #d1d1d6;
+					display: block;
+					-webkit-backface-visibility: visible;
+					transition: opacity .2s ease;
+					border-radius: 30px;
+				}
+				&.active{
+					span{
+						width: 12px;
+						border-radius: 5px;
+						opacity: 1;
+					}
+				}
+			}
+		}
+
+
+	}
+}
+.ova_dep_wrap {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 10px;
+	width: 100%;
+	margin-bottom: 40px;
+
+	&.ova_dep_single{
+		@media(max-width: 1024px){
+			flex-direction: column-reverse;
+		}
+
+		@media(max-width: 767px){
+			padding: 0 20px;
+		}
+	}
+	.ova-dep-sidebar{
+		min-width: 317px;
+		flex: 0 0 317px;
+		.ova_info{
+			position: sticky;
+			top: 150px;
+			left: 0;
+			margin-bottom: 70px;
+			@media(max-width: 1024px){
+				position: relative;
+				top: 0;
+				left: 0;
+				max-width: 317px;
+				margin-top: 40px;
+			}
+			.ova-list-dep{
+				background: #f2f2f2;
+				padding: 26px 20px 43px 20px;
+				margin-bottom: 50px;
+				.title-list-dep{
+					display: inline-block;
+					font-size: 24px;
+					line-height: 1.2;
+					font-weight: 600;
+					color: #202b5d;
+					margin: 0 0 16px 0px;
+					i{
+						margin-right: 2px;
+					}
+					svg{
+						width: 20px;
+						margin-right: -2px;
+					}
+				}
+				ul{
+					list-style-type: none;
+					padding: 0;
+					margin: 0;
+					li{
+						padding: 0;
+						position: relative;
+
+						&:before{
+							content: '';
+							position: absolute;
+							top: -1px;
+							left: 0;
+							width: 100%;
+							height: 1px;
+							background: #fff;
+							opacity: 0;
+						}
+						&:after{
+							content: '';
+							position: absolute;
+							bottom: -1px;
+							left: 0;
+							width: 100%;
+							height: 1px;
+							background: #fff;
+							opacity: 0;
+						}
+						&:not(:last-child){
+							border-bottom: 1px solid #e5e5e5;
+						}
+						&.active, &:hover{
+							background: #fff;
+						    /*box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.05);*/
+						    &:before, &:after{
+						    	opacity: 1;
+						    }
+						}
+
+						a{
+							font-size: 18px;
+							line-height: 1.2;
+							color: #202b5d;
+							display: block;
+							padding: 16px 10px 12px 10px;
+						}
+					}
+				}
+			}
+			.dep-file-sidebar{
+				display: flex;
+				flex-wrap: wrap;
+				border: 2px solid #e8e8e8;
+				padding: 20px 15px 16px 28px;
+				margin-bottom: 50px;
+				.icon-attachment{
+					flex: 0 0 42px;
+					i{
+						display: inline-block;
+						line-height: 1;
+						&:before{
+							margin: 0;
+							font-size: 30px;
+							color: #62718d;
+						}
+					}
+				}
+				.ova-file-name-size{
+					flex: 0 0 calc(100% - 42px);
+					margin-top: -2px;
+					.ova-file-name{
+						display: block;
+						margin-bottom: 7px;
+						font-size: 17px;
+						color: #202b5d;
+						line-height: 20px;
+						a{
+							font-size: 17px;
+							color: #202b5d;
+							word-break: break-all;
+						}
+						
+					}
+					.ova-file-size{
+						display: block;
+						font-size: 15px;
+						line-height: 1.2;
+						color: #62718d;
+						.type{
+							text-transform: uppercase;
+						}
+					}
+				}
+			}
+		}
+
+	}
+	.ova_dep_content{
+		width: calc(100% - 317px);
+		padding-left: 80px;
+		@media(max-width: 1024px){
+			width: 100%;
+			padding-left: 0px;
+		}
+		.dep-title{
+			font-size: 30px;
+			line-height: 1.2;
+			letter-spacing: 0.2px;
+			color: #202b5d;
+			font-weight: 600;
+			margin: 0 0 5px 0;
+		}
+		.dep-meta{
+			margin-bottom: 10px;
+			.dep-meta-general{
+				font-size: 16px;
+				line-height: 26px;
+				color: #62718d;
+			}
+			.dep-categories{
+				.cat-dep{
+					a{
+						font-size: 16px;
+						line-height: 26px;
+						color: #202b5d;
+					}
+				}
+			}
+		}
+
+		.ova-list-attachment{
+			list-style-type: none;
+			padding: 0;
+			margin: 0px;
+			li{
+				display: flex;
+				align-items: center;
+				border: 2px solid #e8e8e8;
+				padding: 18px 28px 15px 28px;
+				&:not(:last-child){
+					margin-bottom: 20px;
+				}
+				.icon-attachment{
+					flex: 0 0 44px;
+					i{
+						display: inline-block;
+						line-height: 1;
+						&:before{
+							margin: 0;
+							font-size: 30px;
+							color: #62718d;
+						}
+					}
+				}
+				.ova-file-name-size{
+					flex: 0 0 calc(100% - 144px);
+					padding-right: 10px;
+					.ova-file-name{
+						display: block;
+						font-size: 17px;
+						line-height: 20px;
+						color: #202b5d;
+						word-break: break-all;
+					}
+					.ova-file-size{
+						display: block;
+						font-size: 15px;
+						color: #62718d;
+						text-transform: capitalize;
+					}
+				}
+				.ova-download{
+					flex: 0 0 100px;
+					text-align: right;
+					a{
+						font-size: 17px;
+						line-height: 20px;
+						font-weight: 600;
+						&:hover{
+							color: #0067DA;
+						}
+					}
+				}
+			}
+			
+		}
+		.share_social{
+			padding-top: 55px;
+			border-top: none;
+			border-bottom: 1px solid #eeeeee;
+			padding-bottom: 24px;
+			margin-bottom: 4px;
+		}
+	}
+
+}
+
+.archive_dep{
+
+	&.two_column{
+		.items{
+			width: 33.33%;
+			@media(max-width: 991px){
+				width: 50%;
+			}
+			@media(max-width: 767px){
+				width: 100%;
+			}
+		}
+	}
+	&.three_column{
+		.items{
+			width: 33.33%;
+			@media(max-width: 991px){
+				width: 50%;
+			}
+			@media(max-width: 767px){
+				width: 100%;
+			}
+		}
+	}
+	&.four_column{
+		.items{
+			width: 25%;
+			@media(max-width: 1024px){
+				width: 33.33%;
+			}
+			@media(max-width: 991px){
+				width: 50%;
+			}
+			@media(max-width: 767px){
+				width: 100%;
+			}
+		}
+
+	}
+	.content{
+		
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -15px 10px -15px;
+		width: 100%;
+		.items{
+			padding: 0 15px;
+			margin-bottom: 60px;
+			.wp-item{
+				box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+				height: 100%;
+			}
+			
+			@media(max-width: 767px){
+				max-width: 400px;
+				margin: 0 auto 60px auto;
+			}
+			&:hover{
+				.ova-content{
+					.icon{
+						span{
+							background: #fff;
+							box-shadow: 10px 0 40px rgba(6, 22, 58, 0.1);
+						}
+					}
+				}
+			}
+		}
+		.ova-media{
+
+		}
+		.ova-content{
+			text-align: center;
+			padding: 0 30px 40px 30px;
+			.icon{
+
+				margin-top: -40px;
+				span{
+					width: 80px;
+					height: 80px;
+					display: inline-flex;
+					justify-content: center;
+					align-items: center;
+					border-radius: 50%;
+					transition: 0.4s;
+					i{
+						display: inline-block;
+						line-height: 1;
+						&:before{
+							margin: 0;
+							font-size: 45px;
+							color: #fff;
+						}
+						&.flaticon-money-bag-2, &.flaticon-balance-3{
+							margin: 0 0 0 10px;
+						}
+					}
+
+				}
+			}
+			.title{
+				margin: 0;
+				font-size: 24px;
+				line-height: 30px;
+				color: #202b5d;
+				font-weight: 500;
+				margin-top: 24px;
+				a{
+					font-size: 24px;
+					line-height: 30px;
+					color: #202b5d;
+					font-weight: 500;
+					transition: 0.4s;
+				}
+			}
+			.descption{
+				font-size: 17px;
+				line-height: 24px;
+				color: #62718d;
+				margin-top: 14px;
+			}
+			.readmore{
+				margin-top: 34px;
+				align-items: center;
+				display: flex;
+				justify-content: center;
+				font-size: 16px;
+				line-height: 26px;
+				color: #0067da;
+				letter-spacing: 0.2px;
+				border: 1px solid #e5e5e5;
+				width: 100%;
+				height: 40px;
+				transition: 0.4s;
+				svg{
+					width: 18px;
+					margin-left: 6px;
+				}
+				&:hover{
+					color: #fff;
+				}
+			}
+		}
+	}
+	.blog_pagination{
+		margin: 0px 0 70px 0;
+		width: 100%;
+	}
+
+}
+
+.ova_list_dep{
+
+	&.two_column{
+		.content{
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+	.content{
+		display: grid;
+		grid-gap: 30px;
+		.items{
+			padding: 40px 30px 43px 30px;
+			border: 1px solid #e8e8e8;
+			position: relative;
+			overflow: hidden;
+			&:hover{
+				box-shadow: 10px 0 40px rgba(6, 22, 58, 0.1);
+				.dep-content-sub{
+					display: block;
+				}
+				.icon-dep{
+					top: -67px;
+					margin: 0;
+					opacity: 0;
+				}
+				.title-dep{
+					top: -67px;
+				}
+				.dep-content-sub{
+					top: calc(100% - 117px);
+					opacity: 1;
+				}
+				.icon-dep-hide{
+					bottom: -3px;
+				}
+			}
+		}
+		.icon-dep{
+			margin-bottom: 21px;
+			position: relative;
+			top: 0;
+			opacity: 1;
+			transition: 0.4s;
+			span{
+				display: inline-block;
+				line-height: 1;
+				&:before{
+					margin: 0;
+					font-size: 50px;
+					display: inline-block;
+				}
+			}
+		}
+		.title-dep{
+			margin: 0;
+			font-size: 24px;
+			line-height: 30px;
+			color: #202b5d;
+			font-weight: 500;
+			position: relative;
+			top: 0;
+			transition: 0.4s;
+			a{
+				font-size: 24px;
+				line-height: 30px;
+				color: #202b5d;
+				font-weight: 500;
+			}
+		}
+		.dep-content-sub{
+			opacity: 0;
+			top: 100%;
+			left: 0px;
+			position: absolute;
+			padding: 0px 30px;
+			transition: 0.4s;
+			.dep-excerpt{
+				margin: 0;
+				font-size: 17px;
+				line-height: 24px;
+				margin-bottom: 16px;
+			}
+			.dep-readmore{
+				font-size: 16px;
+				line-height: 26px;
+				letter-spacing: 0.2px;
+				font-weight: 400;
+				color: #0067da;
+				svg{
+					width: 18px;
+				}
+			}
+		}
+		.icon-dep-hide{
+			position: absolute;
+			right: 45px;
+			bottom: -65px;
+			transition: 0.4s;
+			span{
+				&:before{
+					margin: 0;
+					font-size: 60px;
+					color: #202b5d;
+					opacity: 0.1;
+				}
+			}
+		}
+	}
+}
+
+

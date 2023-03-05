@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\Framework\FieldsAPI\Concerns\HasName&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\Framework\FieldsAPI\Group.php</b> on line <b>13</b><br>

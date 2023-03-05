@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 500
+Files info:
+Site URL = http://localhost/kensim
+Data file = D:\Apps\xamp\htdocs\kensim/wp-content/themes/egovt/install_resource/demo_import/demo-content.xml
+Widget file = D:\Apps\xamp\htdocs\kensim/wp-content/themes/egovt/install_resource/demo_import/widgets.wie
+Customizer file = D:\Apps\xamp\htdocs\kensim/wp-content/themes/egovt/install_resource/demo_import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import give_forms_category Childrends
+[WARNING] Failed to import give_forms_category Education
+[WARNING] Failed to import give_forms_category Food
+[WARNING] Failed to import give_forms_category Health
+[WARNING] Failed to import give_forms_category Water
+
+
+---Importing widgets---
+Event Sidebar : 
+
+Custom HTML - No Title - Imported
+Feature Event - Feature Events - Imported
+Categories Event - Categories - Imported
+Upcomming Event - Upcoming Event - Imported
+Gallery - Photo Gallery - Imported
+Tag Event - Tags - Imported
+
+Main Sidebar : 
+
+Custom HTML - No Title - Imported
+Categories - No Title - Imported
+Recent Posts With Thumbnails - Recent News - Imported
+Gallery - Photo Gallery - Imported
+Tag Cloud - Tags - Imported
+Image - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Custom HTML - No Title - Imported
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Featured Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+GiveWP Single Form Sidebar : 
+
+Custom HTML - No Title - Imported
+Categories Give - No Title - Imported
+List Give - No Title - Imported
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\Api\Parser\PayloadParserTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\updraftplus\vendor\aws\aws-sdk-php\src\Api\ErrorParser\JsonParserTrait.php</b> on line <b>11</b><br>

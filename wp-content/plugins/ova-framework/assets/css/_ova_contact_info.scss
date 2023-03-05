@@ -1,0 +1,100 @@
+.ova-contact-info{
+	display: flex;
+	align-items: center;
+	&.type1{
+		.address{
+			a, span{
+				color: #a1aabf;
+			}
+		}
+	}
+
+	&.type2{
+		.icon{
+			margin-right: 15px;
+			svg{
+				width: 28px;
+				height: 28px;
+
+			}
+			i{
+				font-size: 28px;
+
+			}
+		}
+		.address{
+			.sub_text_link{
+				font-size: 15px;
+				line-height: 24px;
+				color: #62718d;
+				display: block;
+			}
+			.text_link{
+				font-size: 20px;
+				line-height: 24px;
+				color: #202b5d;
+				display: block;
+				a{
+					font-size: 20px;
+					line-height: 24px;
+					color: #202b5d;
+				}
+			}
+		}
+	}
+
+	&.type3{
+		.icon{
+			margin-right: 8px;
+			i{
+				font-size: 16px;
+				color: #b0b8c6;
+			}
+		}
+		.address{
+			label{
+				font-size: 17px;
+				line-height: 26px;
+				color: #202b5d;
+				font-weight: 600;
+				margin: 0 5px 0 0;
+			}
+			span, a{
+				font-size: 17px;
+				line-height: 26px;
+				color: #62718d;
+				font-weight: 400;
+			}
+		}
+	}
+	
+	.icon{
+		display: flex;
+		align-items: center;
+		margin-right: 8px;
+		svg{
+			width: 20px;
+			height: 20px;
+		}
+		i{
+			font-size: 20px;
+			color: #62718d;
+		}
+	}
+	.address{
+		a, span{
+			font-size: 15px;
+			line-height: 24px;
+			color: #62718d;
+		}
+		a{
+			> span{
+				font-size: 17px;
+				line-height: 22px;
+				letter-spacing: 0.2px;
+				font-weight: 400;
+				color: #8c96ac;
+			}
+		}
+	}
+}

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;SimplePay\Core\NotificationInbox\NotificationAwareTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wp-simple-pay-pro-3\src\NotificationInbox\NotificationInboxUi.php</b> on line <b>23</b><br>

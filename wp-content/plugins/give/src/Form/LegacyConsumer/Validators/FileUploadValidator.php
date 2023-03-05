@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\Form\LegacyConsumer\Traits\HasFilesArray&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\Form\LegacyConsumer\Validators\FileUploadValidator.php</b> on line <b>17</b><br>

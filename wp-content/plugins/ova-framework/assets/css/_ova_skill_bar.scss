@@ -1,0 +1,41 @@
+.ova-skill-bar {
+  .text-skill-bar {
+    font-size: 17px;
+    line-height: 26px;
+    color: #202b5d;
+    margin-bottom: 13px;
+    letter-spacing: 0.2px;
+  }
+  .cove-killbar {
+    background: #e5e5e9;
+    .skillbar-bar {
+      height:5px;
+      width:0px;
+    }
+  }
+  .skillbar {
+    position:relative;
+    display:block;
+    width:100%;
+    &:not(:last-child) {
+      margin-bottom: 8px;
+    }
+  }
+  .percent {
+    left: 0;
+    display: block;
+    min-height: 26.5px;
+    .relative {
+      position: relative;
+      top: -43px;
+      left: calc(100% - 31px) !important;
+      span {
+        font-size: 15px;
+        line-height: 26px;
+        color: #62718d;
+        letter-spacing: 0.2px;
+      }
+    }
+  }
+}
+

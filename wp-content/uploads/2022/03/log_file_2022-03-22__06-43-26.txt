@@ -1,0 +1,38 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 500
+Files info:
+Site URL = http://localhost/kensim
+Data file = D:\Apps\xamp\htdocs\kensim/wp-content/uploads/2022/03/political.WordPress.2019-07-02.xml
+Widget file = D:\Apps\xamp\htdocs\kensim/wp-content/uploads/2022/03/preview.rigorousthemes.com-political-default-widgets.wie
+Customizer file = D:\Apps\xamp\htdocs\kensim/wp-content/uploads/2022/03/political-era-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Archives - No Title - Imported
+Gallery - Events Photo - Imported
+Categories - No Title - Imported
+Recent Posts - No Title - Imported
+GiveWP - Donation Form - No Title - Imported
+
+Footer Widget : 
+
+Text - Get Involved ! - Imported
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

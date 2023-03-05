@@ -1,0 +1,434 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.6.1"
+
+#: inc/class-customize.php:62
+msgid "2 column"
+msgstr ""
+
+#: inc/class-customize.php:63
+msgid "3 column"
+msgstr ""
+
+#: inc/class-customize.php:64
+msgid "4 column"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:67 inc/class-ova-custom-post-type.php:68
+msgid "Add New Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:28 inc/class-ova-custom-post-type.php:29
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:72
+msgid "Add or remove items"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:102
+msgid "Additional Options"
+msgstr ""
+
+#: templates/archive-por-grid.php:23 templates/archive-por-modern.php:23
+#: templates/archive-por-classic.php:23
+msgid "All"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:63
+msgid "All Category Portfolio"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:27
+msgid "All Portfolio"
+msgstr ""
+
+#: inc/class-customize.php:78
+msgid "Archive Type"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:171
+msgid "Autoplay"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:185
+msgid "Autoplay Speed"
+msgstr ""
+
+#: inc/class-customize.php:118
+msgid "Background Archive Portfolio"
+msgstr ""
+
+#: inc/class-customize.php:131
+msgid "Background Single Portfolio"
+msgstr ""
+
+#: templates/single-por-type3.php:41 templates/single-por-type1.php:36
+#: elementor/widgets/ova_por_slide.php:68
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:62
+msgid "Category Portfolio"
+msgstr ""
+
+#: templates/single-por-type2.php:17
+msgid "Category:"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:73
+msgid "Choose from the most used"
+msgstr ""
+
+#: inc/class-customize.php:83
+msgid "Classic"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:44
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:92
+msgid "Custom Order"
+msgstr ""
+
+#: admin/class-ova-metabox.php:40 templates/single-por-type3.php:45
+#: templates/single-por-type1.php:40
+msgid "Date"
+msgstr ""
+
+#: templates/single-por-type2.php:21
+msgid "Date:"
+msgstr ""
+
+#: admin/class-ova-metabox.php:52 templates/single-por-type3.php:55
+#: templates/single-por-type1.php:50
+msgid "Department"
+msgstr ""
+
+#: templates/single-por-type2.php:31
+msgid "Department:"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:69
+msgid "Edit Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:31
+msgid "Edit Portfolio"
+msgstr ""
+
+#: admin/class-ova-metabox.php:33
+msgid "Gallery"
+msgstr ""
+
+#: inc/class-customize.php:85
+msgid "Grid"
+msgstr ""
+
+#: inc/class-customize.php:147
+msgid "Header Archive"
+msgstr ""
+
+#: inc/class-customize.php:183
+msgid "Header Single"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:91
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:157
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/class-ova-metabox.php:60
+msgid "Insert Number"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:24
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:25
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:78
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:79
+msgid "Items list navigation"
+msgstr ""
+
+#: inc/class-customize.php:57
+msgid "Layout"
+msgstr ""
+
+#: templates/archive-por-grid.php:98 templates/archive-por-modern.php:94
+#: templates/archive-por-classic.php:94
+msgid "Load More"
+msgstr ""
+
+#: admin/class-ova-metabox.php:46 templates/single-por-type3.php:50
+#: templates/single-por-type1.php:45
+msgid "Location"
+msgstr ""
+
+#: templates/single-por-type2.php:26
+msgid "Location:"
+msgstr ""
+
+#: inc/class-customize.php:84
+msgid "Modern"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:30
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:66
+msgid "New Item Name"
+msgstr ""
+
+#: templates/single-por-type3.php:114 templates/single-por-type2.php:107
+#: templates/single-por-type1.php:110
+msgid "Next"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:147
+#: elementor/widgets/ova_por_slide.php:162
+#: elementor/widgets/ova_por_slide.php:176
+#: elementor/widgets/ova_por_slide.php:213
+msgid "No"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:62
+msgid "No content Category found"
+msgstr ""
+
+#: templates/archive-por-grid.php:103 templates/archive-por-modern.php:99
+#: templates/archive-por-classic.php:99
+msgid "No Data"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:77
+msgid "No items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:76
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:35
+msgid "Not found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:36
+msgid "Not found in Trash"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:120
+msgid "Number of Items"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:122
+msgid "Number of Items "
+msgstr ""
+
+#: inc/class-customize.php:40
+msgid "Number of posts per page"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:87
+msgid "OrderBy Post"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme Portfolio"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:64
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:26 inc/class-ova-custom-post-type.php:65
+msgid "Parent Item:"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:142
+msgid "Pause on Hover"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:74
+msgid "Popular Items"
+msgstr ""
+
+#. Description of the plugin
+#: inc/class-customize.php:25 inc/class-ova-custom-post-type.php:22
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-ova-metabox.php:24
+msgid "Portfolio settings"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:22
+msgid "Portfolio Slide"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:92
+msgctxt "Portfolio Slug"
+msgid "cat_por"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:23
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:39
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:60
+msgctxt "Post Type General Name"
+msgid "Category Portfolio"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:20
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:61
+msgctxt "Post Type Singular Name"
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:21
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr ""
+
+#: templates/single-por-type3.php:90 templates/single-por-type2.php:83
+#: templates/single-por-type1.php:86
+msgid "Previous"
+msgstr ""
+
+#: inc/class-ova-get-data.php:35
+msgid "Related Projects"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:34
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:75
+msgid "Search Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:71
+msgid "Separate items with commas"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:134
+msgid "Set how many slides are scrolled per swipe."
+msgstr ""
+
+#: templates/single-por-type1.php:56
+msgid "Share "
+msgstr ""
+
+#: templates/single-por-type3.php:61 templates/single-por-type2.php:58
+msgid "Share Article "
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:208
+msgid "Show Dots"
+msgstr ""
+
+#: inc/class-customize.php:99
+msgid "Single Type"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:132
+msgid "Slides to Scroll"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:199
+msgid "Smart Speed"
+msgstr ""
+
+#: admin/class-ova-metabox.php:58
+msgid "Sort Order"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:110
+msgid "Space between 2 items"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:225
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:78
+msgid "Total"
+msgstr ""
+
+#: inc/class-customize.php:104
+msgid "Type 1"
+msgstr ""
+
+#: inc/class-customize.php:105
+msgid "Type 2"
+msgstr ""
+
+#: inc/class-customize.php:106
+msgid "Type 3"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:50
+msgctxt "URL slug"
+msgid "ova_por"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:32 inc/class-ova-custom-post-type.php:70
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:33
+msgid "View Items"
+msgstr ""
+
+#: elementor/widgets/ova_por_slide.php:146
+#: elementor/widgets/ova_por_slide.php:161
+#: elementor/widgets/ova_por_slide.php:175
+#: elementor/widgets/ova_por_slide.php:212
+msgid "Yes"
+msgstr ""

@@ -1,0 +1,89 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://abcvancouver.ca
+Data file = /www/abcvancouverca_471/public/wp-content/themes/egovt/install_resource/demo_import/demo-content.xml
+Widget file = /www/abcvancouverca_471/public/wp-content/themes/egovt/install_resource/demo_import/widgets.wie
+Customizer file = /www/abcvancouverca_471/public/wp-content/themes/egovt/install_resource/demo_import/customize.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Event Sidebar : 
+
+Custom HTML - No Title - Imported
+Feature Event - Feature Events - Imported
+Categories Event - Categories - Imported
+Upcomming Event - Upcoming Event - Imported
+Gallery - Photo Gallery - Imported
+Tag Event - Tags - Imported
+
+Main Sidebar : 
+
+Custom HTML - No Title - Imported
+Categories - No Title - Imported
+Recent Posts With Thumbnails - Recent News - Imported
+Gallery - Photo Gallery - Imported
+Tag Cloud - Tags - Imported
+Image - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Custom HTML - No Title - Imported
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+Products list - Featured Products - Imported
+Product Tag Cloud - Product tags - Imported
+
+GiveWP Single Form Sidebar : 
+
+Custom HTML - No Title - Imported
+Categories Give - No Title - Imported
+List Give - No Title - Imported
+Image - No Title - Imported
+
+
+
+---Importing widgets---
+Event Sidebar : 
+
+Custom HTML - No Title - Widget already exists
+Feature Event - Feature Events - Widget already exists
+Categories Event - Categories - Widget already exists
+Upcomming Event - Upcoming Event - Widget already exists
+Gallery - Photo Gallery - Widget already exists
+Tag Event - Tags - Widget already exists
+
+Main Sidebar : 
+
+Custom HTML - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Recent Posts With Thumbnails - Recent News - Widget already exists
+Gallery - Photo Gallery - Widget already exists
+Tag Cloud - Tags - Widget already exists
+Image - No Title - Widget already exists
+
+WooCommerce Sidebar : 
+
+Custom HTML - No Title - Widget already exists
+Product Categories - Product categories - Widget already exists
+Filter Products by Price - Filter by price - Widget already exists
+Products list - Featured Products - Widget already exists
+Product Tag Cloud - Product tags - Widget already exists
+
+GiveWP Single Form Sidebar : 
+
+Custom HTML - No Title - Widget already exists
+Categories Give - No Title - Widget already exists
+List Give - No Title - Widget already exists
+Image - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

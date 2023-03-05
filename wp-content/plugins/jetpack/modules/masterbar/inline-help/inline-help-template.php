@@ -1,0 +1,3 @@
+<div class="a8c-faux-inline-help">
+	<a class="a8c-faux-inline-help__button" href="/wp-content/plugins/jetpack/modules/masterbar/inline-help/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in D:\Apps\xamp\htdocs\backup\wp-content\plugins\jetpack\modules\masterbar\inline-help\inline-help-template.php:12_Stack trace:_#0 {main}_  thrown in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\jetpack\modules\masterbar\inline-help\inline-help-template.php</b> on line <b>12</b><br />"></a>
+</div>

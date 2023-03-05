@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Site_Kit_Dependencies\GuzzleHttp\Psr7\StreamDecoratorTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\google-site-kit\third-party\guzzlehttp\psr7\src\InflateStream.php</b> on line <b>19</b><br>

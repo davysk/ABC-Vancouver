@@ -1,0 +1,212 @@
+# Translation of Plugins - Insert Headers and Footers by WPBeginner - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Insert Headers and Footers by WPBeginner - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-13 23:57:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Insert Headers and Footers by WPBeginner - Stable (latest release)\n"
+
+#: views/sidebar.php:116
+msgid "Fix WordPress email deliverability with the best SMTP plugin."
+msgstr "可修正 WordPress 電子郵件寄達率的最佳 SMTP 外掛"
+
+#: views/sidebar.php:115
+msgid "WP Mail SMTP"
+msgstr "WP Mail SMTP"
+
+#: views/sidebar.php:106
+msgid "Best WordPress SEO plugin (used by 3 million sites)."
+msgstr "超過 300 萬個 WordPress 網站採用的最佳 SEO 外掛"
+
+#: views/sidebar.php:105
+msgid "AIOSEO"
+msgstr "AIOSEO"
+
+#: views/sidebar.php:96
+msgid "Get the best Drag & Drop WordPress Website Builder"
+msgstr "取得 WordPress 最佳拖放式網站建置器"
+
+#. translators: $1$s - IHAF plugin name; $2$s - WP.org review link; $3$s -
+#. WP.org review link.
+#: inc/admin/class-review.php:177
+msgid "Please rate %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> to help us spread the word. Thank you from the WPBeginner team!"
+msgstr "請在 <a href=\"%3$s\" target=\"_blank\" rel=\"noopener\">WordPress.org</a> 上將 %1$s <a href=\"%2$s\" target=\"_blank\" rel=\"noopener noreferrer\">評為 5 星</a>，以協助我們的宣傳。WPBeginner 開發團隊先行致謝。"
+
+#: inc/admin/class-review.php:115
+msgid "I already did"
+msgstr "已撰寫過外掛評分"
+
+#: inc/admin/class-review.php:114
+msgid "Nope, maybe later"
+msgstr "不，稍後再說"
+
+#: inc/admin/class-review.php:113
+msgid "Ok, you deserve it"
+msgstr "好，這個外掛值得這個評價"
+
+#: inc/admin/class-review.php:110
+msgid "~ Syed Balkhi<br>Founder of WPBeginner"
+msgstr "~ Syed Balkhi<br>WPBeginner 創辦人"
+
+#: inc/admin/class-review.php:108
+msgid "Hey, I noticed you have been using Insert Headers and Footers for some time - that’s awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "你好，這個網站使用 Insert Headers and Footers 已有一段時間，十分感謝。是否能在 WordPress.org 上給予這個外掛 5 星評分，以便協助我們推廣這個外掛，並讓我們有更多動力繼續開發下去？"
+
+#: ihaf.php:158
+msgid "Sorry, you are not allowed to edit this page."
+msgstr "很抱歉，目前的登入身分沒有編輯這個頁面的權限。"
+
+#: ihaf.php:150
+msgid "Sorry, only have read-only access to this page. Ask your administrator for assistance editing."
+msgstr "很抱歉，目前的登入身分僅有這個頁面的唯讀權限。請洽詢網站管理員以協助編輯。"
+
+#. translators: %s: The `</body>` tag
+#: views/settings.php:57
+msgid "These scripts will be printed above the closing %s tag."
+msgstr "請輸入要插入 %s 結尾標籤前並執行的指令碼。"
+
+#. translators: %s: The `<head>` tag
+#: views/settings.php:45
+msgid "These scripts will be printed just below the opening %s tag."
+msgstr "請輸入要插入 %s 開頭標籤後並執行的指令碼。"
+
+#: views/settings.php:40
+msgid "Scripts in Body"
+msgstr "插入內容的指令碼"
+
+#. translators: %s: The `<head>` tag
+#: views/settings.php:33
+msgid "These scripts will be printed in the %s section."
+msgstr "請輸入要插入 %s 開頭標籤及結尾標籤中並執行的指令碼。"
+
+#: views/sidebar.php:95
+msgid "SeedProd"
+msgstr "SeedProd"
+
+#: views/sidebar.php:86
+msgid "Best WordPress Lead Generation Plugin"
+msgstr "最佳 WordPress 潛在客戶開發外掛"
+
+#: views/sidebar.php:85
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#: views/sidebar.php:76
+msgid "Google Analytics Made Easy for WordPress"
+msgstr "讓 WordPress 網站與 Google Analytics 的整合變簡單"
+
+#: views/sidebar.php:75
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#: views/sidebar.php:66
+msgid "Drag & Drop WordPress Form Builder"
+msgstr "WordPress 拖放式表單輔助設計工具"
+
+#: views/sidebar.php:65
+msgid "WPForms"
+msgstr "WPForms"
+
+#: views/sidebar.php:58
+msgid "Like this plugin? Check out our other WordPress plugins:"
+msgstr "如果這個外掛對網站有幫助，不妨參考我們開發的其他外掛:"
+
+#: views/sidebar.php:54
+msgid "Our WordPress Plugins"
+msgstr "我們的 WordPress 外掛"
+
+#: views/sidebar.php:43
+msgid "Boost Your WordPress SEO"
+msgstr "提升 WordPress 網站的 SEO"
+
+#: views/sidebar.php:38
+msgid "Improve WordPress Security"
+msgstr "改進 WordPress 安全性"
+
+#: views/sidebar.php:33
+msgid "Speed Up WordPress"
+msgstr "為 WordPress 網站提升速度"
+
+#: views/sidebar.php:27
+msgid "Some of our popular guides:"
+msgstr "熱門網站技巧指南:"
+
+#: views/sidebar.php:20
+msgid "WPBeginner blog"
+msgstr "WPBeginner 官方網站"
+
+#. translators: %s: Link to WPBeginner blog
+#: views/sidebar.php:17
+msgid "Want to take your site to the next level? Check out our daily free WordPress tutorials on %s."
+msgstr "想將這個網站提升到新的層次？請參考我們在 %s 提供的每日免費 WordPress 教學。"
+
+#: views/sidebar.php:9
+msgid "Improve Your Site"
+msgstr "網站改進資訊"
+
+#: views/settings.php:65
+msgid "Save"
+msgstr "儲存"
+
+#: views/settings.php:52
+msgid "Scripts in Footer"
+msgstr "插入頁尾的指令碼"
+
+#: views/settings.php:28
+msgid "Scripts in Header"
+msgstr "插入頁首的指令碼"
+
+#: views/settings.php:2 views/settings.php:23
+msgid "Settings"
+msgstr "設定"
+
+#: views/dashboard-notices.php:15
+msgid "to configure the plugin."
+msgstr "以設定外掛。"
+
+#: views/dashboard-notices.php:15
+msgid "Click here"
+msgstr "點擊這裡"
+
+#. translators: %s: Name of this plugin
+#: views/dashboard-notices.php:11
+msgid "Thank you for installing %1$s!"
+msgstr "感謝採用 %1$s！"
+
+#: ihaf.php:173
+msgid "Settings Saved."
+msgstr "設定已儲存。"
+
+#: ihaf.php:164
+msgid "Invalid nonce specified. Settings NOT saved."
+msgstr "指定的一次性密碼無效。設定未儲存。"
+
+#: ihaf.php:161
+msgid "nonce field is missing. Settings NOT saved."
+msgstr "缺少一次性密碼欄位。設定未儲存。"
+
+#: ihaf.php:145
+msgid "Sorry, you are not allowed to access this page."
+msgstr "很抱歉，目前的登入身分沒有存取這個頁面的權限。"
+
+#. Author of the plugin
+msgid "WPBeginner"
+msgstr "WPBeginner"
+
+#. Description of the plugin
+msgid "Allows you to insert code or text in the header or footer of your WordPress blog"
+msgstr "這個外掛能讓網站管理員在 WordPress 網站的頁首或頁尾插入程式碼。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.wpbeginner.com/"
+msgstr "https://www.wpbeginner.com/"
+
+#. Plugin Name of the plugin
+msgid "Insert Headers and Footers"
+msgstr "Insert Headers and Footers"

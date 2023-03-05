@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\S3\EndpointRegionHelperTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\updraftplus\vendor\aws\aws-sdk-php\src\S3\BucketEndpointArnMiddleware.php</b> on line <b>27</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\PaymentGateways\Gateways\Stripe\Traits\FormFieldMarkup&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\PaymentGateways\Gateways\Stripe\Traits\SEPAMandateForm.php</b> on line <b>5</b><br>

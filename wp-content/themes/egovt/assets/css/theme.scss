@@ -1,0 +1,33 @@
+/* --------------------------------------------------------------------------
+ *  Egovt Wordpress Theme - Table of Content
+
+    1.0 General
+    2.0 Typo
+    3.0 Sidebar
+    4.0 404 Page
+    5.0 List Comment
+    6.0 Blog
+    7.0 Responsive
+    8.0 menu
+    9.0 WooCommerce
+    
+
+
+ * -------------------------------------------------------------------------- */
+
+/* Default Style */
+@import 'general';
+
+/* Import Default Menu */
+@import 'menu';
+
+/* Import Woocommerce Style */
+@import 'woo';
+
+/* Custom Style */
+@import 'custom';
+
+@import 'give';
+
+
+

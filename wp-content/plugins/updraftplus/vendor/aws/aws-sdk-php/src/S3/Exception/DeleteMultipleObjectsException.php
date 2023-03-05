@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\HasMonitoringEventsTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\updraftplus\vendor\aws\aws-sdk-php\src\S3\Exception\DeleteMultipleObjectsException.php</b> on line <b>11</b><br>

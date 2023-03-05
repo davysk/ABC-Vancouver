@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Google\Site_Kit\Core\Util\Migrate_Legacy_Keys&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\google-site-kit\includes\Core\Storage\Setting_With_Legacy_Keys_Trait.php</b> on line <b>22</b><br>

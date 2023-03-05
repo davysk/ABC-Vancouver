@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;WPMailSMTP\Vendor\phpseclib3\Crypt\EC\Formats\Keys\Common&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wp-mail-smtp\vendor_prefixed\phpseclib\phpseclib\phpseclib\Crypt\EC\Formats\Keys\XML.php</b> on line <b>38</b><br>

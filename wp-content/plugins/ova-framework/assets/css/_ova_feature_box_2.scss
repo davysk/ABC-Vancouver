@@ -1,0 +1,55 @@
+.ova_feature_box_2{
+	display: block;
+	.ova-content{
+		position: relative;
+		display: block;
+	    box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+	    overflow: hidden;
+	    padding: 30px 25px 37px 25px;
+	    background: #fff;
+	    .wrap-icon{
+	    	position: absolute;
+		    top: -70px;
+		    right: -70px;
+	    }
+		.icon{
+			position: relative;
+			width: 140px;
+			height: 140px;
+			background: rgba(77,85,125,0.6);
+			border-radius: 50%;
+			display: inline-flex;
+			justify-content: center;
+			align-items: center;
+			transition: 0.4s;
+			i{
+				display: inline-flex;
+				line-height: 1;
+				position: absolute;
+				top: 50%;
+				left: 50%;
+		        transform: translate(calc(50% + -65px), calc(50% - 10px));
+				&:before{
+					margin: 0;
+					font-size: 40px;
+					color: #fff;
+				}
+			}
+		}
+		.number{
+			display: block;
+			margin: 0 0 0 0;
+			font-size: 41px;
+			line-height: 1.2;
+			font-weight: 500;
+		}
+		.title{
+			display: block;
+			margin: 0 0 0 0;
+			font-size: 20px;
+			line-height: 30px;
+			font-weight: 600;
+			color: #202b5d;
+		}
+	}
+}

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\PaymentGateways\Stripe\Traits\HasStripeStatementDescriptorText&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\PaymentGateways\Gateways\Stripe\Controllers\UpdateStatementDescriptorAjaxRequestController.php</b> on line <b>13</b><br>

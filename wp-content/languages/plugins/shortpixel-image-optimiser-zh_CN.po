@@ -1,0 +1,2250 @@
+# Translation of Plugins - ShortPixel Image Optimizer - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - ShortPixel Image Optimizer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-03 18:52:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - ShortPixel Image Optimizer - Stable (latest release)\n"
+
+#: class/Controller/EditMediaController.php:233
+msgid "WPML Duplicates"
+msgstr "WPML 复制"
+
+#: class/Controller/EditMediaController.php:234
+msgid "Data"
+msgstr "数据"
+
+#: class/Controller/EditMediaController.php:235
+msgid "Meta"
+msgstr "元"
+
+#: class/Controller/EditMediaController.php:239
+msgid "Backup Folder"
+msgstr "备份文件夹"
+
+#: class/view/settings/part-general.php:47
+msgid "Save settings & validate"
+msgstr "保存设置并验证"
+
+#: class/Controller/EditMediaController.php:131
+msgid "Type: "
+msgstr "类型："
+
+#: class/Controller/EditMediaController.php:140
+msgid "+ %s thumbnails optimized"
+msgstr "+ %s 已优化缩略图"
+
+#: class/Controller/EditMediaController.php:157
+msgid "EXIF kept"
+msgstr "已保存的EXIF "
+
+#: class/Controller/EditMediaController.php:159
+msgid "EXIF removed"
+msgstr "已移除的EXIF"
+
+#: class/Controller/EditMediaController.php:229
+msgid "URL"
+msgstr "链接"
+
+#: class/view/settings/part-statistics.php:70
+msgid "Bandwidth* saved by ShortPixel:"
+msgstr "通过 ShortPixel 节省的带宽*："
+
+#: class/wp-short-pixel.php:2075
+msgid "The file %s cannot be restored due to lack of permissions, please contact your hosting provider to assist you in fixing this."
+msgstr "由于缺少权限，文件%s无法还原，请与您的主机提供商联系以帮助您修复此问题。"
+
+#: class/Tools.php:237
+msgid "Details: recreating image files may require re-optimization of the resulting thumbnails, even if they were previously optimized. Please use <a href=\"https://wordpress.org/plugins/regenerate-thumbnails-advanced/\" target=\"_blank\">reGenerate Thumbnails Advanced</a> instead."
+msgstr "详细信息：重新创建图像文件可能需要对生成的缩略图进行重新优化，即使它们之前已经进行过优化。请改用<a href=\"https://wordpress.org/plugins/regenerate-thumbnails-advanced/\" target=\"_blank\">reGenerate Thumbnails Advanced</a>。"
+
+#: class/Model/ApiKeyModel.php:124
+msgid "Your API Key has been removed"
+msgstr "您的API Key已被删除"
+
+#: class/view/settings/part-nokey.php:21
+msgid "wp-config.php is hiding the API key, but no API key was found. Remove the constant, or define the SHORTPIXEL_API_KEY constant as well"
+msgstr "wp-config.php正在隐藏API key，但是没有找到任何API key。请删除常量，或者同时定义 SHORTPIXEL_API_KEY 常量"
+
+#: class/Controller/View/OtherMediaViewController.php:277
+#: class/view/shortpixel-list-table.php:276
+msgid "File Successfully restored"
+msgstr "文件已成功恢复"
+
+#: class/view/shortpixel_view.php:559
+msgid "Please bear with me. ShortPixel is checking many already optimized images to see if they're OK, so the progress bar could stop for a while."
+msgstr "请耐心等待。ShortPixel 正在检查许多已优化图像以查看它们是否正常，因此进度条可能会停止一段时间。"
+
+#: class/Controller/EditMediaController.php:105
+#: class/view/shortpixel_view.php:1660
+msgid "Restore Image from Backup"
+msgstr "从备份中恢复图像"
+
+#: class/Controller/EditMediaController.php:189
+msgid "To optimize:"
+msgstr "优化对象："
+
+#: class/external/helpscout.php:99
+msgid "Dismiss for now"
+msgstr "暂时不再显示"
+
+#: class/external/helpscout.php:102
+msgid "Never display again"
+msgstr "不再显示"
+
+#: class/external/helpscout.php:107
+msgid "Search through our online documentation."
+msgstr "搜索我们的在线文档。"
+
+#: class/view/view-restore-all.php:48
+msgid "It is strongly recommended to backup your uploads"
+msgstr "强烈建议备份您的上传文件"
+
+#: class/Model/ApiKeyModel.php:213
+msgid "Error during verifying API key: %s"
+msgstr "验证 API key 时出错：%s"
+
+#: class/wp-short-pixel.php:2689
+msgid "Shortpixel Remote API Error: %s"
+msgstr "Shortpixel 远程 API 错误：%s"
+
+#: class/view/settings/part-general.php:175
+msgid "Width"
+msgstr "宽度"
+
+#: class/view/settings/part-general.php:176
+msgid "Height"
+msgstr "高度"
+
+#: class/view/settings/part-nokey.php:26
+msgid "Constant API Key is not verified. Please check if this is a valid API key %s"
+msgstr "未验证常量 API Key 。请检查这是否是有效的 API Key %s"
+
+#: class/view/settings/part-nokey.php:35
+msgid "Join ShortPixel"
+msgstr "加入 ShortPixel "
+
+#: class/view/shortpixel_view.php:256
+msgid "Restoring completed"
+msgstr "恢复完成"
+
+#: class/view/shortpixel_view.php:257
+msgid "Your images have been restored"
+msgstr "您的图像已经恢复"
+
+#: class/view/settings/part-general.php:89
+msgid ""
+"<b>Lossless compression: </b> the resulting image is pixel-identical with the original image.</br>Make sure not a single pixel looks different in the optimized image compared with the original.\n"
+"                            In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr ""
+"<b>无损压缩：</b>生成的图像与原始图像像素相同.</br>确保优化后的图像中没有一个像素点与原始图像有所不同。\n"
+"                         在部分罕见的情况下，您需要使用这种类型的压缩。矢量图形中的一些技术图纸或图像是可能的适用情况。"
+
+#: build/shortpixel/log/src/DebugItem.php:35
+msgid "[Data]"
+msgstr "[数据] "
+
+#: class/view/settings/part-advanced.php:196
+#: class/view/settings/part-general.php:139
+msgid "Warning - Converting from PNG to JPG will %s not %s keep the EXIF-information!"
+msgstr "警告 - 从PNG格式转换到JPG格式将%s 不会 %s 保留EXIF信息！"
+
+#: class/view/settings/part-advanced.php:327
+msgid ""
+"Add patterns separated by comma. A pattern consist of a <strong>type:value</strong> pair; the accepted types are\n"
+"                                  <strong>\"name\"</strong>, <strong>\"path\"</strong> and <strong>\"size\"</strong>.\n"
+"                                   A file will be excluded if it matches any of the patterns.\n"
+"                                   <br>For a <strong>\"name\"</strong> pattern only the filename will be matched but for a <strong>\"path\"</strong>,\n"
+"                                   all the path will be matched (useful for excluding certain subdirectories altoghether).\n"
+"                                   For these you can also use regular expressions accepted by preg_match, but without \",\" or \":\".\n"
+"                                   A pattern will be considered a regex if it starts with a \"/\" and is valid.\n"
+"                                   <br>For the <strong>\"size\"</strong> type,\n"
+"                                   which applies only to Media Library images, <strong>the main images (not thumbnails)</strong> that have the size in the specified range will be excluded.\n"
+"                                   The format for the \"size\" exclude is: <strong>minWidth</strong>-<strong>maxWidth</strong>x<strong>minHeight</strong>-<strong>maxHeight</strong>, for example <strong>size:1000-1100x2000-2200</strong>. You can also specify a precise size, as <strong>1000x2000</strong>."
+msgstr ""
+"添加用逗号分隔的模式。模式由<strong>类型：值</strong>对组成；可接受的类型为\n"
+"                          <strong>\"名称\"</strong>, <strong>\"路径\"</strong> and <strong>\"尺寸\"</strong>。\n"
+"                          如果某个文件与任何模式匹配，其将被排除。\n"
+"                          <br>对于<strong>\"名称\"</strong>模式，只会进行文件名匹配，但对于<strong>\"路径\"</strong>模式，\n"
+"                          所有路径都将进行匹配（用于排除其他子目录）。\n"
+"                          对于这些模式，您也可以使用 preg_match 接受的正则表达式，但不使用\",\" 或\":\"。\n"
+"                          如果模式以“/”开头并且有效，则它将被视为正则表达式。\n"
+"                          <br>对于 <strong>\"尺寸\"</strong>类型，\n"
+"                          其仅适用于媒体库图像，尺寸在指定范围内的<strong>主图像（非缩略图）</strong> 将被排除。\n"
+"                          \"size\" 排除的格式为:<strong>最小宽度</strong>-<strong>最大宽度</strong>x<strong>最小高度</strong>-<strong>最大高度</strong>，例如<strong>尺寸：1000-1100x2000-2200</strong>。您也可以指定精确的尺寸，如 <strong>1000x2000</strong>。"
+
+#: class/view/settings/part-debug.php:9
+msgid "Debug"
+msgstr "调试"
+
+#: class/view/settings/part-debug.php:14
+msgid "Environment"
+msgstr "环境"
+
+#: class/view/settings/part-debug.php:29
+msgid "Settings"
+msgstr "设置"
+
+#: class/view/settings/part-debug.php:36
+msgid "Quota Data"
+msgstr "配额数据"
+
+#: class/view/settings/part-general.php:78
+msgid "<a href=\"https://shortpixel.com/online-image-compression\" style=\"margin-left:20px;\" target=\"_blank\">Make a few tests</a> to help you decide."
+msgstr "<a href=\"https://shortpixel.com/online-image-compression\" style=\"margin-left:20px;\" target=\"_blank\">进行一些测试</a>来帮助你决定。"
+
+#: class/wp-short-pixel.php:2459
+msgid "Unspecified Error on Thumbnails for: "
+msgstr "缩略图出现未指定的错误："
+
+#: class/view/settings/part-advanced.php:132
+#: class/view/shortpixel_view.php:1155
+msgid "Add a custom folder"
+msgstr "添加自定义文件夹"
+
+#: class/view/settings/part-advanced.php:140
+#: class/view/shortpixel_view.php:1163
+msgid "Add this Folder"
+msgstr "添加此文件夹"
+
+#: class/Controller/View/OtherMediaViewController.php:609
+#: shortpixel_api.php:112
+msgid "Invalid API Key"
+msgstr "无效的API Key"
+
+#: class/Tools.php:74
+msgid "%s from now"
+msgstr "%s后"
+
+#: class/Tools.php:76
+msgid "%s ago"
+msgstr "%s前"
+
+#: class/view/view-restore-all.php:9
+msgid "Are you sure you want to restore from backup all the images optimized with ShortPixel?"
+msgstr "您确定要从备份中恢复使用ShortPixel优化的所有映像吗？"
+
+#: class/view/view-restore-all.php:11
+msgid "Please read carefully. This function will: "
+msgstr "请仔细阅读。该功能将："
+
+#: class/view/view-restore-all.php:13
+msgid "Remove all optimized images from media library"
+msgstr "从媒体库删除所有优化的图像"
+
+#: class/view/view-restore-all.php:18
+msgid "Select which Custom Media Folders to restore"
+msgstr "选择要还原的自定义媒体文件夹"
+
+#: class/view/view-restore-all.php:36
+msgid "To continue and agree with the warning, please check the correct value below"
+msgstr "要继续并同意警告，请检查下面的正确值"
+
+#: class/view/view-restore-all.php:44
+msgid "Back"
+msgstr "返回"
+
+#: class/view/view-restore-all.php:45
+msgid "Bulk Restore"
+msgstr "批量恢复"
+
+#: class/Controller/View/OtherMediaViewController.php:140
+#: class/view/shortpixel-list-table.php:35
+msgid "Date"
+msgstr "日期"
+
+#: class/Controller/View/OtherMediaViewController.php:113
+#: class/view/shortpixel-list-table.php:85
+msgid "Compare"
+msgstr "比较"
+
+#: class/Controller/View/OtherMediaViewController.php:618
+#: class/view/shortpixel-list-table.php:128
+msgid "Restore Pending"
+msgstr "恢复挂起 "
+
+#: class/view/shortpixel_view.php:188 class/view/shortpixel_view.php:478
+msgid "Bulk Restore Images"
+msgstr "批量恢复图像"
+
+#: class/view/settings/part-general.php:75 class/view/shortpixel_view.php:915
+msgid "Make sure not a single pixel looks different in the optimized image compared with the original. In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr "确保优化图像中没有一个像素看起来与原始图像不同。在一些罕见的情况下，您需要使用这种类型的压缩方式。矢量图形中的一些技术图纸或图像是可能的适用情况。"
+
+#: class/view/settings/part-general.php:194
+#: class/view/settings/part-general.php:252 class/view/shortpixel_view.php:999
+msgid "What is this?"
+msgstr "这是什么？"
+
+#: class/view/settings/part-general.php:50 class/view/shortpixel_view.php:888
+msgid "Your API key is valid."
+msgstr "您的 API key无效"
+
+#: class/view/settings/part-general.php:69 class/view/shortpixel_view.php:909
+msgid "This is the recommended option in most cases, producing results that look the same as the original to the human eye."
+msgstr "在大多数情况下，这是推荐选项，生成的结果在人眼看来与原始图像相同。"
+
+#: class/view/settings/part-general.php:72 class/view/shortpixel_view.php:912
+msgid "Best option for photographers and other professionals that use very high quality images on their sites and want best compression while keeping the quality untouched."
+msgstr "摄影师和其他专业人士的最佳选择，他们在自己的网站上使用非常高质量的图像，希望在保持质量不变的情况下获得最佳压缩效果。"
+
+#: class/wp-short-pixel.php:391
+msgid ""
+"Warning: Using this method alters the structure of the rendered HTML code (IMG tags get included in PICTURE tags),\n"
+"which in some rare cases can lead to CSS/JS inconsistencies.\n"
+"\n"
+"Please test this functionality thoroughly after activating!\n"
+"\n"
+"If you notice any issue, just deactivate it and the HTML will will revert to the previous state."
+msgstr ""
+"警告：使用此方法会改变渲染HTML代码的结构（IMG标签包含在PICTURE标签中），\n"
+"这在一些罕见的情况下会导致CSS/JS不一致。\n"
+"\n"
+"激活后，请彻底测试此功能！\n"
+"\n"
+"如果您注意到任何问题，只要停用它，网页就会恢复到之前的状态。"
+
+#: class/view/settings/part-advanced.php:256
+#: class/view/shortpixel_view.php:1254
+msgid "You can revert anytime to the previous state by just deactivating the option."
+msgstr "您可以随时通过停用该选项恢复到以前的状态。"
+
+#: class/view/settings/part-advanced.php:184
+#: class/view/shortpixel_view.php:1207
+msgid "The image will NOT be converted if the resulting JPEG is larger than the original PNG."
+msgstr "如果生成的JPEG图像大于原始PNG图像，则不会进行转换。"
+
+#: class/wp-short-pixel.php:392
+msgid "This option will serve both WebP and the original image using the same URL, based on the web browser capabilities, please make sure you're serving the images from your server and not using a CDN which caches the images."
+msgstr "此选项将基于网页浏览器功能，使用相同的网址为网页和原始图像提供服务，请确保您是从服务器提供图像，而非使用缓存图像的CDN。"
+
+#: class/view/settings/part-advanced.php:31 class/view/shortpixel_view.php:1059
+msgid "Based on testing your particular hosting configuration, we determined that your server"
+msgstr "基于对您特定主机配置的测试，我们确定您的服务器"
+
+#: class/view/settings/part-advanced.php:33 class/view/shortpixel_view.php:1061
+msgid "serve the WEBP versions of the JPEG files seamlessly, via .htaccess."
+msgstr "通过. htaccess无缝地提供JPEG文件的WEBP版本。"
+
+#: class/view/settings/part-advanced.php:189
+#: class/view/shortpixel_view.php:1211
+msgid "Also force the conversion of images with transparency."
+msgstr "还可以强制转换具有透明度的图像。"
+
+#: class/view/settings/part-advanced.php:247
+#: class/view/shortpixel_view.php:1245
+msgid "Using the &lt;PICTURE&gt; tag syntax"
+msgstr "使用&lt;PICTURE&gt;标签语法"
+
+#: class/view/settings/part-statistics.php:77
+#: class/view/shortpixel_view.php:1519
+msgid "Your ShortPixel Credits"
+msgstr "您的ShortPixel积分"
+
+#: class/view/settings/part-advanced.php:251
+#: class/view/shortpixel_view.php:1249
+msgid "After the option to work on .htaccess was selected, the .htaccess file has become unaccessible / readonly. Please make the .htaccess file writeable again to be able to further set up this option."
+msgstr "在选项生效后，.htaccess被选定，.htaccess文件已变为不可访问/只读。请将.htaccess文件改为可再次写入，以便能够进一步设置此选项。"
+
+#: class/view/settings/part-advanced.php:262
+#: class/view/shortpixel_view.php:1260
+msgid "Only via Wordpress hooks (like the_content, the_excerpt, etc)"
+msgstr "仅通过Wordpress钩子（如内容、摘录等）"
+
+#: class/view/settings/part-advanced.php:268
+#: class/view/shortpixel_view.php:1266
+msgid "Global (processes the whole output buffer before sending the HTML to the browser)"
+msgstr "全局（在向浏览器发送HTML之前处理整个输出缓冲区）"
+
+#: class/view/settings/part-advanced.php:307
+#: class/view/shortpixel_view.php:1303
+msgid "Also optimize the unlisted thumbs if found."
+msgstr "同时优化未列出的缩略图（如找到）。"
+
+#: class/view/settings/part-statistics.php:64
+#: class/view/shortpixel_view.php:1506
+msgid "Disk space saved by ShortPixel:"
+msgstr "ShortPixel节省的磁盘空间："
+
+#: class/view/settings/part-statistics.php:95
+#: class/view/settings/part-statistics.php:109
+#: class/view/shortpixel_view.php:1537 class/view/shortpixel_view.php:1551
+msgid "Consumed: "
+msgstr "已消费："
+
+#: class/view/settings/part-statistics.php:97
+#: class/view/settings/part-statistics.php:111
+#: class/view/shortpixel_view.php:1539 class/view/shortpixel_view.php:1553
+msgid "; Remaining: "
+msgstr "；剩余："
+
+#: class/view/settings/part-statistics.php:103
+#: class/view/shortpixel_view.php:1545
+msgid "Your One Time credits:"
+msgstr "您的一次性积分："
+
+#: class/view/settings/part-statistics.php:106
+#: class/view/shortpixel_view.php:1548
+msgid "Total: "
+msgstr "总计："
+
+#: class/view/settings/part-statistics.php:131
+#: class/view/shortpixel_view.php:1565
+msgid "Credits consumed on"
+msgstr "积分消费"
+
+#: class/view/shortpixel_view.php:1053
+msgid "It looks like you recently moved from an Apache server to an NGINX server, while the option to use .htacces was in use. Please follow this tutorial to see how you could implement by yourself this functionality, outside of the WP plugin. "
+msgstr "似乎您最近从Apache服务器转移到了NGINX服务器，而使用.htacces的选项正在使用中。请遵循本教程，查看如何在WP插件之外自行实现此功能。"
+
+#: class/view/settings/part-advanced.php:27 class/view/shortpixel_view.php:1055
+msgid "It looks like your .htaccess file cannot be written. Please fix this and then return to refresh this page to enable this option."
+msgstr "似乎您的.htaccess文件夹无法进行写入。请修复此问题，然后返回刷新此页面以启用此选项。"
+
+#: class/view/shortpixel_view.php:1224
+msgid "WebP Images:"
+msgstr "WebP图像："
+
+#: class/view/shortpixel_view.php:1239
+msgid "Deliver the WebP versions of the images in the front-end:"
+msgstr "在前端交付图像的WebP版本："
+
+#: class/view/settings/part-advanced.php:276
+#: class/view/shortpixel_view.php:1274
+msgid "Without altering the page code (via .htaccess)"
+msgstr "不改变页面代码（通过.htaccess）"
+
+#: class/Controller/AdminNoticesController.php:506
+msgid "You currently have <strong>%d images and thumbnails to optimize</strong> but you only have <strong>%d images</strong> available in your current plan. You might need to upgrade your plan in order to have all your images optimized."
+msgstr "您当前有<strong>%d个图像和缩略图要优化</strong> ，但您当前的计划中只有<strong>%d个图像</strong>可用。您可能需要升级您的计划，以便优化您的所有的图像。"
+
+#: class/view/shortpixel_view.php:143 class/view/shortpixel_view.php:151
+msgid "(Originals and thumbnails)"
+msgstr "（原件和缩略图）"
+
+#: class/view/shortpixel_view.php:667
+msgid "All media"
+msgstr "所有媒体"
+
+#: class/view/shortpixel_view.php:674
+msgid "Resume: "
+msgstr "恢复："
+
+#: class/view/settings/part-advanced.php:18 class/view/shortpixel_view.php:1047
+msgid "It looks like you're running your site on an NginX server. This means that you can only achieve this functionality by directly configuring the server config files. Please follow this link for instructions on how to achieve this:"
+msgstr "似乎您正在NginX服务器上运行您的站点。这意味着您只能通过直接配置服务器配置文件来实现此功能。请查看此链接获取如何实现这一点的说明："
+
+#: class/view/shortpixel-feedback.php:79
+msgid "<span>Submit&nbsp;and&nbsp;</span>Deactivate"
+msgstr "<span>提交t&nbsp;和&nbsp;</span>停用"
+
+#: class/Controller/AdminNoticesController.php:462
+msgid "In order to start the optimization process, you need to validate your API Key in the <a href=\"options-general.php?page=wp-shortpixel-settings\">ShortPixel Settings</a> page in your WordPress Admin."
+msgstr "为了开始优化过程，您需要在WordPress管理的<a href=\"options-general.php?page=wp-shortpixel-settings\">ShortPixel 设置</a>页面中验证您的API Key。"
+
+#: class/Controller/AdminNoticesController.php:516
+msgid "You are adding an average of <strong>%d images and thumbnails every month</strong> to your Media Library and you have <strong>a plan of %d images/month</strong>. You might need to upgrade your plan in order to have all your images optimized."
+msgstr "您每月平均向媒体库添加<strong>%d个图像和缩略图</strong>，而您拥有<strong>%d个图像/月的计划</strong>。您可能需要升级您的计划，以便优化您的所有映像。"
+
+#: class/view/settings/part-advanced.php:183
+#: class/view/shortpixel_view.php:1206
+msgid "Converts all PNGs that don't have transparent pixels to JPEG. This can dramatically reduce the file size, especially if you have camera pictures that are saved in PNG format. The plugin will also search for references of the image in posts and will replace them."
+msgstr "将所有没有透明像素的PNG图片转换为JPEG图片。这可以显著减小文件大小，当您有保存为PNG格式的相机图片尤为如此。插件还会在文章中搜索图片参考并替换它们。"
+
+#: class/view/settings/part-cloudflare.php:15
+#: class/view/shortpixel_view.php:1407
+msgid "Please enable PHP cURL extension for the Cloudflare integration to work."
+msgstr "请为Cloudflare集成启用PHP cURL扩展。"
+
+#: shortpixel_api.php:401
+msgid "Error in archive - incorrect file size (downloaded: %s, correct: %s )"
+msgstr "存档错误-文件大小不正确（下载：%s，正确：%s）"
+
+#: class/wp-short-pixel.php:366
+msgid "Re-optimize Lossy"
+msgstr "有损重新优化"
+
+#: class/wp-short-pixel.php:367
+msgid "Re-optimize Glossy"
+msgstr "光泽重新优化"
+
+#: class/wp-short-pixel.php:368
+msgid "Re-optimize Lossless"
+msgstr "无损重新优化"
+
+#: class/wp-short-pixel.php:369
+msgid "Restore Originals"
+msgstr "恢复原始图片"
+
+#: class/view/shortpixel-feedback.php:68
+msgid "Un-check this if you don\\'t plan to use ShortPixel in the future on this website. You might also want to run a Bulk Delete SP Metadata before removing the plugin (Media Library -> Bulk ShortPixel)."
+msgstr "如果您不打算将来在此网站上使用ShortPixel，请取消选中此项。您可能还想在删除插件之前运行批量删除SP元数据（媒体库->批量ShortPixel）。"
+
+#: class/view/shortpixel-feedback.php:70
+msgid "Keep the ShortPixel settings on plugin deletion."
+msgstr "插件删除时保留ShortPixel 设置。"
+
+#: class/view/shortpixel-feedback.php:76
+msgid "If you UNCHECK this then your email address will be sent along with your feedback. This can be used by ShortPixel to get back to you for more info or a solution."
+msgstr "如果您取消选中此项，您的电子邮件地址将与您的反馈一起发送。ShortPixel可以使用它来获取更多信息或解决方案。"
+
+#: class/view/shortpixel-feedback.php:77
+msgid "Send anonymous"
+msgstr "匿名发送"
+
+#: class/view/shortpixel-feedback.php:73
+msgid "Submitting form"
+msgstr "提交格式"
+
+#: class/view/shortpixel-feedback.php:172
+msgid "What was the dificult part ?"
+msgstr "最难使用的部分是什么？"
+
+#: class/view/shortpixel-feedback.php:173
+msgid "What can we describe more ?"
+msgstr "我们还能描述些什么？"
+
+#: class/view/shortpixel-feedback.php:174
+#: class/view/shortpixel-feedback.php:284
+msgid "How could we improve ?"
+msgstr "我们应如何改进？"
+
+#: class/view/shortpixel-feedback.php:175
+msgid "Can you mention it ?"
+msgstr "您是否能具体指出？"
+
+#: class/view/shortpixel-feedback.php:176
+msgid "With what plugin or theme is incompatible ?"
+msgstr "与什么插件或主题不兼容？"
+
+#: class/view/shortpixel-feedback.php:177
+msgid "Please specify"
+msgstr "请具体说明"
+
+#: class/view/shortpixel-feedback.php:274
+msgid "Sorry to see you go"
+msgstr "很遗憾与您分别"
+
+#: class/view/shortpixel-feedback.php:275
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "在您停用插件之前，您能快速提供给我们您这样做的理由吗？"
+
+#: class/view/shortpixel-feedback.php:277
+msgid "Set up is too difficult"
+msgstr "设置太难了"
+
+#: class/view/shortpixel-feedback.php:278
+msgid "Lack of documentation"
+msgstr "缺乏文件"
+
+#: class/view/shortpixel-feedback.php:279
+msgid "Not the features I wanted"
+msgstr "不是我想要的功能"
+
+#: class/view/shortpixel-feedback.php:280
+msgid "Found a better plugin"
+msgstr "已找到更好的插件"
+
+#: class/view/shortpixel-feedback.php:281
+msgid "Incompatible with theme or plugin"
+msgstr "与主题或插件不兼容"
+
+#: class/view/shortpixel-feedback.php:282
+msgid "Other"
+msgstr "其他"
+
+#: class/view/settings/part-nokey.php:72 class/view/shortpixel_view.php:845
+msgid "I have read and I agree to the <a href=\"https://shortpixel.com/tos\" target=\"_blank\">Terms of Service</a> and the <a href=\"https://shortpixel.com/privacy\" target=\"_blank\">Privacy Policy</a> (<a href=\"https://shortpixel.com/privacy#gdpr\" target=\"_blank\">GDPR compliant</a>)."
+msgstr "我已经阅读并同意 <a href=\"https://shortpixel.com/tos\" target=\"_blank\">《服务条款》</a>和 <a href=\"https://shortpixel.com/privacy\" target=\"_blank\">《隐私政策》</a> (<a href=\"https://shortpixel.com/privacy#gdpr\" target=\"_blank\">GDPR compliant</a>)。"
+
+#: class/view/shortpixel_view.php:1323
+msgid ""
+"Add patterns separated by comma. A pattern consist of a <strong>type:value</strong> pair; the accepted types are\n"
+"                                      <strong>\"name\"</strong>, <strong>\"path\"</strong> and <strong>\"size\"</strong>.\n"
+"                                       A file will be excluded if it matches any of the patterns.\n"
+"                                       <br>For a <strong>\"name\"</strong> pattern only the filename will be matched but for a <strong>\"path\"</strong>,\n"
+"                                       all the path will be matched (useful for excluding certain subdirectories altoghether).\n"
+"                                       For these you can also use regular expressions accepted by preg_match, but without \",\" or \":\".\n"
+"                                       A pattern will be considered a regex if it starts with a \"/\" and is valid.\n"
+"                                       <br>For the <strong>\"size\"</strong> type,\n"
+"                                       which applies only to Media Library images, <strong>the main images (not thumbnails)</strong> that have the size in the specified range will be excluded.\n"
+"                                       The format for the \"size\" exclude is: <strong>minWidth</strong>-<strong>maxWidth</strong>x<strong>minHeight</strong>-<strong>maxHeight</strong>, for example <strong>size:1000-1100x2000-2200</strong>. You can also specify a precise size, as <strong>1000x2000</strong>."
+msgstr ""
+"添加用逗号分隔的模式。模式由<strong>类型：值</strong>对组成；可接受的类型为\n"
+"                          <strong>\"名称\"</strong>, <strong>\"路径\"</strong> and <strong>\"尺寸\"</strong>。\n"
+"                          如果某个文件与任何模式匹配，其将被排除。\n"
+"                          <br>对于<strong>\"名称\"</strong>模式，只会进行文件名匹配，但对于<strong>\"路径\"</strong>模式，\n"
+"                          所有路径都将进行匹配（用于排除其他子目录）。\n"
+"                          对于这些模式，您也可以使用 preg_match 接受的正则表达式，但不使用\",\" 或\":\"。\n"
+"                          如果模式以“/”开头并且有效，则它将被视为正则表达式。\n"
+"                          <br>对于 <strong>\"尺寸\"</strong>类型，\n"
+"                          其仅适用于媒体库图像，尺寸在指定范围内的<strong>主图像（非缩略图）</strong> 将被排除。\n"
+"                          \"size\" 排除的格式为:<strong>最小宽度</strong>-<strong>最大宽度</strong>x<strong>最小高度</strong>-<strong>最大高度</strong>，例如<strong>尺寸：1000-1100x2000-2200</strong>。您也可以指定精确的尺寸，如 <strong>1000x2000</strong>。 "
+
+#: class/wp-short-pixel.php:2055
+msgid "File %s cannot be restored due to lack of permissions, please contact your hosting provider to assist you in fixing this."
+msgstr "由于缺少权限，无法还原文件%s，请与您的主机提供商联系以帮助您修复此问题。"
+
+#: class/wp-short-pixel.php:470
+msgid "Please do not close this admin page."
+msgstr "请不要关闭此管理页面。"
+
+#: class/Controller/EditMediaController.php:203
+msgid "Missing thumbnails:"
+msgstr "缺少缩略图："
+
+#: class/Controller/EditMediaController.php:196
+msgid "Excluded thumbnails:"
+msgstr "排除的缩略图："
+
+#: class/view/settings/part-cloudflare.php:24
+#: class/view/shortpixel_view.php:1441
+msgid "Zone ID:"
+msgstr "区域 ID："
+
+#: class/view/settings/part-cloudflare.php:65
+#: class/view/shortpixel_view.php:1435
+msgid "This can be found when you're logged into your account, on the My Profile page:"
+msgstr "当您登录到您的帐户时，可以在“我的个人资料”页面找到此项："
+
+#: class/view/settings/part-cloudflare.php:77
+#: class/view/shortpixel_view.php:1423
+msgid "The e-mail address you use to login to CloudFlare."
+msgstr "您用于登录CloudFlare的电子邮件地址。"
+
+#: class/view/settings/part-cloudflare.php:71
+#: class/view/shortpixel_view.php:1417
+msgid "Cloudflare E-mail:"
+msgstr "Cloudflare 电子邮箱："
+
+#: class/view/settings/part-cloudflare.php:18
+#: class/view/shortpixel_view.php:1410
+msgid "If you're using Cloudflare on your site then we advise you to fill in the details below. This will allow ShortPixel to work seamlessly with Cloudflare so that any image optimized/restored by ShortPixel will be automatically updated on Cloudflare as well."
+msgstr "如果您在自己的网站上使用Cloudflare，我们建议您填写以下详细信息。这将允许ShortPixel与Cloudflare无缝衔接，因此ShortPixel优化/恢复的任何图像也将在Cloudflare上自动更新。"
+
+#: class/view/settings/part-cloudflare.php:30
+#: class/view/shortpixel_view.php:1447
+msgid "This can be found in your Cloudflare account in the \"Overview\" section for your domain."
+msgstr "您可以在您的域的“简介”部分的Cloudflare帐户中找到此项。"
+
+#: class/view/shortpixel_view.php:1429
+msgid "Global API Key:"
+msgstr "全球API Key："
+
+#: class/view/settings/part-cloudflare.php:8 class/view/shortpixel_view.php:769
+msgid "Cloudflare API"
+msgstr "Cloudflare API "
+
+#: class/view/settings/part-advanced.php:395
+#: class/view/shortpixel_view.php:1370
+msgid "Exclude thumbnail sizes"
+msgstr "排除缩略图尺寸"
+
+#: class/view/settings/part-advanced.php:404
+#: class/view/shortpixel_view.php:1379
+msgid "Please check the thumbnail sizes you would like to <strong>exclude</strong> from optimization. There might be sizes created by themes or plugins which do not appear here, because they were not properly registered with WordPress. If you want to ignore them too, please uncheck the option <strong>Optimize other thumbs</strong> above."
+msgstr "请检查您要从优化中<strong>排除</strong> 的缩略图尺寸。这些尺寸可能为未在此处出现的由主题或插件创建的尺寸，因为它们没有在WordPress中正确注册。如果您也想忽略它们，请取消选中上方的 <strong>优化其他缩略图</strong> 选项。"
+
+#: class/Controller/EditMediaController.php:106
+#: class/view/shortpixel_view.php:1661
+msgid "Cleanup"
+msgstr "清除"
+
+#: class/view/settings/part-nokey.php:81 class/view/shortpixel_view.php:853
+msgid "Already have an API Key:"
+msgstr "已有API Key："
+
+#: class/view/settings/part-nokey.php:84 class/view/shortpixel_view.php:856
+msgid "If you already have an API Key please input it below and press Validate."
+msgstr "如果您已拥有API Key，请在下下方输入并点击验证按钮。"
+
+#: class/view/settings/part-statistics.php:151
+#: class/view/shortpixel_view.php:1582
+msgid "Are you sure you want to delete all the backup images? You won't be able to restore from backup or to reoptimize with different settings if you delete the backups."
+msgstr "您确定要删除所有备份映像吗？如果删除备份，您将无法从备份中恢复或使用不同的设置进行重新优化。"
+
+#: class/view/settings/part-nokey.php:39 class/view/shortpixel_view.php:815
+msgid "Request an API Key:"
+msgstr "请求API Key："
+
+#: class/Controller/AdminNoticesController.php:586
+#: class/view/shortpixel_view.php:64
+msgid "Confirm New Credits"
+msgstr "确认新积分"
+
+#: class/view/shortpixel_view.php:160 class/view/shortpixel_view.php:481
+msgid "Top-up your account to optimize more images."
+msgstr "为您的帐户充值以优化更多图像。"
+
+#: class/wp-short-pixel.php:390
+msgid "Are you sure you want to cleanup the pending metadata?"
+msgstr "您确定要清除挂起的元数据吗？"
+
+#: class/view/settings/part-advanced.php:180
+#: class/view/shortpixel_view.php:1203
+msgid "You need PHP GD for this. Please ask your hosting to install it."
+msgstr "您需要PHP GD来完成此项。请要求您的主机对其进行安装。"
+
+#: class/view/shortpixel_view.php:196 class/view/shortpixel_view.php:487
+msgid "Bulk Delete Pending Metadata"
+msgstr "批量删除挂起元数据"
+
+#: class/view/shortpixel_view.php:374
+msgid "(%s more)"
+msgstr "（%s更多）"
+
+#: class/view/shortpixel_view.php:1692
+msgid "Reduced by X%(unknown)"
+msgstr "减少X%（未知）"
+
+#: class/Controller/AdminNoticesController.php:473
+msgid "The following plugins are not compatible with ShortPixel and may lead to unexpected results: "
+msgstr "以下插件与ShortPixel不兼容，可能会导致意外结果："
+
+#: class/Controller/AdminNoticesController.php:251
+msgid "ShortPixel is not able to write to the uploads folder so it cannot optimize images, please check permissions (tried to create the file %s/.shortpixel-q-1)."
+msgstr "ShortPixel无法写入上载文件夹，因此无法优化图像，请检查权限（尝试创建文件%s/.shortpixel-q-1)。"
+
+#: class/view/settings/part-advanced.php:296
+#: class/view/shortpixel_view.php:1292
+msgid "If you have a Retina plugin that generates Retina-specific images (@2x), ShortPixel can optimize them too, alongside the regular Media Library images and thumbnails."
+msgstr "如果您拥有一个视网膜插件可以生成特定视网膜图像(@2x)，ShortPixel也可以对它们以及常规的媒体库图像和缩略图进行优化。"
+
+#: class/view/settings/part-advanced.php:304
+#: class/view/shortpixel_view.php:1300
+msgid "Optimize other thumbs"
+msgstr "优化其他缩略图"
+
+#: class/view/settings/part-advanced.php:309
+#: class/view/shortpixel_view.php:1305
+msgid "Some plugins create thumbnails which are not registered in the metadata but instead only create them alongside the other thumbnails. Let ShortPixel optimize them as well."
+msgstr "部分插件创建未在元数据中注册的缩略图，而是仅与其他缩略图一起创建。也使用 ShortPixel对其进行优化。"
+
+#: class/Controller/EditMediaController.php:164
+msgid "Converted from PNG"
+msgstr "转化自PNG格式"
+
+#: class/shortpixel-png2jpg.php:450
+msgid "Content Items (Posts, Pages, Custom Post Types, Revisions)"
+msgstr "内容项目（文章、页面、自定义文章类型、修订）"
+
+#: class/shortpixel-png2jpg.php:451
+msgid "Excerpts"
+msgstr "摘要"
+
+#: class/shortpixel-png2jpg.php:452
+msgid "Attachments"
+msgstr "附件"
+
+#: class/shortpixel-png2jpg.php:453
+msgid "Links"
+msgstr "链接"
+
+#: class/shortpixel-png2jpg.php:454
+msgid "Custom Fields"
+msgstr "自定义字段"
+
+#: class/shortpixel-png2jpg.php:455
+msgid "GUIDs"
+msgstr "GUID"
+
+#: class/wp-short-pixel.php:3497
+msgid "Test&nbsp;for&nbsp;free"
+msgstr "免费&nbsp;进行&nbsp;测试"
+
+#: class/Controller/AdminNoticesController.php:583
+#: class/view/shortpixel_view.php:61
+msgid "Go to my account and select a plan"
+msgstr "转至我的帐户并选择一个计划"
+
+#: class/Controller/AdminNoticesController.php:494
+msgid "<p>ShortPixel found thumbnails which are not registered in the metadata but present alongside the other thumbnails. These thumbnails could be created and needed by some plugin or by the theme. Let ShortPixel optimize them as well?</p>"
+msgstr "<p>ShortPixel找到了未在元数据中注册但与其他缩略图一起显示的缩略图。这些缩略图可能被部分插件或主题创建及需求。也使用ShortPixel对其进行优化？</p> "
+
+#: class/Controller/AdminNoticesController.php:495
+msgid "For example, the image"
+msgstr "例如，图像"
+
+#: class/view/settings/part-nokey.php:57 class/view/shortpixel_view.php:832
+msgid "Please provide a valid e-mail address."
+msgstr "请提供一个有效的邮件地址。"
+
+#: class/view/settings/part-nokey.php:63 class/view/shortpixel_view.php:838
+msgid "Please input your e-mail address and press the Request Key button."
+msgstr "请输入您的电子邮件地址，然后按下请求键按钮。"
+
+#: class/view/settings/part-general.php:86 class/view/shortpixel_view.php:926
+msgid "More info about glossy"
+msgstr "关于光泽的更多信息"
+
+#: class/view/settings/part-general.php:180 class/view/shortpixel_view.php:986
+msgid "Read more"
+msgstr "阅读更多"
+
+#: class/wp-short-pixel.php:389
+msgid "Are you sure you want to cleanup the ShortPixel metadata info for the images in your Media Library optimized with ShortPixel? This will make ShortPixel 'forget' that it optimized them and will optimize them again if you re-run the Bulk Optimization process."
+msgstr "您确定要清除使用ShortPixel优化的媒体库中图像的ShortPixel元数据信息吗？这将使ShortPixel'忘记'它对其进行了优化，如果您重新运行批量优化过程，它将再次优化它们。"
+
+#: class/Controller/AdminNoticesController.php:508
+#: class/Controller/AdminNoticesController.php:518
+#: class/Controller/AdminNoticesController.php:581
+#: class/view/shortpixel_view.php:59
+msgid "Show me the best available options"
+msgstr "向我展示最佳选项"
+
+#: class/Controller/AdminNoticesController.php:607
+msgid "Upgrade your ShortPixel account"
+msgstr "升级您的ShortPixel帐户"
+
+#: class/view/shortpixel_view.php:191 class/view/shortpixel_view.php:485
+msgid "Bulk Delete SP Metadata"
+msgstr "批量删除SP元数据"
+
+#: class/view/shortpixel_view.php:640
+msgid "Media Library cleanup in progress ..."
+msgstr "媒体库清理正在进行......"
+
+#: class/view/shortpixel_view.php:641
+msgid "Bulk cleanup has started."
+msgstr "批量清理已经开始。"
+
+#: class/view/settings/part-advanced.php:176
+#: class/view/shortpixel_view.php:1199
+msgid "Convert PNG images to JPEG"
+msgstr "将PNG图像转换为JPEG图像"
+
+#: class/view/settings/part-advanced.php:179
+#: class/view/shortpixel_view.php:1202
+msgid "Automatically convert the PNG images to JPEG if possible."
+msgstr "如可能自动将PNG图像转换为JPEG图像。"
+
+#: class/view/shortpixel_view.php:1761
+msgid "Compare Images"
+msgstr "比较图像"
+
+#: class/wp-short-pixel.php:388
+msgid "Are you sure you want to restore from backup all the images in your Media Library optimized with ShortPixel?"
+msgstr "您确定要从备份中恢复使用ShortPixel优化的媒体库中的所有图像吗？"
+
+#: class/view/shortpixel_view.php:724 class/view/view-settings.php:16
+msgid "FAQ"
+msgstr "常见问题"
+
+#: class/wp-short-pixel.php:3495
+msgid " not processed."
+msgstr "未处理。"
+
+#: class/view/shortpixel_view.php:1253
+msgid "Each &lt;img&gt; will be replaced with a &lt;picture&gt; tag that will also provide the WebP image as a choice for browsers that support it. Also loads the picturefill.js for browsers that don't support the &lt;picture&gt; tag. You don't need to activate this if you're using the Cache Enabler plugin because your WebP images are already handled by this plugin. <strong>Please make a test before using this option</strong>, as if the styles that your theme is using rely on the position of your &lt;img&gt; tag, you might experience display problems."
+msgstr "每一&lt;img&gt;都将被一个&lt;picture&gt;标签代替，标签也将提供WebP图像作为支持其的浏览器的选择。它还为不支持&lt;picture&gt;标签的浏览器加载picturefill.js。如果您正在使用Cache Enabler插件，您不需要激活它，因为您的WebP图像已经由该插件进行处理。<strong>请在使用此选项之前进行测试</strong>，因为如果主题使用的样式依赖于标签的位置，您可能会遇到显示问题。"
+
+#: class/view/settings/part-advanced.php:321
+#: class/view/shortpixel_view.php:1317
+msgid "Exclude patterns"
+msgstr "排除模式"
+
+#: class/view/settings/part-advanced.php:324
+#: class/view/shortpixel_view.php:1320
+msgid "name:keepbig, path:/ignore_regex/i, size:1000x2000"
+msgstr "名称：keepbig，路径：/ignore_regex/I，尺寸：1000x2000 "
+
+#: class/view/settings/part-advanced.php:325
+#: class/view/shortpixel_view.php:1321
+msgid "Exclude certain images from being optimized, based on patterns."
+msgstr "基于不同模式将某些图像排除在优化范围之外。"
+
+#: class/view/shortpixel_view.php:929
+msgid ""
+"<b>Lossless compression: </b> the resulting image is pixel-identical with the original image.</br>Make sure not a single pixel looks different in the optimized image compared with the original.\n"
+"                                In some rare cases you will need to use this type of compression. Some technical drawings or images from vector graphics are possible situations."
+msgstr ""
+"<b>无损压缩：</b>生成的图像与原始图像像素相同。</br>确保优化后的图像中没有一个像素与原始图像有所不同。\n"
+"                              在部分罕见的情况下，您需要使用这种类型的压缩。矢量图形中的一些技术图纸或图像是可能的适用情况。"
+
+#: class/wp-short-pixel.php:1177
+msgid "Restoring images...  "
+msgstr "恢复图像......"
+
+#: class/view/settings/part-general.php:84 class/view/shortpixel_view.php:924
+msgid "<b>Glossy compression: </b>creates images that are almost pixel-perfect identical to the originals.</br> Best option for photographers and other professionals that use very high quality images on their sites and want best compression while keeping the quality untouched."
+msgstr "<b>光泽压缩：</b>创建与原始图像几乎完全一致的图像。</br>摄影师和其他专业人士的最佳选择，他们在自己的网站上使用非常高质量的图像，希望在保持质量不变的情况下获得最佳压缩效果。"
+
+#: class/Controller/View/OtherMediaViewController.php:101
+#: class/view/shortpixel-list-table.php:77
+msgid "Re-optimize glossy"
+msgstr "重新光泽优化"
+
+#: class/view/shortpixel_view.php:413
+msgid "%s images and %s thumbnails were optimized <strong>%s</strong>. "
+msgstr "%s图像和%s缩略图已优化<strong>%s</strong>。"
+
+#: class/view/shortpixel_view.php:416
+msgid "%s images were optimized <strong>%s</strong>. "
+msgstr "%s图像已优化<strong>%s</strong>。"
+
+#: class/view/shortpixel_view.php:482
+msgid "Bulk Restore Media Library"
+msgstr "批量恢复媒体库"
+
+#: class/view/shortpixel_view.php:635
+msgid "Media Library restore in progress ..."
+msgstr "媒体库恢复正在进行......"
+
+#: class/view/shortpixel_view.php:636
+msgid "Bulk restore has started."
+msgstr "批量恢复已开始。"
+
+#: class/view/settings/part-general.php:81 class/view/shortpixel_view.php:921
+msgid "<b>Lossy compression (recommended): </b>offers the best compression rate.</br> This is the recommended option for most users, producing results that look the same as the original to the human eye."
+msgstr "<b>有损压缩（推荐）： </b> 提供最佳压缩率。</br>对于大多数用户来说，这是推荐的选项，生成的结果在人眼看来与原始图像相同。"
+
+#: class/Controller/View/OtherMediaViewController.php:655
+#: class/view/settings/part-general.php:73 class/view/shortpixel_view.php:913
+msgid "Glossy"
+msgstr "光泽"
+
+#: class/view/settings/part-advanced.php:317
+#: class/view/shortpixel_view.php:1313
+msgid "Automatically optimize PDF documents."
+msgstr "自动优化PDF文档。"
+
+#: class/Controller/AdminNoticesController.php:545
+#: class/view/shortpixel_view.php:31
+msgid "Average image<br>reduction so far:"
+msgstr "目前为止的平均图像<br>减少量："
+
+#: class/view/shortpixel_view.php:543
+msgid "The ShortPixel API is in maintenance mode. Please don't close this window. The bulk will resume automatically as soon as the API is back online."
+msgstr "ShortPixel API 处于维护模式。请不要关闭此窗口。一旦 API恢复在线，批量操作将自动恢复。"
+
+#: class/view/shortpixel_view.php:547
+msgid "Too many images processing simultaneously for your site, automatically retrying in 1 min. Please don't close this window."
+msgstr "您的站点同时处理太多图像，将在1分钟后自动重试。请不要关闭此窗口。"
+
+#: class/view/settings/part-advanced.php:314
+#: class/view/shortpixel_view.php:1310
+msgid "Optimize PDFs"
+msgstr "优化PDF文档"
+
+#: class/wp-short-pixel.php:1008 shortpixel_api.php:103 shortpixel_api.php:105
+msgid "Image files are missing."
+msgstr "图像文件丢失。"
+
+#: class/wp-short-pixel.php:1260
+msgid "Searching images to optimize...  "
+msgstr "搜索图像进行优化......"
+
+#: class/view/shortpixel_view.php:529
+msgid "While you wait for your images to optimize, check out Squirrly, a great plugin for further boosting your SEO."
+msgstr "当您等待您的图片进行优化时，查看Squirrly，一个进一步提升您搜索引擎优化的优秀插件。"
+
+#: class/view/settings/part-nokey.php:40 class/view/shortpixel_view.php:816
+msgid "If you don't have an API Key, you can request one for free. Just press the \"Request Key\" button after checking that the e-mail is correct."
+msgstr "如果您没有 API Key，您可以免费进行申请。检查电子邮件是否正确后，只需按“请求键”按钮即可。"
+
+#: class/view/settings/part-nokey.php:45 class/view/shortpixel_view.php:820
+msgid "E-mail address:"
+msgstr "电子邮件地址："
+
+#: class/view/settings/part-nokey.php:50 class/view/shortpixel_view.php:825
+msgid "Request a new API key"
+msgstr "请求新的API Key"
+
+#: class/view/settings/part-nokey.php:54 class/view/shortpixel_view.php:829
+msgid "Request Key"
+msgstr "请求Key"
+
+#: class/view/settings/part-nokey.php:61 class/view/shortpixel_view.php:836
+msgid "<b>%s</b> is the e-mail address in your WordPress Settings. You can use it, or change it to any valid e-mail address that you own."
+msgstr "<b>%s</b>是您的WordPress设置中的电子邮件地址。您可以使用它，或者将其更改为您拥有的任何有效电子邮件地址。"
+
+#: class/view/settings/part-statistics.php:82
+#: class/view/shortpixel_view.php:1524
+msgid "Your monthly plan"
+msgstr "您的月度计划"
+
+#: class/Controller/EditMediaController.php:99
+#: class/view/shortpixel_view.php:1653
+msgid "Cleanup&Retry"
+msgstr "清理并重试"
+
+#: class/wp-short-pixel.php:386
+msgid "Please do not set a {0} less than the {1} of the largest thumbnail which is {2}, to be able to still regenerate all your thumbnails in case you'll ever need this."
+msgstr "请不要将{0}设置为小于最大缩略图{2}的{1}，以便在需要时仍能重新生成所有缩略图。"
+
+#: class/wp-short-pixel.php:387
+msgid "Please do not set a {0} less than 1024, to be able to still regenerate all your thumbnails in case you'll ever need this."
+msgstr "请不要将{0}设置为小于1024，以便在您需要时仍能重新生成所有缩略图。"
+
+#: class/Controller/OtherMediaController.php:66
+msgid "The %s folder cannot be processed as it's not inside the root path of your website (%s)."
+msgstr "无法处理%s文件夹，因为它不在您网站(%s)的根路径内。"
+
+#: class/Controller/OtherMediaController.php:71
+#: class/db/shortpixel-custom-meta-dao.php:243
+msgid "This folder contains the ShortPixel Backups. Please select a different folder."
+msgstr "此文件夹包含ShortPixel备份文件。请选择不同的文件夹。"
+
+#: class/db/shortpixel-custom-meta-dao.php:265
+msgid "Folder already included in %s."
+msgstr "文件夹已经包含在%s中。"
+
+#: class/db/shortpixel-custom-meta-dao.php:268
+msgid "Folder does not exist."
+msgstr "文件夹不存在。"
+
+#: class/db/shortpixel-meta-facade.php:460
+msgid "Error"
+msgstr "错误"
+
+#: class/Controller/OtherMediaController.php:81
+#: class/Model/DirectoryOtherMediaModel.php:274
+msgid "Folder %s is not writeable. Please check permissions and try again."
+msgstr "文件夹%s无法写入。请检查权限，然后重试。"
+
+#: class/view/shortpixel-list-table.php:18 class/wp-short-pixel.php:3494
+msgid "Image"
+msgstr "图像"
+
+#: class/view/shortpixel-list-table.php:19
+msgid "Images"
+msgstr "图像"
+
+#: class/view/shortpixel-list-table.php:32
+msgid "Filename"
+msgstr "文件名"
+
+#: class/Controller/View/OtherMediaViewController.php:133
+#: class/view/shortpixel-list-table.php:33
+msgid "Folder"
+msgstr "文件夹"
+
+#: class/Controller/View/OtherMediaViewController.php:137
+#: class/view/shortpixel-list-table.php:34
+msgid "Type"
+msgstr "类型"
+
+#: class/Controller/EditMediaController.php:231
+#: class/Controller/View/OtherMediaViewController.php:144
+#: class/view/shortpixel-list-table.php:36
+msgid "Status"
+msgstr "状态"
+
+#: class/view/shortpixel-list-table.php:37
+msgid "Options"
+msgstr "选项"
+
+#: class/view/shortpixel-list-table.php:69
+msgid "Optimize"
+msgstr "优化"
+
+#: class/Controller/EditMediaController.php:110
+#: class/Controller/View/OtherMediaViewController.php:95
+#: class/view/shortpixel-list-table.php:71 class/view/shortpixel_view.php:1666
+#: class/wp-short-pixel.php:383
+msgid "Retry"
+msgstr "重试"
+
+#: class/view/shortpixel-list-table.php:81
+msgid "Restore"
+msgstr "恢复"
+
+#: class/Controller/View/OtherMediaViewController.php:97
+#: class/view/shortpixel-list-table.php:73
+msgid "Re-optimize lossless"
+msgstr "重新无损优化"
+
+#: class/Controller/View/OtherMediaViewController.php:99
+#: class/view/shortpixel-list-table.php:75
+msgid "Re-optimize lossy"
+msgstr "重新有损优化"
+
+#: class/Controller/View/OtherMediaViewController.php:103
+#: class/view/shortpixel-list-table.php:79
+msgid "Check quota"
+msgstr "查看配额"
+
+#: class/Controller/View/OtherMediaViewController.php:114
+#: class/view/shortpixel-list-table.php:86
+msgid "View"
+msgstr "查看"
+
+#: class/Controller/View/OtherMediaViewController.php:615
+#: class/view/shortpixel-list-table.php:125
+msgid "Restored"
+msgstr "已恢复"
+
+#: class/Controller/EditMediaController.php:133
+#: class/Controller/View/OtherMediaViewController.php:645
+#: class/view/shortpixel-list-table.php:132
+#: class/view/shortpixel-list-table.php:134 class/view/shortpixel_view.php:1696
+#: class/wp-short-pixel.php:374
+msgid "Bonus processing"
+msgstr "额外处理"
+
+#: class/Controller/EditMediaController.php:128
+#: class/Controller/View/OtherMediaViewController.php:647
+#: class/view/shortpixel-list-table.php:133 class/view/shortpixel_view.php:1693
+#: class/wp-short-pixel.php:373
+msgid "Reduced by"
+msgstr "减少了"
+
+#: class/view/settings/part-advanced.php:83
+#: class/view/settings/part-advanced.php:95
+#: class/view/shortpixel-list-table.php:137 class/view/shortpixel_view.php:1113
+#: class/view/shortpixel_view.php:1120
+msgid "Pending"
+msgstr "待处理"
+
+#: class/view/settings/part-advanced.php:83
+#: class/view/settings/part-advanced.php:95
+#: class/view/shortpixel-list-table.php:139 class/view/shortpixel_view.php:1113
+#: class/view/shortpixel_view.php:1120
+msgid "Waiting"
+msgstr "等待中"
+
+#: class/Controller/View/OtherMediaViewController.php:630
+#: class/view/shortpixel-list-table.php:143
+msgid "code"
+msgstr "代码"
+
+#: class/Controller/View/OtherMediaViewController.php:652
+#: class/view/settings/part-general.php:70 class/view/shortpixel_view.php:910
+msgid "Lossy"
+msgstr "有损"
+
+#: class/Controller/View/OtherMediaViewController.php:658
+#: class/view/settings/part-general.php:76 class/view/shortpixel_view.php:916
+msgid "Lossless"
+msgstr "无损"
+
+#: class/view/shortpixel-list-table.php:156
+msgid "Keep EXIF"
+msgstr "保留EXIF"
+
+#: class/view/shortpixel-list-table.php:157
+msgid "Preserve CMYK"
+msgstr "保存CMYK"
+
+#: class/view/shortpixel-list-table.php:334
+msgid "Show more details"
+msgstr "显示详情"
+
+#: class/view/shortpixel_view.php:614
+msgid "Average reduction"
+msgstr "平均减少量"
+
+#. translators: header of the alert box
+#: class/Controller/AdminNoticesController.php:561
+#: class/Controller/EditMediaController.php:76
+#: class/view/shortpixel_view.php:44 class/view/shortpixel_view.php:1753
+msgid "Quota Exceeded"
+msgstr "配额已超过"
+
+#: class/view/shortpixel_view.php:47 class/wp-short-pixel.php:2569
+msgid "You have no available image credits. If you just bought a package, please note that sometimes it takes a few minutes for the payment confirmation to be sent to us by the payment processor."
+msgstr "您没有可用的图像积分。如果您刚刚购买了某个套餐，请注意，支付处理器有时需要几分钟的时间向我们发送支付确认。"
+
+#: class/Controller/AdminNoticesController.php:569
+#: class/view/shortpixel_view.php:49
+msgid "The plugin has optimized <strong>%s images</strong> and stopped because it reached the available quota limit."
+msgstr "该插件已优化<strong>%s图像</strong>，并已停止运行，因为它已达到可用配额限制。"
+
+#: class/view/shortpixel_view.php:53
+msgid "<strong>%s images and %s thumbnails</strong> are not yet optimized by ShortPixel."
+msgstr "ShortPixel尚未优化的<strong>%s图像和%s缩略图</strong>。"
+
+#: class/Controller/AdminNoticesController.php:584
+#: class/view/shortpixel_view.php:62
+msgid "Upgrade"
+msgstr "升级"
+
+#: class/Controller/AdminNoticesController.php:590
+#: class/view/shortpixel_view.php:67
+msgid "Get more image credits by referring ShortPixel to your friends!"
+msgstr "通过向您的朋友推荐ShortPixel获得更多图像积分！"
+
+#: class/Controller/AdminNoticesController.php:591
+#: class/view/shortpixel_view.php:69
+msgid "Check your account"
+msgstr "查看您的账户"
+
+#: class/Controller/AdminNoticesController.php:592
+#: class/view/shortpixel_view.php:70
+msgid "for your unique referral link. For each user that joins, you will receive +100 additional image credits/month."
+msgstr "专属您的独特推荐链接。对于每个加入的用户，您每月将获得+100额外的图像积分。"
+
+#: class/Controller/AdminNoticesController.php:465
+msgid "If you don’t have an API Key, you can get one delivered to your inbox, for free."
+msgstr "如果您没有API Key，您可以免费获取发送至您的收件箱。"
+
+#: class/view/shortpixel_view.php:511 class/view/shortpixel_view.php:526
+msgid "Dismiss"
+msgstr "不再显示"
+
+#: class/Controller/AdminNoticesController.php:222
+msgid "Action needed. Please <a href='https://shortpixel.com/wp-apikey' target='_blank'>get your API key</a> to activate your ShortPixel plugin."
+msgstr "需要采取行动。请<a href='https://shortpixel.com/wp-apikey' target='_blank'>获取您的API Key</a>来激活您的ShortPixel插件。"
+
+#: class/Controller/AdminNoticesController.php:230
+msgid "Your image gallery is not optimized. It takes 2 minutes to <a href='https://shortpixel.com/wp-apikey' target='_blank'>get your API key</a> and activate your ShortPixel plugin."
+msgstr "您的图像画库没有进行优化。获取<a href='https://shortpixel.com/wp-apikey' target='_blank'>您的API Key</a>并激活您的ShortPixel插件需要2分钟。"
+
+#: class/view/shortpixel_view.php:103
+msgid "Your media library"
+msgstr "您的媒体库"
+
+#: class/view/shortpixel_view.php:104
+msgid "Original images"
+msgstr "原始图像"
+
+#: class/view/shortpixel_view.php:106
+msgid "Smaller thumbnails"
+msgstr "较小的缩略图"
+
+#: class/view/shortpixel_view.php:110 class/view/shortpixel_view.php:456
+msgid "Include thumbnails"
+msgstr "包括缩略图"
+
+#: class/view/shortpixel_view.php:134
+msgid "Total images"
+msgstr "图像总数"
+
+#: class/view/shortpixel_view.php:136
+msgid "Already optimized originals"
+msgstr "已优化的原始图像"
+
+#: class/view/shortpixel_view.php:138
+msgid "Already optimized thumbnails"
+msgstr "已优化的缩略图"
+
+#: class/view/shortpixel_view.php:142 class/view/shortpixel_view.php:150
+msgid "Total to be optimized"
+msgstr "有待优化的总数"
+
+#: class/view/shortpixel_view.php:148
+msgid "Your custom folders"
+msgstr "您的自定义文件"
+
+#: class/view/shortpixel_view.php:168
+msgid "<span class=\"label\">Start Optimizing</span><br> <span class=\"total\">%s</span> images"
+msgstr "<span class=\"label\">开始优化</span><br> <span class=\"total\">%s</span>图像"
+
+#: class/view/shortpixel_view.php:181
+msgid "Nothing to optimize! The images that you add to Media Gallery will be automatically optimized after upload."
+msgstr "无优化对象！您添加到媒体画库中的图像上传后将自动优化。"
+
+#: class/view/shortpixel_view.php:206
+msgid "After you start the bulk process, in order for the optimization to run, you must keep this page open and your computer running. If you close the page for whatever reason, just turn back to it and the bulk process will resume."
+msgstr "启动批量过程后，为了运行优化，您必须保持此页面打开并且使您的计算机保持运行。如果您出于任何原因关闭此页面，只要返回此页面，批量处理就会继续。"
+
+#: class/view/shortpixel_view.php:212
+msgid "What are Thumbnails?"
+msgstr "什么是缩略图？"
+
+#: class/view/shortpixel_view.php:213
+msgid "Thumbnails are smaller images usually generated by your WP theme. Most themes generate between 3 and 6 thumbnails for each Media Library image."
+msgstr "缩略图是通常由您的WP主题生成的较小图像。大多数主题为每个媒体库图像生成3到6个缩略图。"
+
+#: class/view/shortpixel_view.php:214
+msgid "The thumbnails also generate traffic on your website pages and they influence your website's speed."
+msgstr "缩略图也会在您的网站页面上产生流量，它们会影响您网站的速度。"
+
+#: class/view/shortpixel_view.php:215
+msgid "It's highly recommended that you include thumbnails in the optimization as well."
+msgstr "强烈建议您在优化时同时包括缩略图。"
+
+#: class/view/shortpixel_view.php:218
+msgid "How does it work?"
+msgstr "它是如何工作的？"
+
+#: class/view/shortpixel_view.php:219
+msgid "The plugin processes images starting with the newest ones you uploaded in your Media Library."
+msgstr "该插件将从您上传到媒体库的最新图像开始进行处理。"
+
+#: class/view/shortpixel_view.php:220
+msgid "You will be able to pause the process anytime."
+msgstr "您可以随时暂停该过程。"
+
+#: class/view/shortpixel_view.php:221
+msgid "<p>Your original images will be stored in a separate back-up folder.</p>"
+msgstr "<p>您的原始图像将存储在单独的备份文件夹中。</p> "
+
+#: class/view/shortpixel_view.php:222
+msgid "You can watch the images being processed live, right here, after you start optimizing."
+msgstr "开始优化后，您可以在这里实时观看正在处理的图像。"
+
+#: class/view/shortpixel_view.php:228
+msgid "Please see below the optimization status so far:"
+msgstr "请查看以下目前为止的优化状态："
+
+#: class/view/shortpixel_view.php:236
+msgid "You can continue optimizing your Media Gallery from where you left, by clicking the Resume processing button. Already optimized images will not be reprocessed."
+msgstr "您可以通过单击“继续处理”按钮，从您离开的地方继续优化媒体画库。已优化的图像不会重新进行处理。"
+
+#: class/view/shortpixel_view.php:250
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+#: class/view/shortpixel_view.php:251
+msgid "Your media library has been successfully optimized!"
+msgstr "您的媒体库已成功优化！"
+
+#: class/view/shortpixel_view.php:252 class/view/shortpixel_view.php:258
+msgid "Summary"
+msgstr "摘要"
+
+#: class/view/shortpixel_view.php:265
+msgid "Share your optimization results:"
+msgstr "分享您的优化结果："
+
+#: class/view/shortpixel_view.php:285
+msgid "I just #optimized my site's images by "
+msgstr "我刚刚#优化了我网站的图片通过"
+
+#: class/view/shortpixel_view.php:287
+msgid "I just #optimized my site's images "
+msgstr "我刚刚#优化了我网站的图片"
+
+#: class/view/shortpixel_view.php:290
+msgid "with @ShortPixel, a #WordPress image optimization plugin"
+msgstr "同时@ShortPixel，一款#WordPress图像优化插件"
+
+#: class/view/shortpixel_view.php:291
+msgid "Tweet"
+msgstr "发推"
+
+#: class/view/shortpixel_view.php:317
+msgid "Please rate us!"
+msgstr "请评价我们！"
+
+#: class/view/shortpixel_view.php:336
+msgid "The following images could not be processed because of their limited write rights. This usually happens if you have changed your hosting provider. Please restart the optimization process after you granted write rights to all the files below."
+msgstr "由于以下图像的写入权限有限，无法对其进行处理。该情况通常会发生在您更改了您的主机提供商后。授予以下所有文件写入权限后，请重新启动优化过程。"
+
+#: class/view/shortpixel_view.php:231 class/view/shortpixel_view.php:354
+msgid "%s images and %s thumbnails are not yet optimized by ShortPixel."
+msgstr "ShortPixel尚未优化%s图像和%s缩略图。"
+
+#: class/view/shortpixel_view.php:357
+msgid "%s images are not yet optimized by ShortPixel."
+msgstr "ShortPixel尚未优化%s图像。"
+
+#: class/view/shortpixel_view.php:359
+msgid "%s thumbnails are not yet optimized by ShortPixel."
+msgstr "ShortPixel尚未优化%s缩略图。"
+
+#: class/view/shortpixel_view.php:364
+msgid "Some have errors"
+msgstr "部分文件有错误"
+
+#: class/view/shortpixel_view.php:425
+msgid "%s images and %s thumbnails were optimized <strong>%s</strong>. You can re-optimize <strong>%s</strong> the ones that have backup."
+msgstr "%s图像和%s缩略图已优化<strong>%s</strong>。您可以重新优化有备份的<strong>%s</strong>文件。 "
+
+#: class/view/shortpixel_view.php:431
+msgid "%s images were optimized <strong>%s</strong>. You can re-optimize <strong>%s</strong> the ones that have backup. "
+msgstr "%s图像已优化<strong>%s</strong>。您可以重新优化有备份的<strong>%s</strong>文件。"
+
+#: class/view/shortpixel_view.php:434
+msgid " thumbnails will be restored to originals."
+msgstr "缩略图将恢复为原始图像。"
+
+#: class/view/shortpixel_view.php:439
+msgid "Restart the optimization process for these images by clicking the button below."
+msgstr "单击下面的按钮，重新启动这些图像的优化过程。"
+
+#: class/view/shortpixel_view.php:441
+msgid "Restart the optimization process for new images added to your library by clicking the button below."
+msgstr "单击下面的按钮，为添加到库中的新图像重新启动优化过程。"
+
+#: class/view/shortpixel_view.php:444
+msgid "Already  <strong>%s</strong> optimized images will not be reprocessed."
+msgstr "将不重新处理已经优化的<strong>%s</strong>图像。"
+
+#: class/view/shortpixel_view.php:446
+msgid "Please note that reoptimizing images as <strong>lossy/lossless</strong> may use additional credits."
+msgstr "请注意，将图像重新优化为<strong>有损/无损</strong>图像可能会使用额外的积分。"
+
+#: class/view/settings/part-advanced.php:144
+#: class/view/settings/part-advanced.php:218
+#: class/view/settings/part-advanced.php:228
+#: class/view/settings/part-advanced.php:298
+#: class/view/settings/part-advanced.php:338 class/view/shortpixel_view.php:448
+#: class/view/shortpixel_view.php:1167 class/view/shortpixel_view.php:1233
+#: class/view/shortpixel_view.php:1294 class/view/shortpixel_view.php:1334
+msgid "More info"
+msgstr "更多信息"
+
+#: class/view/shortpixel_view.php:480
+msgid "Restart Optimizing"
+msgstr "重新开始优化"
+
+#: class/view/shortpixel_view.php:93 class/view/shortpixel_view.php:502
+#: class/view/view-restore-all.php:5
+msgid "Bulk Image Optimization by ShortPixel"
+msgstr "基于ShortPixel的批量图像优化"
+
+#: class/view/shortpixel_view.php:538
+msgid "Lengthy operation in progress:"
+msgstr "正在进行的长时间操作："
+
+#: class/view/shortpixel_view.php:539
+msgid "Optimizing image"
+msgstr "正在优化图像"
+
+#: class/view/shortpixel_view.php:554
+msgid "Error processing file:"
+msgstr "处理文件时出错："
+
+#: class/view/shortpixel_view.php:564
+msgid "Just optimized:"
+msgstr "最近优化："
+
+#: class/view/shortpixel_view.php:570 class/wp-short-pixel.php:393
+msgid "Original image"
+msgstr "原始图像"
+
+#: class/view/shortpixel_view.php:574 class/wp-short-pixel.php:394
+msgid "Optimized image"
+msgstr "已优化图像"
+
+#. translators: percent follows
+#: class/view/shortpixel_view.php:578
+msgid "Optimized by:"
+msgstr "优化者："
+
+#: class/view/shortpixel_view.php:604
+msgid "Remaining credits"
+msgstr "剩余积分"
+
+#: class/view/shortpixel_view.php:627 class/view/shortpixel_view.php:648
+msgid "Media Library"
+msgstr "媒体库"
+
+#: class/view/shortpixel_view.php:628
+msgid "and"
+msgstr "和"
+
+#: class/view/shortpixel_view.php:629
+msgid "Custom folders"
+msgstr "自定义文件夹"
+
+#: class/view/shortpixel_view.php:630
+msgid "optimization in progress ..."
+msgstr "正在优化......"
+
+#: class/view/shortpixel_view.php:631
+msgid "Bulk optimization has started."
+msgstr "批量优化已开始。"
+
+#: class/view/shortpixel_view.php:643
+msgid ""
+"This process will take some time, depending on the number of images in your library. In the meantime, you can continue using\n"
+"                    the admin as usual, <a href=\"%s\" target=\"_blank\">in a different browser window or tab</a>.<br>\n"
+"                   However, <strong>if you close this window, the bulk processing will pause</strong> until you open the media gallery or the ShortPixel bulk page again."
+msgstr ""
+"此过程将需要一些时间，具体取决于库中的图像数量。同时，您可以像往常一样\n"
+"                 <a href=\"%s\" target=\"_blank\">在不同的浏览器窗口或选项卡中继续使用管理员</a>。<br>                \n"
+"                 但是，<strong>如果关闭此窗口，批量处理将暂停</strong>，直到您再次打开媒体画库或ShortPixel批量页面。"
+
+#: class/view/shortpixel_view.php:648
+msgid "and Custom folders"
+msgstr "和自定义文件夹"
+
+#: class/view/shortpixel_view.php:648
+msgid "optimization paused"
+msgstr "优化暂停"
+
+#: class/view/shortpixel_view.php:649
+msgid "Bulk processing is paused until you resume the optimization process."
+msgstr "批量处理会暂停，直到您恢复优化过程。"
+
+#: class/view/shortpixel_view.php:667
+msgid "Pause"
+msgstr "暂停"
+
+#: class/view/shortpixel_view.php:672
+msgid "Only other media"
+msgstr "仅其他媒体"
+
+#: class/view/shortpixel_view.php:672
+msgid "Process only the other media, skipping the Media Library"
+msgstr "仅处理其他媒体，跳过媒体库"
+
+#: class/view/settings/part-statistics.php:32
+#: class/view/shortpixel_view.php:683
+msgid "Processed Images and PDFs:"
+msgstr "已处理的图像和PDF文档："
+
+#: class/view/settings/part-statistics.php:33
+#: class/view/shortpixel_view.php:684
+msgid "Processed Thumbnails:"
+msgstr "已处理缩略图："
+
+#: class/view/settings/part-statistics.php:34
+#: class/view/shortpixel_view.php:685
+msgid "Total files processed:"
+msgstr "已处理的文件总数："
+
+#: class/view/settings/part-statistics.php:35
+#: class/view/shortpixel_view.php:686
+msgid "Minus files with <5% optimization (free):"
+msgstr "减去优化小于5%的文件（免费）："
+
+#: class/view/settings/part-statistics.php:36
+msgid "Used quota:"
+msgstr "已用配额："
+
+#: class/view/settings/part-statistics.php:38
+#: class/view/shortpixel_view.php:688
+msgid "Average optimization:"
+msgstr "平均优化量："
+
+#: class/view/settings/part-statistics.php:39
+#: class/view/shortpixel_view.php:689
+msgid "Saved space:"
+msgstr "已节省空间："
+
+#: class/view/shortpixel_view.php:718 class/view/view-settings.php:9
+msgid "ShortPixel Plugin Settings"
+msgstr "ShortPixe插件设置"
+
+#: class/view/shortpixel_view.php:723 class/view/view-settings.php:15
+msgid "Upgrade now"
+msgstr "立即升级"
+
+#: class/view/shortpixel_view.php:725 class/view/view-settings.php:17
+msgid "Support"
+msgstr "支持"
+
+#: class/view/settings/part-general.php:4 class/view/shortpixel_view.php:753
+msgid "General"
+msgstr "普通"
+
+#: class/view/settings/part-advanced.php:6 class/view/shortpixel_view.php:759
+msgid "Advanced"
+msgstr "高级"
+
+#: class/view/settings/part-statistics.php:9 class/view/shortpixel_view.php:776
+msgid "Statistics"
+msgstr "数据统计"
+
+#: class/view/settings/part-statistics.php:173
+#: class/view/shortpixel_view.php:784
+msgid "WP Resources"
+msgstr "WP资源"
+
+#: class/view/settings/part-statistics.php:175
+#: class/view/shortpixel_view.php:786
+msgid "Please reload"
+msgstr "请重新加载"
+
+#: class/view/shortpixel_view.php:812
+msgid "New images uploaded to the Media Library will be optimized automatically.<br/>If you have existing images you would like to optimize, you can use the <a href=\"%supload.php?page=wp-short-pixel-bulk\">Bulk Optimization Tool</a>."
+msgstr "上传到媒体库的新图像将自动优化。<br/>如果您有要优化的现有图像，您可以使用<a href=\"%supload.php?page=wp-short-pixel-bulk\">批量优化工具</a>。"
+
+#: class/view/settings/part-general.php:12
+#: class/view/settings/part-nokey.php:94 class/view/shortpixel_view.php:863
+msgid "API Key:"
+msgstr "API Key："
+
+#: class/view/settings/part-general.php:39
+#: class/view/settings/part-nokey.php:113 class/view/shortpixel_view.php:877
+msgid "Multisite API Key"
+msgstr "多站点API Key"
+
+#: class/view/settings/part-general.php:45
+#: class/view/settings/part-nokey.php:119 class/view/shortpixel_view.php:883
+msgid "Validate the provided API key"
+msgstr "验证提供的API key"
+
+#: class/view/settings/part-nokey.php:121 class/view/shortpixel_view.php:885
+msgid "Validate"
+msgstr "验证"
+
+#: class/view/settings/part-general.php:53
+#: class/view/settings/part-nokey.php:125 class/view/shortpixel_view.php:891
+msgid "Key defined in wp-config.php."
+msgstr "在wp-config.php上定义的key。"
+
+#: class/view/settings/part-general.php:64 class/view/shortpixel_view.php:902
+msgid "Compression type:"
+msgstr "压缩类型："
+
+#: class/Model/ApiKeyModel.php:275
+msgid "here"
+msgstr "此处"
+
+#: class/view/settings/part-general.php:105 class/view/shortpixel_view.php:944
+msgid "Also include thumbnails:"
+msgstr "请同时包括缩略图："
+
+#: class/view/settings/part-general.php:107 class/view/shortpixel_view.php:946
+msgid "Apply compression also to <strong>image thumbnails.</strong> "
+msgstr "对<strong>图像缩略图</strong>也应用压缩。"
+
+#: class/view/settings/part-general.php:108 class/view/shortpixel_view.php:947
+msgid "thumbnails to optimize"
+msgstr "要优化的缩略图"
+
+#: class/view/settings/part-general.php:110 class/view/shortpixel_view.php:949
+msgid "It is highly recommended that you optimize the thumbnails as they are usually the images most viewed by end users and can generate most traffic.<br>Please note that thumbnails count up to your total quota."
+msgstr "强烈建议您优化缩略图，因为它们通常是最终用户观看最多的图像，并且可以产生最多的流量。<br>请注意缩略图会计入您的总配额。"
+
+#: class/view/settings/part-general.php:115 class/view/shortpixel_view.php:954
+msgid "Image backup"
+msgstr "图像备份"
+
+#: class/view/settings/part-general.php:118 class/view/shortpixel_view.php:957
+msgid "Save and keep a backup of your original images in a separate folder."
+msgstr "将原始图像的备份保存在单独的文件夹中。"
+
+#: class/view/settings/part-general.php:119 class/view/shortpixel_view.php:958
+msgid "You <strong>need to have backup active</strong> in order to be able to restore images to originals or to convert from Lossy to Lossless and back."
+msgstr "您<strong>需要激活备份</strong>，才能将图像恢复为原始图像，或者从有损格式转换为无损格式以及再转换回来。"
+
+#: class/view/settings/part-advanced.php:200
+#: class/view/shortpixel_view.php:1216
+msgid "CMYK to RGB conversion"
+msgstr "CMYK转换至RGB"
+
+#: class/view/settings/part-advanced.php:203
+#: class/view/shortpixel_view.php:1219
+msgid "Adjust your images' colours for computer and mobile screen display."
+msgstr "为电脑和移动屏幕显示调整您的图像颜色。"
+
+#: class/view/settings/part-advanced.php:204
+#: class/view/shortpixel_view.php:1220
+msgid "Images for the web only need RGB format and converting them from CMYK to RGB makes them smaller."
+msgstr "用于网络的图像只需要RGB格式，将它们从CMYK格式转换为RGB格式会使它们变得更小。"
+
+#: class/view/settings/part-general.php:127 class/view/shortpixel_view.php:962
+msgid "Remove EXIF"
+msgstr "移除EXIF "
+
+#: class/view/settings/part-general.php:130 class/view/shortpixel_view.php:965
+msgid "Remove the EXIF tag of the image (recommended)."
+msgstr "移除图像的EXIF标签（推荐）。"
+
+#: class/view/settings/part-general.php:165 class/view/shortpixel_view.php:971
+msgid "Resize large images"
+msgstr "调整大图像尺寸"
+
+#: class/view/settings/part-general.php:168 class/view/shortpixel_view.php:974
+msgid "to maximum"
+msgstr "最大限度"
+
+#: class/view/settings/part-general.php:171 class/view/shortpixel_view.php:977
+msgid "pixels wide &times;"
+msgstr "像素宽度和时间；"
+
+#: class/view/settings/part-general.php:174 class/view/shortpixel_view.php:980
+msgid "pixels high (original aspect ratio is preserved and image is not cropped)"
+msgstr "像素高（保留原始纵横比，不裁剪图像）"
+
+#: class/view/settings/part-general.php:178 class/view/shortpixel_view.php:984
+msgid "Recommended for large photos, like the ones taken with your phone. Saved space can go up to 80% or more after resizing."
+msgstr "推荐大照片使用，比如用手机拍的照片。调整大小后，节省的空间可高达80%或更多。"
+
+#: class/view/settings/part-general.php:188
+#: class/view/settings/part-general.php:243 class/view/shortpixel_view.php:993
+msgid "Sizes will be greater or equal to the corresponding value. For example, if you set the resize dimensions at 1000x1200, an image of 2000x3000px will be resized to 1000x1500px while an image of 3000x2000px will be resized to 1800x1200px"
+msgstr "尺寸将大于或等于相应的值。例如，如果将调整尺寸设置为1000x1200，2000x3000px的图像将调整为1000x1500px，而3000x2000px的图像将调整为1800x1200px"
+
+#: class/view/settings/part-general.php:192
+#: class/view/settings/part-general.php:247 class/view/shortpixel_view.php:997
+msgid "Sizes will be smaller or equal to the corresponding value. For example, if you set the resize dimensions at 1000x1200, an image of 2000x3000px will be resized to 800x1200px while an image of 3000x2000px will be resized to 1000x667px"
+msgstr "尺寸将小于或等于相应的值。例如，如果将调整尺寸设置为1000x1200，2000x3000px的图像将调整为800x1200px，而3000x2000px的图像将调整为1000x667px"
+
+#: class/view/settings/part-advanced.php:411
+#: class/view/settings/part-cloudflare.php:86
+#: class/view/settings/part-cloudflare.php:87
+#: class/view/settings/part-general.php:305 class/view/shortpixel_view.php:1007
+#: class/view/shortpixel_view.php:1386 class/view/shortpixel_view.php:1455
+#: class/view/shortpixel_view.php:1456
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: class/view/settings/part-advanced.php:412
+#: class/view/settings/part-general.php:306 class/view/shortpixel_view.php:1008
+#: class/view/shortpixel_view.php:1387
+msgid "Save and go to the Bulk Processing page"
+msgstr "保存并转到批量处理页面"
+
+#: class/view/settings/part-advanced.php:412
+#: class/view/settings/part-general.php:306 class/view/shortpixel_view.php:1008
+#: class/view/shortpixel_view.php:1387
+msgid "Save and Go to Bulk Process"
+msgstr "保存并转到批量处理"
+
+#: class/view/shortpixel_view.php:1087
+msgid "Please enter your API key in the General tab first."
+msgstr "请首先在“常规”选项卡中输入您的API key。"
+
+#: class/view/settings/part-advanced.php:53 class/view/shortpixel_view.php:1092
+msgid "Additional media folders"
+msgstr "其他媒体文件夹"
+
+#: class/view/settings/part-advanced.php:60 class/view/shortpixel_view.php:1098
+msgid "Folder name"
+msgstr "文件夹名称"
+
+#: class/view/shortpixel_view.php:1099
+msgid "Type &amp;<br>Status"
+msgstr "类型和&amp;<br>状态"
+
+#: class/view/settings/part-advanced.php:62 class/view/shortpixel_view.php:1100
+msgid "Files"
+msgstr "文件"
+
+#: class/view/settings/part-advanced.php:63 class/view/shortpixel_view.php:1101
+msgid "Last change"
+msgstr "最近更改"
+
+#: class/view/settings/part-advanced.php:80
+#: class/view/settings/part-advanced.php:85
+#: class/view/settings/part-advanced.php:89
+#: class/view/settings/part-advanced.php:94 class/view/shortpixel_view.php:1110
+#: class/view/shortpixel_view.php:1115 class/view/shortpixel_view.php:1117
+#: class/view/shortpixel_view.php:1119
+msgid "Empty"
+msgstr "无"
+
+#. Author URI of the plugin
+msgid "https://shortpixel.com"
+msgstr "https://shortpixel.com"
+
+#. Author of the plugin
+msgid "ShortPixel"
+msgstr "ShortPixel"
+
+#. Plugin Name of the plugin
+msgid "ShortPixel Image Optimizer"
+msgstr "ShortPixel 图像优化器"
+
+#: class/external/nextgen.php:282 class/wp-short-pixel.php:3742
+msgid "ShortPixel Compression"
+msgstr "ShortPixel 压缩"
+
+#: class/wp-short-pixel.php:3746
+msgid "ShortPixel Statistics"
+msgstr "ShortPixel 数据统计"
+
+#: class/wp-short-pixel.php:3639
+msgid "ShortPixel Info"
+msgstr "ShortPixel 信息"
+
+#: class/wp-short-pixel.php:3484
+msgid "Image waiting to be processed."
+msgstr "等待处理的图像。"
+
+#: class/wp-short-pixel.php:3480
+msgid "Image does not exist"
+msgstr "图像不存在"
+
+#: class/wp-short-pixel.php:3469
+msgid "Why?"
+msgstr "为什么？"
+
+#: class/wp-short-pixel.php:3466 class/wp-short-pixel.php:3468
+msgid "Cannot write optimized file"
+msgstr "无法写入优化文件"
+
+#: class/wp-short-pixel.php:3385
+msgid "PDF not processed."
+msgstr "未处理PDF文档。"
+
+#: class/wp-short-pixel.php:3319 class/wp-short-pixel.php:3320
+#: class/wp-short-pixel.php:3321 class/wp-short-pixel.php:3322
+msgid " images"
+msgstr "图像"
+
+#: class/wp-short-pixel.php:3268 class/wp-short-pixel.php:3269
+msgid "Information unavailable. Please check your API key."
+msgstr "信息不可用。请检查您的API Key。"
+
+#: class/Controller/SettingsController.php:445
+msgid "Folder added successfully."
+msgstr "文件夹添加成功。"
+
+#: class/Model/ApiKeyModel.php:252
+msgid "There is something preventing us to create a new folder for backing up your original files.<BR>Please make sure that folder <b>%s</b> has the necessary write and read rights."
+msgstr "我们在创建一个新文件夹来备份您的原始文件时受到了阻碍。<BR>请确保文件夹<b>%s</b> 具有必要的读写权限。"
+
+#: class/Model/ApiKeyModel.php:237
+msgid "API Key is valid but your site is not accessible from our servers. Please make sure that your server is accessible from the Internet before using the API or otherwise we won't be able to optimize them."
+msgstr "API Key有效，但是您的站点无法从我们的服务器获取访问。在使用API Key之前，请确保您的服务器可以从互联网获取访问，否则我们将无法对其进行优化。"
+
+#: class/wp-short-pixel.php:3267
+msgid "API Key could not be validated due to a connectivity error.<BR>Your firewall may be blocking us. Please contact your hosting provider and ask them to allow connections from your site to api.shortpixel.com (IP 176.9.21.94).<BR> If you still cannot validate your API Key after this, please <a href=\"https://shortpixel.com/contact\" target=\"_blank\">contact us</a> and we will try to help. "
+msgstr "由于连接错误，无法验证API Key。<BR>您的防火墙可能会阻止我们。请联系您的主机提供商，并要求他们允许您的站点连接到api.shortpixel.com (IP 176.9.21.94)。<BR>如果在此之后您仍然无法验证您的API Key，请<a href=\"https://shortpixel.com/contact\" target=\"_blank\">联系我们</a>，我们将尽力提供帮助。"
+
+#: class/Model/ApiKeyModel.php:274
+msgid " or "
+msgstr "或者"
+
+#: class/Model/ApiKeyModel.php:272
+msgid "If this problem persists, please contact us at "
+msgstr "如果此问题仍然存在，请联系我们通过"
+
+#: class/Model/ApiKeyModel.php:270
+msgid "Please check that the API key is the same as the one you received in your confirmation email."
+msgstr "请检查 API key是否与您在确认电子邮件中收到的API Key相同。"
+
+#: class/Controller/SettingsController.php:88 class/Model/ApiKeyModel.php:268
+msgid "The key you provided has %s characters. The API key should have 20 characters, letters and numbers only."
+msgstr "您提供的Key包含%s个字符。API Key应该有且仅有20个字符、字母和数字。"
+
+#: class/wp-short-pixel.php:2778 class/wp-short-pixel.php:2786
+#: class/wp-short-pixel.php:2919 class/wp-short-pixel.php:2965
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: class/view/view-other-media.php:20
+msgid "Other Media optimized by ShortPixel"
+msgstr "通过ShortPixel 优化的其他媒体"
+
+#: class/view/view-other-media.php:30
+msgid "Refresh folders"
+msgstr "刷新文件夹"
+
+#: class/view/view-other-media.php:29
+msgid "Refresh custom folders content"
+msgstr "刷新自定义文件夹内容"
+
+#: class/wp-short-pixel.php:2468 class/wp-short-pixel.php:2533
+msgid "Please optimize image for ID: "
+msgstr "请为ID优化图像："
+
+#: class/wp-short-pixel.php:2474 class/wp-short-pixel.php:2533
+msgid "No thumbnails to optimize for ID: "
+msgstr "无ID缩略图可优化："
+
+#: class/wp-short-pixel.php:2423 class/wp-short-pixel.php:2445
+msgid "Could not restore from backup: "
+msgstr "无法从备份中恢复："
+
+#: class/wp-short-pixel.php:1607
+msgid "NextGen image not found"
+msgstr "NextGen图像无法找到"
+
+#: class/wp-short-pixel.php:1410
+msgid " Retry limit reached. Skipping file ID "
+msgstr "达到重试限制。跳过文件ID  "
+
+#. translators: console message Empty queue 1234 -> 1234
+#: class/wp-short-pixel.php:1124
+msgid "Empty queue "
+msgstr "空队列"
+
+#: class/wp-short-pixel.php:1100
+msgid "Missing API Key"
+msgstr "·缺少API Key "
+
+#: class/wp-short-pixel.php:482
+msgid "ShortPixel quota exceeded. Click for details."
+msgstr "超过ShortPixel配额。点击了解详情。"
+
+#: class/wp-short-pixel.php:470
+msgid "ShortPixel optimizing..."
+msgstr "ShortPixel优化中......"
+
+#: class/wp-short-pixel.php:385
+msgid "Image waiting to optimize thumbnails"
+msgstr "等待优化缩略图的图像"
+
+#: class/wp-short-pixel.php:384
+msgid "This content is not processable."
+msgstr "此内容不可处理。"
+
+#: class/wp-short-pixel.php:380
+msgid "Get API Key"
+msgstr "获取 API Key"
+
+#: class/wp-short-pixel.php:378
+msgid "Reoptimize {0}"
+msgstr "重新优化{0} "
+
+#: class/wp-short-pixel.php:377
+msgid "Optimize {0} thumbnails"
+msgstr "优化{0}缩略图"
+
+#: class/wp-short-pixel.php:376
+msgid "+{0} Retina images optimized"
+msgstr "+{0}视网膜图像已优化"
+
+#: class/wp-short-pixel.php:375
+msgid "+{0} thumbnails optimized"
+msgstr "+{0}缩略图已优化"
+
+#: class/wp-short-pixel.php:372
+msgid "Are you sure you want to stop optimizing the folder {0}?"
+msgstr "您确定要停止优化文件夹{0}吗？"
+
+#: class/wp-short-pixel.php:371
+msgid "This type of optimization will apply to new uploaded images. Images that were already processed will not be re-optimized unless you restart the bulk process."
+msgstr "这种类型的优化将适用于新上传的图像。除非您重新启动批量处理，否则已处理的图像不会重新优化。"
+
+#: class/wp-short-pixel.php:370
+msgid "In order to access the ShortPixel Optimization actions and info, please change to {0}List View{1}List View{2}Dismiss{3}"
+msgstr "为了获取ShortPixel优化操作和信息，请更改为{0}列表视图{1}列表视图{2}取消{3}"
+
+#: class/wp-short-pixel.php:365
+msgid "Optimize with ShortPixel"
+msgstr "用ShortPixel 进行优化"
+
+#: class/wp-short-pixel.php:257
+msgid "Media alert dismissed"
+msgstr "媒体警报解除"
+
+#. translators: title and menu name for the Bulk Processing page
+#: shortpixel-plugin.php:180
+msgid "Bulk ShortPixel"
+msgstr "批量ShortPixel "
+
+#. translators: title and menu name for the Bulk Processing page
+#: shortpixel-plugin.php:180
+msgid "ShortPixel Bulk Process"
+msgstr "ShortPixel批量处理"
+
+#. translators: title and menu name for the Other media page
+#: shortpixel-plugin.php:177
+msgid "Other Media"
+msgstr "其他媒体"
+
+#. translators: title and menu name for the Other media page
+#: shortpixel-plugin.php:177
+msgid "Other Media Optimized by ShortPixel"
+msgstr "通过ShortPixel优化的其他媒体"
+
+#: shortpixel-plugin.php:173
+msgid "ShortPixel Settings"
+msgstr "ShortPixel设置"
+
+#: shortpixel_api.php:826
+msgid "Optimized version of %s file(s) couldn't be updated."
+msgstr "无法更新%s文件的优化版本。"
+
+#: shortpixel_api.php:548
+msgid "Cannot save file in backup directory"
+msgstr "无法将文件保存在备份目录中"
+
+#: shortpixel_api.php:539
+msgid "Cannot save file <i>%s</i> in backup directory"
+msgstr "无法将文件<i>%s</i> 保存在备份目录中"
+
+#: shortpixel_api.php:512
+msgid "Backup folder does not exist and it cannot be created"
+msgstr "备份文件夹不存在，无法创建"
+
+#: shortpixel_api.php:408 shortpixel_api.php:471
+msgid "Unable to locate downloaded file"
+msgstr "无法找到下载的文件夹"
+
+#: shortpixel_api.php:481
+msgid "Error downloading file - incorrect file size (downloaded: %s, correct: %s )"
+msgstr "下载文件时出错-文件尺寸不正确（下载：%s，正确：%s）"
+
+#: shortpixel_api.php:465
+msgid "Error downloading file"
+msgstr "下载文件时出错"
+
+#: shortpixel_api.php:330
+msgid "Quota exceeded."
+msgstr "超过配额。"
+
+#: shortpixel_api.php:322
+msgid "Unrecognized API response. Please contact support."
+msgstr "无法识别的API响应。请联系支持人员。"
+
+#: shortpixel_api.php:266 shortpixel_api.php:302 shortpixel_api.php:305
+msgid "There was an error and your request was not processed."
+msgstr "出现错误，您的请求未被处理。"
+
+#: shortpixel_api.php:240
+msgid "Skip this image, try the next one."
+msgstr "跳过此图像，试试下一张。"
+
+#: shortpixel_api.php:239
+msgid "Media ID"
+msgstr "媒体ID"
+
+#: shortpixel_api.php:239
+msgid "Image ID"
+msgstr "图像ID"
+
+#: shortpixel_api.php:236 shortpixel_api.php:246
+msgid "Timed out while processing."
+msgstr "处理时超时。"
+
+#: class/wp-short-pixel.php:3474 shortpixel_api.php:221
+msgid "The file(s) do not exist on disk: "
+msgstr "磁盘上不存在文件："
+
+#: class/view/shortpixel_view.php:1751 class/wp-short-pixel.php:382
+msgid "Check&nbsp;&nbsp;Quota"
+msgstr "检查&nbsp;&nbsp;配额"
+
+#: class/Controller/View/OtherMediaViewController.php:104
+#: class/view/shortpixel_view.php:1748 class/wp-short-pixel.php:381
+msgid "Extend Quota"
+msgstr "扩大配额"
+
+#: class/view/shortpixel_view.php:1732 class/wp-short-pixel.php:379
+msgid "Restore backup"
+msgstr "恢复备份"
+
+#: class/view/shortpixel_view.php:1724 class/view/shortpixel_view.php:1728
+msgid "Re-optimize"
+msgstr "重新优化"
+
+#: class/view/shortpixel_view.php:1723 class/view/shortpixel_view.php:1727
+msgid "Reoptimize from the backed-up image"
+msgstr "从备份的图像中重新优化"
+
+#: class/view/shortpixel_view.php:1716
+msgid "Optimize %s  thumbnails"
+msgstr "优化%s缩略图"
+
+#: class/Controller/EditMediaController.php:145
+#: class/view/shortpixel_view.php:1701
+msgid "+%s Retina images optimized"
+msgstr "+%s视网膜图像已优化"
+
+#: class/view/shortpixel_view.php:1700
+msgid "+%s thumbnails optimized"
+msgstr "+%s缩略图已优化"
+
+#: class/Controller/EditMediaController.php:138
+#: class/view/shortpixel_view.php:1699
+msgid "+%s of %s thumbnails optimized"
+msgstr "%s缩略图中的+%s已优化"
+
+#: class/Controller/EditMediaController.php:167
+msgid "Optimized on"
+msgstr "优化"
+
+#: class/Controller/EditMediaController.php:150
+msgid " WebP images"
+msgstr " WebP图像"
+
+#: class/Controller/EditMediaController.php:91
+#: class/Controller/View/OtherMediaViewController.php:93
+#: class/view/shortpixel_view.php:1641
+msgid "Optimize now"
+msgstr "立即优化"
+
+#: class/Controller/EditMediaController.php:73
+#: class/view/shortpixel_view.php:1632
+msgid "Invalid API Key. <a href=\"options-general.php?page=wp-shortpixel-settings\">Check your Settings</a>"
+msgstr "无效的API Key。<a href=\"options-general.php?page=wp-shortpixel-settings\">请检查您的设置</a> "
+
+#: class/view/shortpixel_view.php:1630
+msgid "Please <a href=\"options-general.php?page=wp-shortpixel-settings\">go to Settings</a> to validate the API Key."
+msgstr "请<a href=\"options-general.php?page=wp-shortpixel-settings\">转到设置</a>以验证应用API Key。"
+
+#: class/Controller/EditMediaController.php:70
+#: class/view/shortpixel_view.php:1626
+msgid "Image does not exist."
+msgstr "图像不存在。"
+
+#: class/Controller/EditMediaController.php:67
+#: class/view/shortpixel_view.php:1623 class/wp-short-pixel.php:581
+#: class/wp-short-pixel.php:668
+msgid "Optimization N/A"
+msgstr "优化不适用"
+
+#: class/view/settings/part-statistics.php:150
+#: class/view/shortpixel_view.php:1581
+msgid "Empty backups"
+msgstr "空备份"
+
+#: class/view/settings/part-statistics.php:141
+#: class/view/shortpixel_view.php:1573
+msgid "Original images are stored in a backup folder. Your backup folder's size is now:"
+msgstr "原始图像存储在备份文件夹中。您的备份文件夹的大小现在是："
+
+#: class/view/settings/part-statistics.php:163
+#: class/view/shortpixel_view.php:1594
+msgid "** Increase your image quota by <a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">upgrading your ShortPixel plan.</a>"
+msgstr "**通过<a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">升级您的ShortPixel计划，提高您的图像配额。</a>"
+
+#: class/view/settings/part-statistics.php:92
+#: class/view/shortpixel_view.php:1534
+msgid "<a href=\"https://shortpixel.com/login/%s/tell-a-friend\" target=\"_blank\">Join our friend referral system</a> to win more credits. For each user that joins, you receive +100 images credits/month."
+msgstr "<a href=\"https://shortpixel.com/login/%s/tell-a-friend\" target=\"_blank\">加入我们的朋友推荐系统</a> ，赢取更多积分。对于每个加入的用户，您每月可获得+100图像积分。"
+
+#: class/view/settings/part-statistics.php:89
+#: class/view/shortpixel_view.php:1531
+msgid "%s/month, renews in %s  days, on %s ( <a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">Need More? See the options available</a> )"
+msgstr "%s/月，%s天内更新，在 %s ( <a href=\"https://shortpixel.com/login/%s\" target=\"_blank\">需要更多吗？查看可用选项</a> )查看"
+
+#: class/view/settings/part-statistics.php:161
+#: class/view/shortpixel_view.php:1592
+msgid "* Saved bandwidth is calculated at 10,000 impressions/image"
+msgstr "*节省的带宽计算为10000次印象/图像"
+
+#: class/view/shortpixel_view.php:1512
+msgid "Bandwith* saved by ShortPixel:"
+msgstr "ShortPixel节省的带宽*："
+
+#: class/view/settings/part-statistics.php:18
+#: class/view/shortpixel_view.php:1471
+msgid "Average compression of your files:"
+msgstr "您文件的平均压缩量："
+
+#: class/view/settings/part-statistics.php:13
+#: class/view/shortpixel_view.php:1466
+msgid "Your ShortPixel Stats"
+msgstr "您的ShortPixel统计数据"
+
+#: class/view/settings/part-advanced.php:367
+#: class/view/shortpixel_view.php:1365
+msgid "By default, ShortPixel will automatically optimize all the freshly uploaded image and PDF files. If you uncheck this you'll need to either run Bulk ShortPixel or go to Media Library (in list view) and click on the right side \"Optimize now\" button(s)."
+msgstr "默认情况下，ShortPixel会自动优化所有新上传的图像和PDF文件。如果取消选中此项，您需要运行批量ShortPixel或转到媒体库（在列表视图中），然后单击右侧的“立即优化”按钮。"
+
+#: class/view/settings/part-advanced.php:365
+#: class/view/shortpixel_view.php:1363
+msgid "Automatically optimize Media Library items after they are uploaded (recommended)."
+msgstr "上传后自动优化媒体库项目（推荐）。"
+
+#: class/view/settings/part-advanced.php:362
+#: class/view/shortpixel_view.php:1360
+msgid "Optimize media on upload"
+msgstr "上传时优化媒体"
+
+#: class/view/settings/part-advanced.php:377
+#: class/view/shortpixel_view.php:1355
+msgid "Check this if you have users that add images or PDF documents from custom forms in the front-end. This could increase the load on your server if you have a lot of users simultaneously connected."
+msgstr "如果您有用户在前端从自定义表单添加图像或PDF文档，请选中此项。如果有很多用户同时连接，这可能会增加服务器的负载。"
+
+#: class/view/settings/part-advanced.php:375
+#: class/view/shortpixel_view.php:1353
+msgid "Automatically optimize images added by users in front end."
+msgstr "自动优化前端用户添加的图像。"
+
+#: class/view/settings/part-advanced.php:372
+#: class/view/shortpixel_view.php:1350
+msgid "Process in front-end"
+msgstr "前端处理"
+
+#: class/view/settings/part-advanced.php:352
+#: class/view/shortpixel_view.php:1345
+msgid "Only fill in these fields if your site (front-end) is not publicly accessible and visitors need a user/pass to connect to it. If you don't know what is this then just <strong>leave the fields empty</strong>."
+msgstr "请在仅当您的网站（前端）不可公开访问和访问者需要用户/通行证才能进行连接时填写这些字段。如果您不知道这是什么，那么只需<strong>将字段留空即可</strong>。"
+
+#: class/view/settings/part-advanced.php:350
+#: class/view/shortpixel_view.php:1343
+msgid "Password"
+msgstr "密码"
+
+#: class/view/settings/part-advanced.php:349
+#: class/view/shortpixel_view.php:1342
+msgid "User"
+msgstr "用户"
+
+#: class/view/settings/part-advanced.php:346
+#: class/view/shortpixel_view.php:1340
+msgid "HTTP AUTH credentials"
+msgstr "HTTP身份验证凭据"
+
+#: class/view/settings/part-advanced.php:294
+#: class/view/shortpixel_view.php:1290
+msgid "Also optimize the Retina images (@2x) if they exist."
+msgstr "如果存在视网膜图像(@2x)，也对其进行优化。"
+
+#: class/view/settings/part-advanced.php:291
+#: class/view/shortpixel_view.php:1287
+msgid "Optimize Retina images"
+msgstr "优化视网膜图像"
+
+#: class/view/shortpixel_view.php:1231
+msgid "WebP images can be up to three times smaller than PNGs and 25% smaller than JPGs. Choosing this option <strong>does not use up additional credits</strong>."
+msgstr "WebP图像可比PNG图像小三倍，比JPG小25%。选择此选项<strong>不会消耗额外的积分</strong>。"
+
+#: class/view/settings/part-advanced.php:170
+#: class/view/shortpixel_view.php:1193
+msgid "Check this to add all your current NextGen galleries to the custom folders list and to also have all the future NextGen galleries and images optimized automatically by ShortPixel."
+msgstr "选中此项可将您当前的NextGen图库添加到自定义文件夹列表中，并通过ShortPixel自动优化所有未来的NextGen图库和图像。"
+
+#: class/view/settings/part-advanced.php:168
+#: class/view/shortpixel_view.php:1191
+msgid "Optimize NextGen galleries."
+msgstr "优化NextGen图库。"
+
+#: class/view/settings/part-advanced.php:166
+#: class/view/shortpixel_view.php:1189
+msgid "Optimize NextGen galleries"
+msgstr "优化NextGen图库"
+
+#: class/view/settings/part-advanced.php:153
+#: class/view/shortpixel_view.php:1176
+msgid "Select"
+msgstr "选择"
+
+#: class/view/settings/part-advanced.php:152
+#: class/view/shortpixel_view.php:1175
+msgid "Cancel"
+msgstr "取消"
+
+#: class/view/settings/part-advanced.php:150
+#: class/view/shortpixel_view.php:1173
+msgid "Select the images folder"
+msgstr "选择图像文件夹"
+
+#: class/view/settings/part-advanced.php:142
+#: class/view/shortpixel_view.php:1165
+msgid "Use the Select... button to select site folders. ShortPixel will optimize images and PDFs from the specified folders and their subfolders. The optimization status for each image or PDF in these folders can be seen in the <a href=\"upload.php?page=wp-short-pixel-custom\">Other Media list</a>, under the Media menu."
+msgstr "使用选择......按钮来选择站点文件夹。ShortPixel将优化指定文件夹及其子文件夹中的图像和PDF文档。这些文件夹中每个图像或PDF的优化状态可以在媒体菜单下的<a href=\"upload.php?page=wp-short-pixel-custom\">其他媒体列表</a>进行查看。"
+
+#: class/view/settings/part-advanced.php:138
+#: class/view/shortpixel_view.php:1161
+msgid "Select ..."
+msgstr "选择......"
+
+#: class/view/settings/part-advanced.php:137
+#: class/view/shortpixel_view.php:1160
+msgid "Select the images folder on your server."
+msgstr "选择服务器上的图像文件夹。"
+
+#: class/view/shortpixel_view.php:1144
+msgid "Refresh"
+msgstr "刷新"
+
+#: class/view/shortpixel_view.php:1143
+msgid "Full folder refresh, check each file of the folder if it changed since it was optimized. Might take up to 1 min. for big folders."
+msgstr "刷新所有文件夹，检查文件夹中的每个文件是否自优化后发生了更改。对于大文件夹可能需要1分钟时间。"
+
+#: class/view/settings/part-advanced.php:96 class/view/shortpixel_view.php:1121
+msgid "Failed"
+msgstr "失败"
+
+#: class/view/settings/part-advanced.php:89 class/view/shortpixel_view.php:1117
+msgid "Stop optimizing"
+msgstr "停止优化"
+
+#: class/view/settings/part-advanced.php:89 class/view/shortpixel_view.php:1117
+msgid "Stop monitoring"
+msgstr "停止监控"
+
+#: class/view/settings/part-advanced.php:82
+#: class/view/settings/part-advanced.php:89
+#: class/view/settings/part-advanced.php:94 class/view/shortpixel_view.php:1112
+#: class/view/shortpixel_view.php:1117 class/view/shortpixel_view.php:1119
+#: class/wp-short-pixel.php:3599
+msgid "Optimized"
+msgstr "已优化"
+
+#. Plugin URI of the plugin
+msgid "https://shortpixel.com/"
+msgstr "https://shortpixel.com/"
+
+#: class/Model/ApiKeyModel.php:241
+msgid "Great, your API Key is valid! <br>You seem to be running a multisite, please note that API Key can also be configured in wp-config.php like this:"
+msgstr "好了，您的API Key是有效的！<br>您似乎正在运行 multisite 功能，请注意，在wp-config.php对API Key进行如下配置："

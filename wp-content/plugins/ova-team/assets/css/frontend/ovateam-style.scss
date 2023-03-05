@@ -1,0 +1,627 @@
+.archive_team.ova-team-slider-2{
+	padding: 0;
+	.content{
+		.items{
+			.content_info{
+				box-shadow: none;
+			}
+		}
+		.items{
+			padding: 0;
+			margin: 0;
+			.content_info{
+				padding: 0;
+			    text-align: left;
+				.ova-media{
+					a{
+						display: block;
+						width: 100%;
+						height: 100%;
+					}
+				}
+			}
+			
+		}
+	}
+	.owl-dots{
+		padding-top: 17px;
+	}
+}
+.ova-team-slider, .ova-team-slider-2{
+	display: block;
+	width: 100%;
+	.owl-stage-outer{
+		padding: 35px 0px;
+
+	}
+	.owl-carousel .owl-stage-outer {
+	    padding: 30px 30px 40px 30px;
+	    margin-bottom: -5px;
+
+	    margin-right: -20px;
+       	margin-left: -20px;
+	    padding-left: 20px;
+	    padding-right: 20px;
+	    width: calc(100% + 40px);
+
+	    @media(max-width: 1290px){
+	    	margin-right: 0px;
+	    	margin-left: 0px;
+	    	padding-left: 0px;
+		    padding-right: 0px;
+		     width: 100%;
+	    }
+	}
+
+	.content{
+		margin: 0px !important;
+		.owl-item.active{
+			.items{
+				.content_info{
+					box-shadow: 0px 10px 40px -14px rgba(6, 22, 58, 0.1);
+				}
+			}
+		}
+		.items{
+			.content_info{
+				text-align: center;
+				padding: 30px 10px 46px 10px;
+			}
+			.ova-media{
+				text-align: center;
+				padding-bottom: 0px;
+				a{
+					display: inline-block;
+					width: 150px;
+					height: 150px;
+					border-radius: 50%;
+					background-position: center center;
+					background-size: cover;
+					background-repeat: no-repeat;
+				}
+			}
+			.ova-info{
+				a.name{
+					font-size: 20px;
+					line-height: 1.2;
+					font-weight: 500;
+					letter-spacing: 0.2px;
+					color: #202b5d;
+				}
+				.job{
+					margin: 0;
+					font-size: 17px;
+					line-height: 24px;
+					color: #62718d;
+					margin-top: 3px;
+				}
+			}
+		}
+	}
+	.owl-dots{
+		text-align: center;
+		.owl-dot{
+			outline: none;
+			span{
+				width: 6px;
+				height: 6px;
+				margin: 5px;
+				background: #d1d1d6;
+				display: block;
+				-webkit-backface-visibility: visible;
+				transition: opacity .2s ease;
+				border-radius: 30px;
+			}
+			&.active{
+				span{
+					width: 12px;
+					border-radius: 5px;
+					opacity: 1;
+				}
+			}
+		}
+	}
+}
+.ova-form-mail {
+	
+	p{
+		margin: 0px;
+	}
+	
+	.con {
+		display: flex;
+		flex-wrap: wrap;
+
+		label{
+			font-size: 17px;
+			line-height: 24px;
+			letter-spacing: 0.2px;
+			color: #62718d;
+			margin-bottom: 9px;
+			span{
+				color: #ff709d;
+			}
+		}
+		.input {
+			display: inline-block;
+			width: 50%;
+			margin-bottom: 20px;
+			@media(max-width: 767px){
+				width: 100%;
+			}
+			.error{
+				display: none;
+				font-size: 16px;
+				line-height: 1.2;
+				color: #ff4444;
+				margin-bottom: 12px;
+			}
+			&.name{
+				padding-right: 10px;
+				@media(max-width: 767px){
+					padding-right: 0px;
+				}
+			}
+			&.email{
+				padding-left: 10px;
+				@media(max-width: 767px){
+					padding-left: 0px;
+				}
+			}
+			&.subject{
+				width: 100%;
+			}
+
+			input {
+				height: 45px;
+				width: 100%;
+				font-size: 17px;
+				line-height: 45px;
+				color: #333;
+				border: 1px solid #e5e5e5;
+				padding: 0px 20px 0px 20px;
+				&::placeholder {
+					color: #62718d;
+				}
+			}
+		}
+		.comment {
+			width: 100%;
+			textarea {
+				width: 100%;
+				height: 145px;
+				border: 1px solid #e5e5e5;
+				padding: 14px 20px 20px 20px;
+				font-size: 17px;
+				line-height: 24px;
+				color: #333;
+				&::placeholder {
+					color: #62718d;
+				}
+				&:focus {
+					outline: none;
+				}
+			}
+		}
+	}
+	input[type=submit] {
+		color: #ffffff;
+		font-size: 18px;
+		line-height: 24px;
+		font-weight: 700;
+		height: 50px;
+		padding: 0 30px 0 30px;
+		border: 1px solid;
+		transition: 0.2s;
+		cursor: pointer;
+		margin-top: 8px;
+		&:hover {
+			background-color: #06163A;
+			border-color: #06163A;
+		}
+	}
+}
+
+
+.ova-info-content{
+	padding: 25px 25px 30px 25px;
+	p{
+		margin: 0;
+	}
+	.name{
+		font-size: 22px;
+		line-height: 1.2;
+		color: #202b5d;
+		font-weight: 500;
+		margin-bottom: 5px;
+	}
+	.job{
+		font-size: 17px;
+		line-height: 24px;
+		color: #0067da;
+		font-weight: 600;
+		margin-bottom: 16px;
+		&:after{
+			content: '';
+			width: 40px;
+			height: 1px;
+			background: #e5e5e9;
+			display: block;
+			margin-top: 13px;
+		}
+	}
+	.ova-email, .ova-phone{
+		display: flex;
+		align-items: center;
+		align-items: flex-start;
+
+		i{
+			margin-right: 8px;
+			font-size: 14px;
+			line-height: 1.4;
+		}
+
+		a{
+			font-size: 16px;
+			line-height: 1.2;
+			color: #62718d;
+			word-break: break-all;
+		}
+	}
+	.ova-email{
+		margin-bottom: 10px;
+	}
+	.ova-phone{
+		margin-bottom: 26px;
+		i{
+			transform: rotateY(180deg);
+		}
+	}
+}
+
+
+
+
+.ova_team_single{
+	padding: 0 10px;
+	width: 100%;
+	@media(max-width: 991px){
+		padding: 0 20px;
+	}
+	.ova_info{
+		display: flex;
+		flex-wrap: wrap;
+		box-shadow: 10px 0 40px rgba(6, 22, 58, 0.1);
+		position: relative;
+		overflow: hidden;
+		margin-bottom: 71px;
+		.icon_bg{
+			position: absolute;
+			bottom: -50px;
+			right: -50px;
+			i{
+				display: inline-block;
+				line-height: 1;
+				&:before{
+					margin: 0;
+					font-size: 250px;
+					color: rgba(38,55,135,0.05);
+				}
+			}
+		}
+		
+		.image-team{
+			flex: 0 0 420px;
+			@media(max-width: 1024px){
+				flex: 0 0 100%;
+			}
+		}
+
+		.content_info{
+			padding: 45px 55px 60px 60px;
+			flex: 0 0 calc(100% - 420px);
+			display: flex; 
+			flex-wrap: wrap;
+			@media(max-width: 1024px){
+				flex: 0 0 100%;
+				padding: 45px 20px;
+			}
+		}
+
+		.ova-info-content{
+			padding: 0 20px 0 0;
+			flex: 0 0 50%;
+			@media(max-width: 767px){
+				padding: 0;
+				flex: 0 0 100%;
+			}
+		}
+		.ova-excerpt-team{
+			flex: 0 0 50%;
+			@media(max-width: 767px){
+				flex: 0 0 100%;
+				padding: 40px 0 0 0;
+			}
+		}
+		.ova-info-content{
+			
+			p{
+				margin: 0;
+			}
+			.name{
+				font-size: 24px;
+				line-height: 1.2;
+				color: #202b5d;
+				font-weight: 500;
+				margin-bottom: 5px;
+			}
+			.job{
+				font-size: 18px;
+				line-height: 24px;
+				font-weight: 600;
+				margin-bottom: 16px;
+				color: #0067da;
+				&:after{
+					content: '';
+					width: 40px;
+					height: 1px;
+					background: #e5e5e9;
+					display: block;
+					margin-top: 13px;
+				}
+			}
+			.ova-email, .ova-phone, .ova-expertise, .ova-experience{
+				display: flex;
+				align-items: center;
+				p{
+					margin: 0 0 0 0;
+				}
+				
+				span, label, a{
+					font-size: 17px;
+					line-height: 1.2;
+					color: #62718d;
+					font-weight: 400;
+				}
+				label{
+					font-size: 17px;
+					padding-right: 10px;
+					line-height: 1.2;
+					color: #202b5d;
+					margin-bottom: 0;
+					font-weight: 600;
+				}
+			}
+			.ova-expertise, .ova-experience, .ova-email{
+				margin-bottom: 19px;
+			}
+
+			.ova-phone{
+				margin-bottom: 46px;
+			}
+
+			.ova-social{
+				// margin-bottom: 20px;
+				ul{
+					display: flex;
+					flex-wrap: wrap;
+					list-style-type: none;
+					padding: 0;
+					margin: 0;
+					li{
+						&:not(:last-child){
+							margin-right: 5px;
+						}
+					}
+					a {
+						display: inline-flex;
+						justify-content: center;
+						align-items: center;
+						width: 35px;
+						height: 35px;
+						background: #b0b8c6;
+						border-radius: 50%;
+						&:not(:last-child) {
+							margin-right: 0;
+						}
+						
+						i {
+							position: relative;
+							display: block;
+							font-size: 15px;
+							color: #fff;
+						}
+						&:hover{
+							background: #06163A;
+							color: #fff;
+						}
+					}
+				}
+			}
+		}
+
+		.ova-excerpt-team{
+			p{
+				margin: 0;
+			}
+			.excerpt-1{
+				margin-bottom: 27px;
+				p{
+					font-size: 20px;
+					line-height: 26px;
+					font-weight: 300;
+					color: #202b5d;
+				}
+			}
+			.excerpt-2{
+				margin-bottom: 18px;
+				p{
+					font-size: 17px;
+					line-height: 26px;
+					font-weight: 400;
+					color: #62718d;
+				}
+			}
+		}
+
+	}
+	.ova_team_content{
+		
+	}
+}
+
+.archive,
+.tax-cat_team,
+.post-type-archive-team{
+	.archive_team{
+		margin-bottom: 50px;	
+		@media(max-width: 991px){
+			padding: 0 20px;
+		}
+	}
+	
+}
+.archive_team{
+	width: 100%;
+	padding: 0 15px;
+	.blog_pagination{
+		margin-top: 10px;
+	}
+	.content{
+		display: flex;
+		flex-wrap: wrap;
+		margin: 0 -15px;
+		.items{
+			padding: 0 15px;
+			margin-bottom: 60px;
+			
+			.content_info{
+				box-shadow: 0px 10px 40px 0px rgba(6, 22, 58, 0.1);
+				height: 100%;
+
+				@media(max-width: 991px){
+					margin: 0 auto;
+					max-width: 100%;
+
+					.ova-media{
+						img{
+							width: 100%;
+						}
+					}
+				}
+				&:hover{
+					.ova-info-content{
+						.ova-social{
+							opacity: 1;
+							visibility: visible;
+						}
+					}
+				}
+
+				.ova-info-content{
+					padding: 25px 25px 34px 25px;
+					position: relative;
+					background: #fff;
+					.ova-phone{
+						margin: 0;
+					}
+					.ova-social{
+						position: absolute;
+						top: -47px;
+						left: 50%;
+						transform: translate(-50%,0);
+						opacity: 0;
+						transition: 0.4s;
+						visibility: hidden;
+						ul{
+							list-style-type: none;
+							padding: 0;
+							margin: -30px 0 0 0;
+							display: inline-flex;
+							
+							li{
+								display: block;
+								&:first-child{
+									a{
+										border-radius: 50% 0 0 50%;
+										padding-left: 16px;
+									}
+								}
+								&:last-child{
+									a{
+										border-radius: 0 50% 50% 0;
+										padding-right: 16px;
+									}
+								}
+								a{
+									padding: 5px 11px;
+									display: block;
+									background: #fff;
+									i{
+										font-size: 16px;
+										color: #62718d;
+									}
+								}
+
+								&.one-social {
+									a {
+										border-radius: 50%;
+									}
+								}
+							}
+
+						}
+					}
+				}
+			}
+		}
+	}
+	&.two_column{
+		.content{
+			.items{
+				width: 50%;
+				@media(max-width: 767px){
+					width: 100%;
+				}
+			}
+			
+		}
+		
+	}
+	&.three_column{
+		.content{
+			.items{
+				width: 33.33%;
+				@media(max-width: 991px){
+					width: 50%;
+				}
+
+				@media(max-width: 767px){
+					width: 100%;
+				}
+			}
+			
+		}
+	}
+
+	&.four_column{
+		.content{
+			.items{
+				width: 25%;
+				@media(max-width: 1024px){
+					width: 33.33%;
+				}
+				@media(max-width: 991px){
+					width: 50%;
+				}
+
+				@media(max-width: 767px){
+					width: 100%;
+				}
+			}
+			
+		}
+	}
+}
+
+

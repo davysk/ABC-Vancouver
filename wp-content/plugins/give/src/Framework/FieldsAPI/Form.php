@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\Framework\FieldsAPI\Concerns\HasLabel&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\Framework\FieldsAPI\Form.php</b> on line <b>12</b><br>

@@ -1,0 +1,3974 @@
+# Translation of Plugins - SEOPress, on-site SEO - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - SEOPress, on-site SEO - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-10-05 13:17:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - SEOPress, on-site SEO - Stable (latest release)\n"
+
+#: inc/admin/callbacks/Advanced.php:800
+msgid "Display SEO Insights column to check rankings"
+msgstr "显示SEO Insights列以检查排名"
+
+#: inc/admin/callbacks/ImageSEO.php:107
+msgid "Use the target keywords if not alternative text set for the image"
+msgstr "如果没有为图像设置替代文本，请使用目标关键字"
+
+#: inc/admin/settings/Advanced.php:309
+msgid "Show Insights column in post types"
+msgstr "在文章类型中显示“见解”列"
+
+#: inc/admin/settings/ImageSEO.php:56
+msgid "Automatically set the image Alt text from target keywords"
+msgstr "通过目标关键字自动设置图片替换文体"
+
+#: inc/admin/admin-dyn-variables-helper.php:55
+msgid "Current month in digital format"
+msgstr "当月数字格式"
+
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:546
+msgid "SEO Content Analysis"
+msgstr "SEO内容分析"
+
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:482
+msgid "SEO Redirection"
+msgstr "SEO重定向"
+
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:334
+msgid "SEO Social"
+msgstr "SEO社交"
+
+#: src/Helpers/Metas/RobotSettings.php:83
+msgid "Do not display a description in search results for this page (nosnippet)"
+msgstr "不要在此页面的搜索结果中显示描述（nosnippet）"
+
+#: src/Helpers/Metas/RobotSettings.php:75
+msgid "Do not display a \"Cached\" link in the Google search results (noarchive)"
+msgstr "不要在Google搜索结果中显示“已缓存”链接（noarchive）"
+
+#: src/Helpers/Metas/RobotSettings.php:91
+msgid "Do not index images for this page (noimageindex)"
+msgstr "不要为该页面的图像编制索引（noimageindex）"
+
+#: src/Helpers/Metas/RobotSettings.php:67
+msgid "Do not use Open Directory project metadata for titles or excerpts for this page (noodp)"
+msgstr "请勿将Open Directory项目元数据用于此页面的标题或摘录（noodp）"
+
+#: src/Helpers/Metas/RobotSettings.php:59
+msgid "Do not follow links for this page (nofollow)"
+msgstr "不要点击此页面的链接（nofollow）"
+
+#: src/Helpers/Metas/RobotSettings.php:51
+msgid "Do not display this page in search engine results / XML - HTML sitemaps (noindex)"
+msgstr "不要在搜索引擎结果/ XML中显示此页面-HTML网站地图（noindex）"
+
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:179
+msgid "SEO Advanced"
+msgstr "SEO高级"
+
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:138
+msgid "Meta Description"
+msgstr "元描述"
+
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:110
+msgid "SEO Title / Description"
+msgstr "SEO标题/描述"
+
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:58
+msgid "By"
+msgstr "由"
+
+#: inc/admin/blocks/notifications-center.php:443
+msgid "You must disable \"Meta tag robots\" option from Enfold settings (SEO Support tab) to avoid any SEO issues."
+msgstr "您必须从“Enfold设置/Settings”（“ SEO支持/SEO Support”标签）禁用“元标记机器人”选项，以避免出现任何SEO问题。"
+
+#: inc/admin/blocks/notifications-center.php:442
+msgid "Enfold theme is not correctly setup for SEO!"
+msgstr "Enfold主题未正确设置SEO！"
+
+#: inc/admin/admin-pages/Tools.php:78 inc/admin/admin-pages/Tools.php:124
+#: inc/admin/migrate/MigrationTools.php:34
+msgid "Primary category"
+msgstr "主要类别"
+
+#: inc/functions/sitemap/template-xml-sitemaps-xsl.php:142
+msgid "Last update"
+msgstr "最后更新"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:65
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:592
+msgid "To get the most accurate analysis, save your post first. We analyze all of your source code as a search engine would."
+msgstr "为了得到最准确的分析，请先保存您的文章。我们会像搜索引擎一样分析您的所有源代码。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:561
+msgid "The Social Networks feature is disabled. Still seing informations from the Twitter Preview? You probably have social tags added by your theme or a plugin."
+msgstr "社交网络功能被禁用。还在看Twitter预览版的信息？可能是您的主题或插件添加了社交标签。"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:59
+msgid "Track with Insights"
+msgstr "已见解追踪"
+
+#: inc/admin/callbacks/Titles.php:1521
+msgid "eg: https://example.com/category/my-category/page/2/"
+msgstr "例如：https://example.com/category/my-category/page/2/"
+
+#: inc/admin/callbacks/Titles.php:1517
+msgid "Add a \"noindex\" meta robots for all paginated archive pages"
+msgstr "为所有分页存档页面添加 \"noindex \"元机器人"
+
+#: inc/admin/sections/Analytics.php:33
+msgid "Works with <strong>Google Analytics</strong> and <strong>Matomo</strong>."
+msgstr "与<strong>Google Analytics</strong>和<strong>Matomo</strong>配合。"
+
+#: inc/admin/settings/Analytics.php:40
+msgid "Exclude user roles from tracking (Google Analytics and Matomo)"
+msgstr "将用户角色排除在跟踪范围之外（Google Analytics和Matomo）。"
+
+#: inc/admin/settings/Titles.php:307
+msgid "noindex on paged archives"
+msgstr "在分页存档上开noindex"
+
+#: inc/admin/admin-pages/Analytics.php:24
+msgid "Ecommerce"
+msgstr "电子商务"
+
+#: src/Services/ContentAnalysis/GetContent.php:160
+msgid "This is your homepage. This check doesn't apply here because there is no slug."
+msgstr "这是您的主页。此项检查不适用于这里，因为没有别名。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:466
+#: inc/admin/metaboxes/admin-metaboxes-form.php:583
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:50
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:74
+msgid "File URL is not valid."
+msgstr "文件URL无效。"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:76
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:52
+msgid "Get suggestions from Google"
+msgstr "从谷歌获取建议"
+
+#: inc/functions/options-import-export.php:142
+msgid "Please choose a separator"
+msgstr "请选择一个分隔符"
+
+#: inc/admin/callbacks/Social.php:392
+msgid "No custom post type to configure."
+msgstr "没有自定义文章类型配置。"
+
+#: inc/admin/settings/Social.php:154
+msgid "Define custom og:image tag for post type archive pages"
+msgstr "为文章类型的存档页面定义自定义的og:image标签"
+
+#: inc/admin/wizard/admin-wizard.php:1607
+msgid "Read our blog posts about SEO concepts, tutorials and more"
+msgstr "阅读我们的博客文章，关于SEO的概念，教程和更多"
+
+#: inc/admin/wizard/admin-wizard.php:1593
+msgid "Join our Facebook Community group"
+msgstr "加入我们的Facebook社区小组"
+
+#: inc/admin/admin-features-list.php:57
+msgid "Track your keyword positions and backlinks directly in your WordPress."
+msgstr "直接在WordPress中跟踪关键字的位置和反向链接。"
+
+#: inc/admin/admin-bar/admin-bar.php:144 inc/admin/admin-features-list.php:56
+#: inc/admin/wizard/admin-wizard.php:262 src/Actions/Admin/ManageColumn.php:88
+msgid "Insights"
+msgstr "分析"
+
+#: inc/admin/blocks/notifications-center.php:866
+msgid "To reduce the number pages search engines have to crawl to find all your articles, it is recommended displaying more posts per page. This should not be a problem for your users. Using mobile, we prefer to scroll down rather than clicking on next page links."
+msgstr "为了减少搜索引擎必须抓取的页面数量以找到你所有的文章，建议每页显示更多的文章。这对你的用户来说应该不是问题。使用手机时，我们更喜欢向下滚动，而不是点击下一页的链接。"
+
+#: inc/admin/blocks/notifications-center.php:117
+msgid "Track your keywords positions and backlinks directly on your WordPress site."
+msgstr "直接在您的WordPress站点上跟踪您的关键词位置和反向链接。"
+
+#: inc/admin/blocks/notifications-center.php:116
+msgid "Configure SEOPress Insights in a few minutes with our installation wizard"
+msgstr "使用我们的安装向导在几分钟内配置SEOPress Insights"
+
+#: inc/admin/callbacks/Advanced.php:517
+msgid "Manual tab"
+msgstr "手动标签"
+
+#: inc/admin/callbacks/Advanced.php:512
+msgid "Automatic tab (default)"
+msgstr "自动标签（默认）"
+
+#: inc/admin/callbacks/Analytics.php:1262
+msgid "Enabling Download & Outlink tracking"
+msgstr "启用下载和外链跟踪"
+
+#: inc/admin/callbacks/Analytics.php:1243
+msgid "Disables all first party cookies. Existing Matomo cookies for this website will be deleted on the next page view."
+msgstr "禁用所有第一方cookie。本网站现有的Matomo cookies将在下一个页面浏览时被删除。"
+
+#: inc/admin/callbacks/Analytics.php:1223
+msgid "Tracking requests will not be sent if visitors do not wish to be tracked."
+msgstr "如果访问者不希望被跟踪，我们将不会发送跟踪请求。"
+
+#: inc/admin/callbacks/Analytics.php:1219
+msgid "Enable client side DoNotTrack detection"
+msgstr "启用客户端DoNotTrack检测"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:579
+msgid "The closer to 1 the better (with large card, 2 is better)."
+msgstr "越接近1越好（有大卡，2更好）。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:570
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:71
+msgid "Minimun size for Twitter is <strong>144x144px</strong>. Please choose another image."
+msgstr "Twitter的最小尺寸是<strong>144x144px</strong>。请选择其他图片。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:566
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:70
+msgid "File type not supported by Twitter. Please choose another image."
+msgstr "Twitter不支持的文件类型。请选择其他图片。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:558
+msgid "This is what your post will look like in Twitter. You have to publish your post to get the Twitter Preview."
+msgstr "这是您的文章在Twitter上的样子。您必须发布您的文章才能获得Twitter预览。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:555
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:456
+msgid "Twitter Preview"
+msgstr "Twitter预览"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:462
+msgid "The closer to 1.91 the better."
+msgstr "越接近1.91越好。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:461
+#: inc/admin/metaboxes/admin-metaboxes-form.php:578
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:49
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:73
+msgid "Your image ratio is: "
+msgstr "您的图片比例为： "
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:457
+#: inc/admin/metaboxes/admin-metaboxes-form.php:574
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:48
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:72
+msgid "File error. Please choose another image."
+msgstr "文件错误。请选择其他图片。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:453
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:47
+msgid "Minimun size for Facebook is <strong>200x200px</strong>. Please choose another image."
+msgstr "Facebook的最小尺寸是<strong>200x200px</strong>。请选择其他图片。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:449
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:46
+msgid "File type not supported by Facebook. Please choose another image."
+msgstr "Facebook不支持的文件类型。请选择其他图片。"
+
+#: inc/admin/callbacks/Analytics.php:1145
+msgid "If someone visits the 'About' page on blog.example.com it will be recorded as 'blog / About'. This is the easiest way to get an overview of your traffic by sub-domain."
+msgstr "如果有人访问blog.example.com上的 \"关于 \"页面，它将被记录为 \"博客/关于\"。这是最简单的方法来了解你的子域名的流量概况。"
+
+#: inc/admin/callbacks/Analytics.php:1142
+msgid "Prepend the site domain to the page title when tracking"
+msgstr "追踪时，将站点的域名前置到页面标题前"
+
+#: inc/admin/callbacks/Analytics.php:1123
+msgid "If one visitor visits x.example.com and y.example.com, they will be counted as a unique visitor."
+msgstr "如果一个访问者访问了x.example.com和y.example.com，他们将被计算为一个独特的访问者。"
+
+#: inc/admin/callbacks/Analytics.php:1119
+msgid "Tracking one domain and its subdomains in the same website"
+msgstr "追踪同一网站中的一个域名及其子域名"
+
+#: inc/admin/callbacks/Analytics.php:1101
+msgid "To find your site ID, go to your <strong>Matomo Cloud account, Websites, Manage page</strong>. Look at \"Site ID\" on the right part."
+msgstr "要找到你的Site ID，请进入你的<strong>Matomo Cloud账户，网站（Websites），管理（Manage）页面</strong>。在右侧的\"Site ID\"中查找。"
+
+#: inc/admin/callbacks/Analytics.php:1096
+msgid "Matomo Site ID"
+msgstr "Matomo Site ID"
+
+#: inc/admin/callbacks/Analytics.php:1095
+msgid "Enter your site ID here"
+msgstr "在这里输入您的Site ID"
+
+#: inc/admin/callbacks/Analytics.php:1079
+msgid "Enter \"example\" if you Matomo account URL is \"example.matomo.cloud\""
+msgstr "如果您的Matomo账户网址是 \"example.matomo.cloud\"，请输入 \"example\"。"
+
+#: inc/admin/sections/Analytics.php:119
+msgid "Custom dimensions also work with <strong>Matomo</strong> tracking code."
+msgstr "自定义尺寸也可以使用<strong>Matomo</strong>的跟踪代码。"
+
+#: inc/admin/settings/Advanced.php:193
+msgid "Set default tab for Structured data metabox"
+msgstr "设置结构化数据元框的默认标签"
+
+#: inc/admin/settings/Analytics.php:553
+msgid "Download & Outlink tracking"
+msgstr "下载和外链跟踪"
+
+#: inc/admin/settings/Analytics.php:545
+msgid "Disable all tracking cookies"
+msgstr "禁用所有跟踪cookies"
+
+#: inc/admin/settings/Analytics.php:537
+msgid "Enable DoNotTrack detection"
+msgstr "启用DoNotTrack检测"
+
+#: inc/admin/settings/Analytics.php:530
+msgid "Cross domain"
+msgstr "跨领域"
+
+#: inc/admin/callbacks/Analytics.php:1182 inc/admin/settings/Analytics.php:522
+msgid "Enables cross domain linking"
+msgstr "启用跨域链接"
+
+#: inc/admin/callbacks/Analytics.php:1163 inc/admin/settings/Analytics.php:514
+msgid "Track users with JavaScript disabled"
+msgstr "跟踪禁用JavaScript的用户"
+
+#: inc/admin/settings/Analytics.php:506
+msgid "Prepend the site domain"
+msgstr "在网站域名前加注"
+
+#: inc/admin/settings/Analytics.php:498
+msgid "Track visitors across all subdomains"
+msgstr "跟踪所有子域的访客"
+
+#: inc/admin/settings/Analytics.php:490
+msgid "Enter your site ID"
+msgstr "输入您的Site ID"
+
+#: inc/admin/callbacks/Analytics.php:1034 inc/admin/settings/Analytics.php:466
+msgid "Enable Matomo tracking"
+msgstr "启用Matomo跟踪"
+
+#: inc/admin/settings/Analytics.php:65
+msgid "Analytics tracking opt-in"
+msgstr "分析跟踪选入"
+
+#: inc/admin/admin-pages/Analytics.php:29
+#: inc/admin/admin-pages/Analytics.php:40 inc/admin/sections/Analytics.php:133
+msgid "Matomo"
+msgstr "Matomo"
+
+#: inc/admin/admin-bar/admin-bar.php:124 inc/admin/admin-features-list.php:36
+#: inc/admin/admin.php:103
+msgid "Analytics"
+msgstr "分析"
+
+#: inc/admin/callbacks/Social.php:255 inc/admin/wizard/admin-wizard.php:853
+msgid "eg: http://linkedin.com/company/my-company-url/"
+msgstr "例如：http://linkedin.com/company/my-company-url/"
+
+#: inc/admin/callbacks/Social.php:244 inc/admin/wizard/admin-wizard.php:846
+msgid "eg: https://www.youtube.com/my-channel-url"
+msgstr "例如：https://www.youtube.com/my-channel-url"
+
+#: inc/admin/callbacks/Social.php:233 inc/admin/wizard/admin-wizard.php:839
+msgid "eg: https://www.instagram.com/my-page-url/"
+msgstr "例如：https://www.instagram.com/my-page-url/"
+
+#: inc/admin/callbacks/Social.php:222 inc/admin/wizard/admin-wizard.php:832
+msgid "eg: https://pinterest.com/my-page-url/"
+msgstr "例如：https://pinterest.com/my-page-url/"
+
+#: inc/admin/callbacks/Social.php:211 inc/admin/wizard/admin-wizard.php:825
+msgid "eg: @my_twitter_account"
+msgstr "例如：@我的twitter账号"
+
+#: inc/admin/callbacks/Social.php:200 inc/admin/wizard/admin-wizard.php:818
+msgid "eg: https://facebook.com/my-page-url"
+msgstr "例如：https://facebook.com/my-page-url"
+
+#: inc/admin/wizard/admin-wizard.php:735
+msgid "eg: My Company Name"
+msgstr "例如：我的公司名称"
+
+#: inc/admin/callbacks/Analytics.php:550
+msgid "Change the color of the cookie bar secondary button hover"
+msgstr "更改Cookie栏辅助按钮悬停的颜色"
+
+#: inc/admin/callbacks/Analytics.php:535
+msgid "Change the color of the cookie bar secondary button"
+msgstr "更改Cookie栏辅助按钮的颜色"
+
+#: inc/admin/callbacks/Analytics.php:520
+msgid "Change the color of the cookie bar secondary button hover background"
+msgstr "更改Cookie栏辅助按钮悬停背景的颜色"
+
+#: inc/admin/callbacks/Analytics.php:505
+msgid "Change the color of the cookie bar secondary button background"
+msgstr "更改Cookie栏辅助按钮背景的颜色"
+
+#: inc/admin/callbacks/Analytics.php:480
+msgid "Change the color of the cookie bar button hover"
+msgstr "更改Cookie栏按钮悬停的颜色"
+
+#: inc/admin/callbacks/Analytics.php:465
+msgid "Change the color of the cookie bar button"
+msgstr "更改Cookie栏按钮的颜色"
+
+#: inc/admin/callbacks/Analytics.php:450
+msgid "Change the color of the cookie bar button hover background"
+msgstr "更改Cookie栏按钮悬停背景的颜色"
+
+#: inc/admin/callbacks/Analytics.php:435
+msgid "Change the color of the cookie bar button background"
+msgstr "更改Cookie栏按钮背景的颜色"
+
+#: inc/admin/callbacks/Analytics.php:411
+msgid "Change the color of the cookie bar link"
+msgstr "更改cookie栏链接的颜色"
+
+#: inc/admin/callbacks/Analytics.php:396
+msgid "Change the color of the cookie bar text"
+msgstr "更改cookie栏文字的颜色"
+
+#: inc/admin/callbacks/Analytics.php:381
+msgid "Change the color of the cookie bar background"
+msgstr "更改cookie条背景的颜色"
+
+#: inc/functions/sitemap/template-xml-sitemaps-xsl.php:135
+msgid "This XML Sitemap contains %s URL(s)."
+msgstr "该XML网站地图包含%s URL。"
+
+#: inc/functions/sitemap/template-xml-sitemaps-xsl.php:132
+msgid "This XML Sitemap Index file contains %s sitemaps."
+msgstr "此XML网站地图索引文件包含%s网站地图。"
+
+#: src/Services/ContentAnalysis/GetContent.php:363
+msgid "No custom meta description is set for this post. If the global meta description suits you, you can ignore this recommendation."
+msgstr "没有为该文章设置自定义元描述。如果全局元描述适合您，则可以忽略此建议。"
+
+#: src/Services/ContentAnalysis/GetContent.php:314
+msgid "No custom title is set for this post. If the global meta title suits you, you can ignore this recommendation."
+msgstr "没有为该文章设置自定义标题。如果全局元标题适合您，则可以忽略此建议。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:315
+msgid "By checking this option, you will add a meta robots tag with the value \"nosnippet\"."
+msgstr "通过选中此选项，您将在robots.txt添加一个元标签值为\"nosnippet”。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:315
+msgid "\"nosnippet\" robots meta tag"
+msgstr "\"nosnippet”robots元标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:306
+msgid "By checking this option, you will add a meta robots tag with the value \"noarchive\"."
+msgstr "通过选中此选项，您将在robots.txt添加一个元标签值为\"noarchive”。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:306
+msgid "\"noarchive\" robots meta tag"
+msgstr "\"noarchive”robots元标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:297
+msgid "By checking this option, you will add a meta robots tag with the value \"noimageindex\". <br> Note that your images can always be indexed if they are linked from other pages."
+msgstr "通过选中此选项，您将在robots.txt添加一个元标签值为\"noimageindex”。 <br>请注意，如果图像是从其他页面链接的，则始终可以对其编制索引。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:297
+msgid "\"noimageindex\" robots meta tag"
+msgstr "\"noimageindex”robots元标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:288
+msgid "By checking this option, you will add a meta robots tag with the value \"noodp\". <br>Note that Google and Yahoo have stopped considering this tag since the closing of DMOZ directory."
+msgstr "通过选中此选项，您将在robots.txt添加一个元标签值为\"noodp”。 <br>请注意，自DMOZ目录关闭以来，Google和Yahoo已停止考虑使用此标签。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:288
+msgid "\"noodp\" robots meta tag"
+msgstr "\"noodp”robots元标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:278
+msgid "By checking this option, you will add a meta robots tag with the value \"nofollow\". <br>Search engines will not follow links from this URL."
+msgstr "通过选中此选项，您将在robots.txt添加一个元标签值为\"nofollow”。 <br>搜索引擎将不会通过该URL链接。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:278
+msgid "\"nofollow\" robots meta tag"
+msgstr "\"nofollow”robots元标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:267
+msgid "By checking this option, you will add a meta robots tag with the value \"noindex\". <br>Search engines will not index this URL in the search results."
+msgstr "通过选中此选项，您将在robots.txt添加一个元标签值为\"noindex”。 <br>搜索引擎不会在搜索结果中为该URL编制索引。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:267
+msgid "\"noindex\" robots meta tag"
+msgstr "\"noindex”robots元标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:196
+#: inc/admin/page-builders/elementor/inc/controls/class-social-preview-control.php:95
+msgid "Mobile Preview"
+msgstr "移动预览"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:188
+msgid "The Google preview is a simulation. <br>There is no reliable preview because it depends on the screen resolution, the device used, the expression sought, and Google. <br>There is not one snippet for one URL but several. <br>All the data in this overview comes directly from your source code. <br>This is what the crawlers will see."
+msgstr "谷歌的预览是一种模拟。<br>没有可靠的预览，因为它取决于屏幕分辨率、使用的设备、寻求的表达方式和谷歌。<br>一个URL没有一个片段，而是有好几个。<br>这个概览中的所有数据都直接来自于你的源代码。<br>这就是网络爬虫会看到的东西。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:188
+msgid "Snippet Preview"
+msgstr "摘要预览"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:144
+msgid "A meta description tag should generally inform and interest users with a short, relevant summary of what a particular page is about. <br>They are like a pitch that convince the user that the page is exactly what they're looking for. <br>There's no limit on how long a meta description can be, but the search result snippets are truncated as needed, typically to fit the device width."
+msgstr "元描述标签通常应以简短而相关的摘要来告知用户并使特定页面感兴趣，从而引起用户的兴趣。 <br>该标签就像一个推销员，使用户确信该页面正是他们想要的内容。 <br>对元描述的长度没有限制，但是搜索结果片段会根据需要被截断，通常适合设备的宽度。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:104
+msgid "Titles are critical to give users a quick insight into the content of a result and why it’s relevant to their query. It's often the primary piece of information used to decide which result to click on, so it's important to use high-quality titles on your web pages."
+msgstr "标题对于让用户快速了解结果的内容以及为什么它与他们的查询相关至关重要。它通常是用来决定点击哪个结果的主要信息，所以在网页上使用高质量的标题很重要。"
+
+#: inc/admin/callbacks/Analytics.php:650
+msgid "You don‘t see your code? Make sure to call <strong>wp_body_open();</strong> just after the opening body tag in your theme."
+msgstr "您没有看到您的代码？确保在你的主题中就在你的主题中打开body标签之后调用<strong>wp_body_open();</strong>。"
+
+#: inc/admin/blocks/notifications-center.php:805
+msgid "Information"
+msgstr "信息"
+
+#: inc/admin/blocks/notifications-center.php:58
+#: inc/admin/blocks/notifications-center.php:88
+#: inc/admin/blocks/notifications-center.php:119
+#: inc/admin/blocks/notifications-center.php:150
+msgid "Wizard"
+msgstr "向导"
+
+#: inc/admin/ajax.php:32
+msgid "A redirect is active for this URL. Turn it off to get the Google preview and content analysis."
+msgstr "该网址的重定向处于活动状态。将其关闭以获取Google预览和内容分析。"
+
+#: inc/admin/admin-pages/Tools.php:211
+msgid "Import posts and terms metadata from"
+msgstr "导入文章和分类元数据"
+
+#: inc/admin/admin-pages/Tools.php:232 inc/admin/wizard/admin-wizard.php:618
+msgid "Select an option"
+msgstr "选择一个选项"
+
+#: inc/admin/wizard/admin-wizard.php:1032
+msgid "Do not display this post type archive in search engine results <strong>(noindex)</strong>"
+msgstr "不要在搜索引擎结果中显示此文章类型存档<strong>（noindex）</strong>"
+
+#: inc/admin/wizard/admin-wizard.php:936
+msgid "Do not display this single post type in search engine results <strong>(noindex)</strong>"
+msgstr "不要在搜索引擎结果中显示此单个文章类型<strong>（noindex）</strong>"
+
+#: inc/admin/callbacks/Social.php:328
+msgid "Override every <strong>og:image</strong> tag with this default image (except if a custom og:image has already been set from the SEO metabox)."
+msgstr "用此默认图像覆盖每个<strong>og:image</strong>标签（除非已经从SEO元框设置了自定义og:image）。"
+
+#: inc/admin/settings/Social.php:146
+msgid "Apply this image to all your og:image tag"
+msgstr "将此图像应用于您的所有og:image标签"
+
+#: src/Actions/Admin/ManageColumn.php:82
+msgid "Words"
+msgstr "单词"
+
+#: src/Actions/Admin/ManageColumn.php:79
+msgid "Score"
+msgstr "分数"
+
+#: inc/admin/callbacks/Advanced.php:821
+msgid "Display Content Analysis results column (\"Good\" or \"Should be improved\")"
+msgstr "显示内容分析结果栏（\"好 \"或 \"应予改进\"）。"
+
+#: inc/admin/settings/Advanced.php:318
+msgid "Show content analysis score column in post types"
+msgstr "在文章类型中显示内容分析得分栏"
+
+#: inc/admin/admin-dyn-variables-helper.php:12
+msgid "Post thumbnail URL"
+msgstr "文章缩略图网址"
+
+#: inc/admin/callbacks/Analytics.php:210
+msgid "Change the close button value"
+msgstr "更改关闭按钮的值"
+
+#: inc/admin/callbacks/Analytics.php:210
+msgid "default: X"
+msgstr "默认：X"
+
+#: inc/admin/callbacks/Social.php:417
+msgid "How do I find my Facebook Page ID?"
+msgstr "如何找到我的Facebook页面ID？"
+
+#: inc/admin/settings/Analytics.php:105
+msgid "Close button"
+msgstr "关闭按钮"
+
+#: inc/admin/blocks/notifications-center.php:1023
+msgid "The PRO version of SEOPress allows you to easily manage your structured data (schemas), add a breadcrumb optimized for SEO and accessibility, improve SEO for WooCommerce, gain productivity with our import / export tool from a CSV of your metadata and so much more."
+msgstr "SEOPress的PRO版本可让您轻松管理Structured数据（方案），添加针对SEO和可访问性进行了优化的面包屑，为WooCommerce改进SEO，使用我们的导入/导出工具从元数据CSV中提高生产力，等等。"
+
+#: inc/admin/blocks/notifications-center.php:973
+msgid "Please enable <strong>Structured Data Types metabox for your posts, pages and custom post types</strong> option in order to use automatic and manual schemas. (SEO > PRO > Structured Data Types (schema.org)"
+msgstr "请<strong>为您的文章，页面和自定义文章类型</strong>选项启用\"<strong>Structured数据类型”元框</strong> ，以便使用自动和手动模式。 （SEO> PRO>Structured数据类型（schema.org））"
+
+#: inc/admin/blocks/notifications-center.php:972
+msgid "Structured data types is not correctly enabled"
+msgstr "Structured数据类型未正确启用"
+
+#: inc/admin/blocks/notifications-center.php:992
+msgid "Please activate the SEOPress PRO license key to automatically receive updates to guarantee you the best user experience possible."
+msgstr "请激活SEOPress PRO许可证密钥，以自动接收更新，保证您获得最佳的用户体验。"
+
+#: inc/admin/blocks/notifications-center.php:955
+msgid "Is your brand new site online? So reference it as quickly as possible on Google to get your first visitors via Google Search Console. Already the case? Click on the cross on the right to remove this alert."
+msgstr "您的全新站点上线了吗？那么尽快在谷歌上引用它，通过谷歌搜索控制台获得您的第一批访客。已经是这种情况了吗？点击右边的十字架来删除这个提醒。"
+
+#: inc/admin/blocks/notifications-center.php:914
+msgid "Local Business websites should have a My Business page to improve visibility in search results. Click on the cross on the right to delete this notification if you are not concerned."
+msgstr "本地企业网站应该有一个 \"我的企业 \"页面，以提高搜索结果的可见度。如果您不关心，请点击右边的十字星删除此通知。"
+
+#: inc/admin/blocks/notifications-center.php:884
+msgid "XML Sitemaps are useful to facilitate the crawling of your content by search engine robots. Indirectly, this can benefit your ranking by reducing the crawl bugdet."
+msgstr "XML网站地图有助于搜索引擎robots对您的内容进行爬网。间接地，这可以通过减少爬网预算来使您的排名受益。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:365
+msgid "Current breadcrumbs: %s"
+msgstr "当前面包屑：%s"
+
+#: inc/admin/blocks/notifications-center.php:834
+msgid "Enabling this option will create duplicate content for each article beyond x comments. This can have a disastrous effect by creating a large number of poor quality pages, and slowing the Google bot unnecessarily, so your ranking in search results."
+msgstr "启用此选项将为x评论以外的每篇文章创建重复内容。通过创建大量质量不佳的页面并不必要地减慢Google bot的速度，可能会造成灾难性的后果，因此您在搜索结果中的排名。"
+
+#: inc/admin/blocks/notifications-center.php:803
+msgid "Support the development and improvement of the plugin by taking 15 seconds of your time to leave us a user review on the official WordPress plugins repository. Thank you!"
+msgstr "请花15秒的时间在WordPress官方插件库中给我们留下用户评论，以支持插件的开发和改进。谢谢您的支持！"
+
+#: inc/admin/blocks/notifications-center.php:671
+#: inc/admin/blocks/notifications-center.php:702
+msgid "Why is this important? Showing only the summary of each article significantly reduces the theft of your content by third party sites. Not to mention, the increase in your traffic, your advertising revenue, conversions..."
+msgstr "为什么这很重要？只显示每篇文章的摘要，大大减少了第三方网站对你内容的盗用。更不用说，您的流量、广告收入、转化率的增加......"
+
+#: inc/admin/blocks/notifications-center.php:654
+msgid "Your Site Title is used by WordPress, your theme and your plugins including SEOPress. It is an essential component in the generation of title tags, but not only. Enter one!"
+msgstr "您的站点标题被WordPress、主题和包括SEOPress在内的插件所使用。它是生成标题标签的重要组成部分，但不仅仅是。输入标题！"
+
+#: inc/admin/blocks/notifications-center.php:635
+msgid "You have activated the blocking of the indexing of your site. If your site is under development, this is probably normal. Otherwise, check your settings. Delete this notification using the cross on the right if you are not concerned."
+msgstr "您已经激活了对您站点索引的屏蔽。如果您的站点正在开发中，这可能是正常的。否则，请检查您的设置。如果您不在意，请使用右边的十字键删除此通知。"
+
+#: inc/admin/blocks/notifications-center.php:572
+#: inc/admin/blocks/notifications-center.php:590
+msgid "This PHP module, installed by default with PHP, is required by many plugins including SEOPress. Please contact your host as soon as possible to solve this."
+msgstr "这个默认安装在PHP中的PHP模块，很多插件包括SEOPress都需要。请尽快联系您的主机解决。"
+
+#: inc/admin/blocks/notifications-center.php:553
+msgid "Https is considered by Google as a positive signal for the ranking of your site. It also reassures your visitors for data security, and improves trust."
+msgstr "Https被谷歌认为是您站点排名的一个积极信号。它还能让您的访问者放心，以确保数据安全，并提高信任度。"
+
+#: inc/admin/blocks/notifications-center.php:414
+msgid "To solve this, please disable and re-enable SEOPress PRO. No data will be lost."
+msgstr "为了解决这个问题，请禁用并重新启用SEOPress PRO。数据不会丢失。"
+
+#: inc/admin/blocks/notifications-center.php:413
+msgid "You have enabled 404 cleaning BUT the scheduled task is not running."
+msgstr "您已经启用了404清洗，但计划任务没有运行。"
+
+#: inc/admin/blocks/notifications-center.php:367
+msgid "Do you want to migrate all your metadata to SEOPress? Do not use multiple SEO plugins at once to avoid conflicts!"
+msgstr "您是否要将所有元数据迁移到SEOPress？不要一次使用多个SEO插件，以避免冲突！"
+
+#. translators: %s name of a SEO plugin (eg: Yoast SEO)
+#. translators: %s name of a WP plugin (eg: IndexNow)
+#: inc/admin/blocks/notifications-center.php:366
+#: inc/admin/blocks/notifications-center.php:393
+#: inc/admin/sections/InstantIndexing.php:41
+msgid "We noticed that you use <strong>%s</strong> plugin."
+msgstr "我们注意到您使用了<strong>%s</strong>插件。"
+
+#: inc/admin/blocks/notifications-center.php:285
+msgid "This error indicates that your theme uses a deprecated function to generate the title tag of your pages. SEOPress will not be able to generate your custom title tags if this error is not fixed."
+msgstr "这个错误表明您的主题使用了一个过时的功能来生成您的页面的标题标签。如果这个错误没有被修复，SEOPress将无法生成您的自定义标题标签。"
+
+#: inc/admin/blocks/notifications-center.php:86
+msgid "The best way to quickly setup SEOPress on your site."
+msgstr "在您的站点上快速设置SEOPress的最佳方法。"
+
+#: inc/admin/metaboxes/admin-metaboxes.php:281
+#: inc/admin/metaboxes/admin-metaboxes.php:658
+#: inc/admin/metaboxes/admin-term-metaboxes.php:217
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:72
+#: inc/admin/page-builders/elementor/inc/controls/class-content-analysis-control.php:35
+msgid "Analysis in progress..."
+msgstr "分析中..."
+
+#: src/Services/ContentAnalysis/RenderContentAnalysis.php:37
+msgid "Close"
+msgstr "关闭"
+
+#: src/Services/ContentAnalysis/RenderContentAnalysis.php:37
+msgid "Expand"
+msgstr "扩大"
+
+#: src/Actions/Admin/ManageColumn.php:183
+#: src/Actions/Admin/ManageColumn.php:199
+#: src/Services/ContentAnalysis/RenderContentAnalysis.php:26
+msgid "Good"
+msgstr "优良"
+
+#: src/Actions/Admin/ManageColumn.php:188
+#: src/Actions/Admin/ManageColumn.php:204
+#: src/Services/ContentAnalysis/RenderContentAnalysis.php:23
+msgid "Should be improved"
+msgstr "应予改进"
+
+#: src/Services/ContentAnalysis/RenderContentAnalysis.php:19
+msgid "<strong>Should be improved:</strong> red or orange dots <br> <strong>Good:</strong> yellow or green dots"
+msgstr "<strong>应予改进：</strong>红色或橙色点 <br><strong>好：</strong>黄色或绿色点"
+
+#: src/Services/ContentAnalysis/GetContent.php:812
+msgid "This page doesn't have any outbound links."
+msgstr "本页没有任何外链。"
+
+#: src/Services/ContentAnalysis/GetContent.php:802
+msgid "We found %s outbound links in your page. Below, the list:"
+msgstr "我们在您的页面中找到%s个出站链接。下面是列表："
+
+#: inc/admin/blocks/get-started.php:18
+msgid "Launch our installation wizard to quickly and easily configure the basic SEO settings for your site. Browse our video guides to go further. Can't find the answers to your questions? Open a ticket from your customer area. A happiness engineer will be happy to help you."
+msgstr "启动我们的安装向导，快速、轻松地为您的站点配置基本的SEO设置。浏览我们的视频指南以进一步了解。找不到问题的答案？从您的客户区域打开一个票据。一个幸福的工程师将很高兴帮助您。"
+
+#: inc/admin/blocks/get-started.php:22
+msgid "Get started"
+msgstr "开始"
+
+#: inc/admin/blocks/get-started.php:16
+msgid "Welcome to SEOPress!"
+msgstr "欢迎来到SEOPress!"
+
+#: inc/admin/blocks/get-started.php:14
+msgid "How-to get started"
+msgstr "如何开始"
+
+#: inc/admin/admin-features-list.php:19
+msgid "Manage all your titles & metas for post types, taxonomies, archives..."
+msgstr "管理您的所有标题和元素据，以获取文章类型，分类法，存档..."
+
+#: inc/admin/wizard/admin-wizard.php:633
+msgid "No data to migrate? Click \"Next step\" button!"
+msgstr "没有数据要迁移？点击 \"下一步 \"按钮!"
+
+#: src/Services/ContentAnalysis/GetContent.php:733
+msgid "No alternative text found for these images. Alt tags are important for both SEO and accessibility. Edit your images using the media library or your favorite page builder and fill in alternative text fields."
+msgstr "没有为这些图片找到替代文本。Alt标签对于SEO和访问性都很重要。使用媒体库或您最喜欢的页面构建器编辑您的图像，并填写替代文本字段。"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:30
+msgid "Writing content for your users is the most important thing! If it doesn‘t feel natural, your visitors will leave your site, Google will know it and your ranking will be affected."
+msgstr "为用户写内容是最重要的事情！如果感觉不自然，您的访客就会离开您的站点，而使您在谷歌的排名也会受到影响。"
+
+#: src/Services/ContentAnalysis/GetContent.php:130
+msgid "We were unable to calculate the density of your keywords. You probably haven‘t added any content or your target keywords were not find in your post content."
+msgstr "我们无法计算您的关键词的密度，您可能没有添加任何内容，或者您的文章内容中没有找到目标关键词。"
+
+#: src/Services/ContentAnalysis/GetContent.php:97
+msgid "No content? Add a few more paragraphs!"
+msgstr "无内容？再添加几段吧！"
+
+#: src/Services/ContentAnalysis/GetContent.php:63
+msgid "The last modified date of this article is less than 1 year. Cool!"
+msgstr "本文的最后修改日期少于1年！"
+
+#: src/Services/ContentAnalysis/GetContent.php:43
+msgid "No schemas found in the source code of this page."
+msgstr "在此页面的源代码中找不到schema。"
+
+#: src/Helpers/ContentAnalysis.php:68
+msgid "Alternative texts of images"
+msgstr "图像的替代文字"
+
+#: src/Helpers/ContentAnalysis.php:63
+msgid "Meta robots"
+msgstr "元机器人"
+
+#: src/Helpers/ContentAnalysis.php:58
+msgid "Social meta tags"
+msgstr "社会元标签"
+
+#: src/Helpers/ContentAnalysis.php:43
+msgid "Headings"
+msgstr "标题"
+
+#: src/Helpers/ContentAnalysis.php:23
+msgid "Last modified date"
+msgstr "最后修改日期"
+
+#: src/Services/ContentAnalysis/GetContent.php:31
+msgid "duplicated schema - x"
+msgstr "重复的schema-x"
+
+#: src/Services/ContentAnalysis/GetContent.php:23
+msgid "We found these schemas in the source code of this page:"
+msgstr "我们在此页面的源代码中找到了这些schema："
+
+#: src/Helpers/ContentAnalysis.php:18
+msgid "Structured data types"
+msgstr "Structured数据类型"
+
+#: src/Services/ContentAnalysis/GetContent.php:61
+msgid "This post is a little old!"
+msgstr "这个文章有点老了！"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:444
+msgid "The Social Networks feature is disabled. Still seing informations from the FB Preview? You probably have social tags added by your theme or a plugin."
+msgstr "社交网络功能已禁用。还在从Facebook预览中获取信息吗？您可能已通过主题或插件添加了社交标签。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:440
+msgid "This is what your post will look like in Facebook. You have to publish your post to get the Facebook Preview."
+msgstr "这是你的帖子在Facebook上的样子。你必须发布你的帖子才能获得Facebook预览。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:436
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:407
+msgid "Facebook Preview"
+msgstr "Facebook预览"
+
+#: inc/admin/callbacks/Analytics.php:266
+msgid "Top"
+msgstr "顶部"
+
+#: inc/admin/callbacks/Analytics.php:256
+msgid "Bottom (default)"
+msgstr "底部（默认）"
+
+#: inc/admin/settings/Analytics.php:129
+msgid "Cookie bar position"
+msgstr "Cookie栏位置"
+
+#: inc/admin/admin-pages/Analytics.php:28
+#: inc/admin/admin-pages/Analytics.php:39 inc/admin/sections/Analytics.php:25
+msgid "Cookie bar / GDPR"
+msgstr "Cookie栏 / GDPR"
+
+#: src/Services/ContentAnalysis/GetContent.php:624
+msgid "Your Twitter Image is missing!"
+msgstr "您的Twitter图像丢失！"
+
+#: src/Services/ContentAnalysis/GetContent.php:606
+msgid "We found %d twitter:image in your content."
+msgstr "我们在您的内容中找到%d twitter:image。"
+
+#: src/Services/ContentAnalysis/GetContent.php:598
+msgid "Twitter Image"
+msgstr "Twitter 图片"
+
+#: src/Services/ContentAnalysis/GetContent.php:594
+msgid "Your Twitter Description is missing!"
+msgstr "您的Twitter描述丢失！"
+
+#: src/Services/ContentAnalysis/GetContent.php:582
+msgid "We found a Twitter Description tag in your source code."
+msgstr "我们在您的源代码中找到了Twitter描述标签。"
+
+#: src/Services/ContentAnalysis/GetContent.php:577
+msgid "You should not use more than one twitter:description in your post content to avoid conflicts when sharing on social networks. Twitter will take the last twitter:description tag from your source code. Below, the list:"
+msgstr "在文章内容中，请勿使用多个twitter:description，以避免在社交网络上分享时发生冲突。 Twitter将采用源代码中的最后一个twitter:description标签。下面是列表："
+
+#: src/Services/ContentAnalysis/GetContent.php:576
+msgid "We found %d twitter:description in your content."
+msgstr "我们在您的内容中找到%d twitter:description。"
+
+#: src/Services/ContentAnalysis/GetContent.php:567
+msgid "Twitter Description"
+msgstr "Twitter描述"
+
+#: src/Services/ContentAnalysis/GetContent.php:563
+msgid "Your Twitter Title is missing!"
+msgstr "您的Twitter标题不见了！"
+
+#: src/Services/ContentAnalysis/GetContent.php:546
+msgid "You should not use more than one twitter:title in your post content to avoid conflicts when sharing on social networks. Twitter will take the last twitter:title tag from your source code. Below, the list:"
+msgstr "您不得在文章内容中使用多个twitter:title，以避免在社交网络上分享时发生冲突。 Twitter将从源代码中获取最后一个twitter:title标签。下面是列表："
+
+#: src/Services/ContentAnalysis/GetContent.php:545
+msgid "We found %d twitter:title in your content."
+msgstr "我们在您的内容中找到%d twitter:title。"
+
+#: src/Services/ContentAnalysis/GetContent.php:532
+msgid "Your Open Graph Site Name is missing!"
+msgstr "您的Open Graph网站名称丢失！"
+
+#: src/Services/ContentAnalysis/GetContent.php:520
+msgid "We found an Open Graph Site Name tag in your source code."
+msgstr "我们在您的源代码中找到了一个Open Graph站点名称标签。"
+
+#: src/Services/ContentAnalysis/GetContent.php:515
+msgid "You should not use more than one og:site_name in your post content to avoid conflicts when sharing on social networks. Facebook will take the last og:site_name tag from your source code. Below, the list:"
+msgstr "在文章内容中，请勿使用多个og:site_name，以避免在社交网络上分享时发生冲突。 Facebook将从您的源代码中获取最后的og:site_name标签。下面是列表："
+
+#: src/Services/ContentAnalysis/GetContent.php:514
+msgid "We found %d og:site_name in your content."
+msgstr "我们在您的内容中找到%d og:site_name。"
+
+#: src/Services/ContentAnalysis/GetContent.php:505
+msgid "Open Graph Site Name"
+msgstr "Open Graph站点名称"
+
+#: src/Services/ContentAnalysis/GetContent.php:501
+msgid "Your Open Graph URL is missing!"
+msgstr "您的Open Graph网址丢失！"
+
+#: src/Services/ContentAnalysis/GetContent.php:489
+msgid "We found an Open Graph URL tag in your source code."
+msgstr "我们在您的源代码中找到了一个Open Graph网址标签。"
+
+#: src/Services/ContentAnalysis/GetContent.php:484
+msgid "You should not use more than one og:url in your post content to avoid conflicts when sharing on social networks. Facebook will take the last og:url tag from your source code. Below, the list:"
+msgstr "在文章内容中，请勿使用多个og:url，以避免在社交网络上分享时发生冲突。 Facebook将从您的源代码中获取最后一个og:url标记。下面是列表："
+
+#: src/Services/ContentAnalysis/GetContent.php:483
+msgid "We found %d og:url in your content."
+msgstr "我们在您的内容中找到%d og:url。"
+
+#: src/Services/ContentAnalysis/GetContent.php:474
+msgid "Open Graph URL"
+msgstr "Open Graph网址"
+
+#: src/Services/ContentAnalysis/GetContent.php:470
+msgid "Your Open Graph Image is missing!"
+msgstr "您的Open Graph图像丢失！"
+
+#: src/Services/ContentAnalysis/GetContent.php:452
+msgid "We found %d og:image in your content."
+msgstr "我们在您的内容中找到%d og:image。"
+
+#: src/Services/ContentAnalysis/GetContent.php:444
+msgid "Open Graph Image"
+msgstr "社会化图像"
+
+#: src/Services/ContentAnalysis/GetContent.php:440
+msgid "Your Open Graph Description is missing!"
+msgstr "您的Open Graph描述丢失！"
+
+#: src/Services/ContentAnalysis/GetContent.php:428
+msgid "We found an Open Graph Description tag in your source code."
+msgstr "我们在您的源代码中找到了一个Open Graph描述标签。"
+
+#: src/Services/ContentAnalysis/GetContent.php:423
+msgid "You should not use more than one og:description in your post content to avoid conflicts when sharing on social networks. Facebook will take the last og:description tag from your source code. Below, the list:"
+msgstr "在文章内容中，请勿使用多个og:description，以避免在社交网络上分享时发生冲突。 Facebook将从您的源代码中获取最后的og:description标签。下面是列表："
+
+#: src/Services/ContentAnalysis/GetContent.php:422
+msgid "We found %d og:description in your content."
+msgstr "我们在您的内容中找到%d og:description。"
+
+#: src/Services/ContentAnalysis/GetContent.php:413
+msgid "Open Graph Description"
+msgstr "打开图形描述"
+
+#: src/Services/ContentAnalysis/GetContent.php:409
+msgid "Your Open Graph Title is missing!"
+msgstr "您的Open Graph标题丢失！"
+
+#: src/Services/ContentAnalysis/GetContent.php:397
+msgid "We found an Open Graph Title tag in your source code."
+msgstr "我们在您的源代码中找到了一个Open Graph标题标签。"
+
+#: src/Services/ContentAnalysis/GetContent.php:392
+msgid "You should not use more than one og:title in your post content to avoid conflicts when sharing on social networks. Facebook will take the last og:title tag from your source code. Below, the list:"
+msgstr "在文章内容中，请勿使用多个og:title，以免在社交网络上共享时发生冲突。 Facebook将从您的源代码中获取最后的og:title标签。下面是列表："
+
+#: src/Services/ContentAnalysis/GetContent.php:391
+msgid "We found %d og:title in your content."
+msgstr "我们在您的内容中找到%d og:title。"
+
+#: src/Services/ContentAnalysis/GetContent.php:382
+msgid "Open Graph Title"
+msgstr "Open Graph标题"
+
+#: inc/admin/callbacks/ImageSEO.php:85
+msgid "We recommend Image SEO plugin to optimize your image ALT texts and names for Search Engines using AI and Machine Learning. Starting from just €4.99."
+msgstr "我们推荐Image SEO插件，利用人工智能和机器学习来优化你的图片ALT文本和名称，为搜索引擎服务。起价仅为4.99欧元。"
+
+#: inc/admin/callbacks/Advanced.php:225
+msgid "Remove website field from comment form to reduce spam"
+msgstr "移除评论表格中的网站字段，以减少垃圾信息"
+
+#: inc/admin/callbacks/Advanced.php:205
+msgid "Remove comment author URL in comments if the website is filled from profile page"
+msgstr "如果站点是由个人资料页面填写的，则在评论中删除评论作者的URL"
+
+#: inc/admin/callbacks/Advanced.php:185
+msgid "Remove hentry post class to prevent Google from seeing this as structured data (schema)"
+msgstr "删除hentry文章类，以防止Google将其视为结构化数据（模式）"
+
+#: inc/admin/settings/Advanced.php:72
+msgid "Remove website field in comment form"
+msgstr "删除评论表中的网站字段"
+
+#: inc/admin/settings/Advanced.php:64
+msgid "Remove author URL"
+msgstr "移除作者URL"
+
+#: inc/admin/settings/Advanced.php:56
+msgid "Remove hentry post class"
+msgstr "删除hentry 文章类"
+
+#: inc/admin/blocks/notifications-center.php:571
+msgid "PHP module \"DOM\" is missing on your server."
+msgstr "您的服务器上缺少PHP模块 \"DOM\"。"
+
+#: src/Services/ContentAnalysis/GetContent.php:163
+msgid "You should add one of your target keyword in your permalink."
+msgstr "您应该在永久链接中添加至少一个您的目标关键字。"
+
+#: src/Services/ContentAnalysis/GetContent.php:147
+msgid "Cool, one of your target keyword is used in your permalink."
+msgstr "很酷，您的一个目标关键字在永久链接中使用了。"
+
+#: src/Helpers/ContentAnalysis.php:38
+msgid "Keywords in permalink"
+msgstr "固定链接中的关键字"
+
+#. translators: %d current page (eg: 2) %2$d total number of pages (eg: 30)
+#: inc/functions/variables/dynamic-variables.php:78 src/Tags/Page.php:35
+msgid "Page %d of %2$d"
+msgstr "第%d页，共%2$d页"
+
+#: inc/admin/callbacks/Analytics.php:674
+msgid "This code will be added just after the closing body tag of your page."
+msgstr "这段代码将被添加到你的页面的主体标签后。"
+
+#: inc/admin/callbacks/Analytics.php:670
+msgid "Additional tracking code field added to body footer"
+msgstr "在正文页脚添加了额外的跟踪代码字段"
+
+#: inc/admin/callbacks/Analytics.php:670
+msgid "Paste your tracking code here (body footer)"
+msgstr "将您的跟踪代码粘贴在这里（正文页脚）。"
+
+#: inc/admin/callbacks/Titles.php:529 inc/admin/callbacks/Titles.php:542
+#: inc/admin/callbacks/Titles.php:546
+msgid "Click to display any SEO metaboxes for this taxonomy"
+msgstr "单击以显示此分类法的任何SEO元框"
+
+#: inc/admin/callbacks/Titles.php:522 inc/admin/callbacks/Titles.php:533
+#: inc/admin/callbacks/Titles.php:538 inc/admin/callbacks/Titles.php:547
+msgid "Click to hide any SEO metaboxes for this taxonomy"
+msgstr "单击以隐藏此分类法的任何SEO元框"
+
+#: inc/admin/callbacks/Titles.php:122 inc/admin/callbacks/Titles.php:135
+#: inc/admin/callbacks/Titles.php:139
+msgid "Click to display any SEO metaboxes / columns for this post type"
+msgstr "单击以显示此文章类型的任何SEO元框/列"
+
+#: inc/admin/callbacks/Titles.php:116 inc/admin/callbacks/Titles.php:126
+#: inc/admin/callbacks/Titles.php:131 inc/admin/callbacks/Titles.php:140
+msgid "Click to hide any SEO metaboxes / columns for this post type"
+msgstr "单击以隐藏此文章类型的任何SEO元框/列"
+
+#: inc/admin/settings/Analytics.php:349
+msgid "[BODY (FOOTER)] Add an additional tracking code (like Google Tag Manager...)"
+msgstr "[主体(底部)] 添加一个额外的跟踪代码(像谷歌标签管理......)"
+
+#: seopress.php:603
+msgid "Configuration Wizard"
+msgstr "配置向导"
+
+#: seopress.php:602
+msgid "Docs"
+msgstr "文档"
+
+#: inc/admin/wizard/admin-wizard.php:132 seopress.php:372
+msgid "Export completed!"
+msgstr "导出完成！"
+
+#: inc/admin/admin-pages/Tools.php:98
+msgid "Export metadata to a CSV"
+msgstr "将元数据导出为CSV"
+
+#: inc/admin/admin-pages/Tools.php:90
+msgid "Run the importer"
+msgstr "运行导入程序"
+
+#: inc/admin/admin-pages/Tools.php:52
+msgid "Import data from a CSV"
+msgstr "从CSV导入数据"
+
+#: inc/admin/admin-pages/Tools.php:21 inc/admin/admin-pages/Tools.php:47
+msgid "Data"
+msgstr "数据"
+
+#: inc/admin/callbacks/Sitemaps.php:109
+msgid "Make sure to enable author archive from SEO, titles and metas, archives tab.</a>"
+msgstr "确保从SEO，标题和元值，存档选项卡中启用作者存档。</a>"
+
+#: inc/admin/callbacks/Sitemaps.php:105 inc/admin/settings/Sitemaps.php:42
+msgid "Enable Author Sitemap"
+msgstr "启用作者网站地图"
+
+#: inc/admin/blocks/notifications-center.php:1030
+msgid "Upgrade now!"
+msgstr "现在升级!"
+
+#: inc/admin/blocks/notifications-center.php:1022
+msgid "Take your SEO to the next level with SEOPress PRO!"
+msgstr "使用SEOPress PRO让您的SEO更上一层楼!"
+
+#: inc/admin/wizard/admin-wizard.php:131 seopress.php:370
+msgid "Migration completed!"
+msgstr "迁移完成！"
+
+#: inc/admin/callbacks/Analytics.php:647
+msgid "This code will be added just after the opening body tag of your page."
+msgstr "这段代码将被添加到你的页面的开头body标签之后。"
+
+#: inc/admin/callbacks/Analytics.php:645
+msgid "Additional tracking code field added to body"
+msgstr "在正文中增加了跟踪代码字段"
+
+#: inc/admin/callbacks/Analytics.php:645
+msgid "Paste your tracking code here like Google Tag Manager (body)"
+msgstr "把您的跟踪代码粘贴在这里，就像谷歌标签管理器（正文）一样。"
+
+#: inc/admin/callbacks/Titles.php:1473
+msgid "Prevents Google to display a sitelinks searchbox in search results. Enable this option will remove the \"Website\" schema from your source code."
+msgstr "防止Google在搜索结果中显示sitelinks搜索框。启用此选项将从您的源代码中删除 \"网站 \"模式。"
+
+#: inc/admin/callbacks/Titles.php:388
+msgid "Display post thumbnail in Google Custom Search results?"
+msgstr "在Google自定义搜索结果中显示文章缩略图？"
+
+#: src/Helpers/ContentAnalysis.php:78
+msgid "Outbound Links"
+msgstr "出站链接"
+
+#: src/Services/ContentAnalysis/GetContent.php:126
+msgid "Learn more about <a href=\"https://www.youtube.com/watch?v=Rk4qgQdp2UA\" target=\"_blank\">keywords stuffing</a>."
+msgstr "了解更多关于<a href=\"https://www.youtube.com/watch?v=Rk4qgQdp2UA\" target=\"_blank\">关键词填充</a>。"
+
+#: src/Services/ContentAnalysis/GetContent.php:123
+msgid "%s was found %d times in your content, a keyword density of %s%%"
+msgstr "%s 在您的内容中找到了%d次，关键字密度为%s%%"
+
+#: src/Helpers/ContentAnalysis.php:33
+msgid "Keywords density"
+msgstr "关键字密度"
+
+#: src/Services/ContentAnalysis/GetContent.php:82
+msgid "Words counter is not a direct ranking factor. But, your content must be as qualitative as possible, with relevant and unique information. To fulfill these conditions, your article requires a minimum of paragraphs, so words."
+msgstr "字数计数器不是直接的排名因素。但是，你的内容必须尽可能的有质量，有相关的、独特的信息。为了满足这些条件，你的文章要求最少的段落，所以字数。"
+
+#: inc/admin/wizard/admin-wizard.php:1101
+msgid "For which taxonomy archives, should indexing be disabled?"
+msgstr "对于哪些分类学档案，应该禁用索引？"
+
+#: inc/admin/wizard/admin-wizard.php:1011
+msgid "For which post type archives, should indexing be disabled?"
+msgstr "对于哪些文章类型的档案，应该禁用索引？"
+
+#: inc/admin/wizard/admin-wizard.php:913
+msgid "For which single post types, should indexing be disabled?"
+msgstr "对于哪些单篇文章类型，应该禁用索引？"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:726
+msgid "Exactly match all parameters"
+msgstr "完全匹配所有参数"
+
+#: inc/admin/settings/Analytics.php:341
+msgid "[BODY] Add an additional tracking code (like Google Tag Manager...)"
+msgstr "[正文]添加一个额外的跟踪代码(像谷歌标签管理......)"
+
+#: inc/admin/admin-pages/Tools.php:259
+msgid "Activate Redirections"
+msgstr "激活重定向"
+
+#: seopress.php:260
+msgid "has been successfully updated!"
+msgstr "已成功更新！"
+
+#: inc/admin/admin-features-list.php:172
+msgid "Edit your license key."
+msgstr "编辑您的许可证密钥。"
+
+#: inc/admin/callbacks/Analytics.php:614
+msgid "AW-XXXXXXXXX"
+msgstr "AW-XXXXXXXXX"
+
+#: inc/admin/callbacks/Analytics.php:614
+msgid "Enter your Google Ads conversion ID (eg: AW-123456789)"
+msgstr "输入您的谷歌广告转换ID（例如：AW-123456789）。"
+
+#: inc/admin/settings/Analytics.php:275
+msgid "Enable Google Ads"
+msgstr "启用Google 广告"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:685
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:523
+#: src/Helpers/Metas/RedirectionSettings.php:67
+msgid "Enter your new URL in absolute (eg: https://www.example.com/)"
+msgstr "输入你的新的绝对网址（例如：https://www.example.com/）。"
+
+#: inc/admin/callbacks/Social.php:308
+#: inc/admin/metaboxes/admin-metaboxes-form.php:420
+#: src/Helpers/Metas/SocialSettings.php:51
+msgid "Minimum size: 200x200px, ideal ratio 1.91:1, 8Mb max. (eg: 1640x856px or 3280x1712px for retina screens)"
+msgstr "最小尺寸：200x200px，理想比例1.91:1，最大8Mb。(例如：1640x856px或3280x1712px的视网膜屏幕)"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:166
+msgid "Category / term description"
+msgstr "分类/分类描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:159
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:57
+msgid " / 940 pixels - "
+msgstr " / 940像素 - "
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:120
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:55
+msgid " / 568 pixels - "
+msgstr " / 568像素 - "
+
+#: inc/admin/admin-pages/Tools.php:26 inc/admin/admin-pages/Tools.php:308
+msgid "Reset"
+msgstr "重置"
+
+#: inc/admin/admin-pages/Tools.php:23 inc/admin/admin-pages/Tools.php:208
+msgid "Plugins"
+msgstr "插件"
+
+#: inc/admin/admin-bar/admin-bar.php:203
+msgid "Configuration wizard"
+msgstr "配置向导"
+
+#: inc/admin/callbacks/Analytics.php:146
+msgid "The previous option must be checked to use this."
+msgstr "必须勾选前面的选项才能使用。"
+
+#: inc/admin/callbacks/Analytics.php:142
+msgid "Display and automatically accept the user‘s consent on page load (not fully GDPR)"
+msgstr "在页面加载时显示并自动接受用户的同意（不完全GDPR）。"
+
+#: inc/admin/blocks/notifications-center.php:92
+#: inc/admin/blocks/notifications-center.php:123
+msgid "Start the wizard"
+msgstr "开始向导"
+
+#: inc/admin/blocks/notifications-center.php:85
+msgid "Configure SEOPress in a few minutes with our installation wizard"
+msgstr "使用我们的安装向导在几分钟内配置SEOPress"
+
+#: inc/admin/wizard/admin-wizard.php:1642
+msgid "Review Settings"
+msgstr "查看设置"
+
+#: inc/admin/wizard/admin-wizard.php:1638
+msgid "Visit Dashboard"
+msgstr "访问个人中心"
+
+#: inc/admin/wizard/admin-wizard.php:1631
+msgid "You can also:"
+msgstr "您还可以："
+
+#: inc/admin/wizard/admin-wizard.php:1621
+msgid "The off side of SEOPress"
+msgstr "SEOPress的知识"
+
+#: inc/admin/wizard/admin-wizard.php:1600
+msgid "Watch our guided tour videos to learn more about SEOPress"
+msgstr "观看我们的指南视频，了解有关SEOPress的更多信息"
+
+#: inc/admin/wizard/admin-wizard.php:1586
+msgid "Like our Facebook page"
+msgstr "在Facebook为我们点赞"
+
+#: inc/admin/wizard/admin-wizard.php:1577
+msgid "Follow us:"
+msgstr "关注我们："
+
+#: inc/admin/wizard/admin-wizard.php:1568
+msgid "Configure your XML sitemaps"
+msgstr "配置您的XML网站地图"
+
+#: inc/admin/wizard/admin-wizard.php:1561
+msgid "Build custom XML sitemaps to improve Google's crawling of your site."
+msgstr "建立自定义的XML网站地图，以改善Google对您网站的抓取。"
+
+#: inc/admin/wizard/admin-wizard.php:1559
+msgid "Create your XML sitemaps"
+msgstr "创建您的XML网站地图"
+
+#: inc/admin/wizard/admin-wizard.php:1524
+msgid "Your site is now ready for search engines!"
+msgstr "您的站点现在已经为搜索引擎做好了准备！"
+
+#: inc/admin/wizard/admin-wizard.php:1221
+msgid "By default, SEOPress redirects your Attachment pages to the parent post. Optimize this by redirecting the user directly to the URL of the media file."
+msgstr "默认情况下，SEOPress会将“附件”页面重定向到父级文章。通过将用户直接重定向到媒体文件的网址来优化此功能。"
+
+#: inc/admin/wizard/admin-wizard.php:1208
+msgid "You only have one author on your site? Check this option to avoid duplicate content."
+msgstr "您的站点上只有一个作者？勾选此选项以避免重复内容。"
+
+#: inc/admin/wizard/admin-wizard.php:816
+msgid "Facebook page URL"
+msgstr "Facebook 页面URL"
+
+#: inc/admin/wizard/admin-wizard.php:742
+msgid "eg: https://www.example.com/logo.png"
+msgstr "例如：https://www.example.com/logo.png"
+
+#: inc/admin/wizard/admin-wizard.php:709
+msgid "Choose a knowledge type"
+msgstr "选择一个知识类型"
+
+#: inc/admin/wizard/admin-wizard.php:698
+msgid "eg: My super website"
+msgstr "例如：我的超级网站"
+
+#: inc/admin/wizard/admin-wizard.php:687
+msgid "eg: |"
+msgstr "例如：|"
+
+#: inc/admin/wizard/admin-wizard.php:567 inc/admin/wizard/admin-wizard.php:569
+#: inc/admin/wizard/admin-wizard.php:637 inc/admin/wizard/admin-wizard.php:639
+#: inc/admin/wizard/admin-wizard.php:1535
+#: inc/admin/wizard/admin-wizard.php:1557
+msgid "Next step"
+msgstr "下一步"
+
+#: inc/admin/wizard/admin-wizard.php:436
+msgid "Skip this step"
+msgstr "跳过此步骤"
+
+#: inc/admin/wizard/admin-wizard.php:416
+msgid "Not right now"
+msgstr "不是现在"
+
+#: inc/admin/wizard/admin-wizard.php:308 inc/admin/wizard/admin-wizard.php:312
+msgid "Ready!"
+msgstr "准备！"
+
+#: inc/admin/wizard/admin-wizard.php:230 inc/admin/wizard/admin-wizard.php:240
+#: inc/admin/wizard/admin-wizard.php:1187
+#: inc/admin/wizard/admin-wizard.php:1319
+msgid "Advanced options"
+msgstr "高级选项"
+
+#: inc/admin/wizard/admin-wizard.php:196 inc/admin/wizard/admin-wizard.php:207
+#: inc/admin/wizard/admin-wizard.php:218 inc/admin/wizard/admin-wizard.php:902
+#: inc/admin/wizard/admin-wizard.php:993 inc/admin/wizard/admin-wizard.php:1092
+#: src/Services/ContentAnalysis/RenderGSCInspectUrl.php:265
+msgid "Indexing"
+msgstr "索引"
+
+#: inc/admin/wizard/admin-wizard.php:175 inc/admin/wizard/admin-wizard.php:185
+#: inc/admin/wizard/admin-wizard.php:673 inc/admin/wizard/admin-wizard.php:803
+msgid "Your site"
+msgstr "您的站点"
+
+#: inc/admin/sections/Social.php:122
+msgid "Global Twitter:image set in SEO > Social > Twitter Card"
+msgstr "全局Twitter：图像设置在SEO>社交>Twitter卡片"
+
+#: inc/admin/sections/Social.php:113
+msgid "Custom Twitter image from SEO metabox"
+msgstr "来自SEO Metabox的自定义Twitter图像"
+
+#: inc/admin/sections/Social.php:85
+msgid "Global OG Image set in SEO > Social > Open Graph"
+msgstr "在SEO>社交>Open Graph中设置全局OG图像"
+
+#: inc/admin/sections/Social.php:76
+msgid "Custom OG Image from SEO metabox"
+msgstr "来自SEO Metabox的自定义OG图像"
+
+#: inc/admin/admin-dyn-variables-helper.php:42
+msgid "Single SKU product"
+msgstr "单个商品SKU"
+
+#: inc/admin/sections/Social.php:82 inc/admin/sections/Social.php:119
+msgid "First image of your post content"
+msgstr "文章内容的第一张图像"
+
+#: inc/admin/callbacks/Analytics.php:634
+msgid "This code will be added in the head section of your page."
+msgstr "此代码将添加到页面的head章节。"
+
+#: inc/admin/callbacks/Analytics.php:631
+msgid "Additional tracking code field"
+msgstr "额外的跟踪代码字段"
+
+#: inc/admin/admin-features-list.php:123
+msgid "Create / manage your schemas"
+msgstr "创建/管理您的架构"
+
+#: inc/admin/admin-pages/Tools.php:178
+msgid "Import plugin settings"
+msgstr "导入插件设置"
+
+#: inc/admin/admin-pages/Tools.php:159
+msgid "Export plugin settings"
+msgstr "导出插件设置"
+
+#: inc/admin/admin-bar/admin-bar.php:179 inc/admin/admin-features-list.php:122
+msgid "Schemas"
+msgstr "架构"
+
+#: inc/admin/admin-features-list.php:134
+msgid "Broken links"
+msgstr "断开链接"
+
+#: inc/admin/callbacks/ImageSEO.php:151
+msgid "When sending an image file, automatically set the description based on the filename"
+msgstr "当发送图像文件时，根据文件名自动设置描述"
+
+#: inc/admin/callbacks/ImageSEO.php:132
+msgid "When sending an image file, automatically set the caption based on the filename"
+msgstr "发送图像文件时，根据文件名自动设置标题"
+
+#: inc/admin/callbacks/ImageSEO.php:80
+msgid "When sending an image file, automatically set the alternative text based on the filename"
+msgstr "当发送图像文件时，根据文件名自动设置替代文本"
+
+#: inc/admin/callbacks/ImageSEO.php:60
+msgid "When sending an image file, automatically set the title based on the filename"
+msgstr "发送图像文件时，根据文件名自动设置标题"
+
+#: inc/admin/callbacks/ImageSEO.php:40
+msgid "If this option is checked, it will take precedence over the redirection of attachments to the post's parent."
+msgstr "如果勾选了这个选项，它将优先于将附件重定向到文章的父节点。"
+
+#: inc/admin/callbacks/ImageSEO.php:36 inc/admin/wizard/admin-wizard.php:1217
+msgid "Redirect attachment pages to their file URL (https://www.example.com/my-image-file.jpg)"
+msgstr "将附件页面重定向到其文件URL (https://www.example.com/my-image-file.jpg)"
+
+#: inc/admin/callbacks/Analytics.php:596
+msgid "Google Optimize offers A/B testing, website testing & personalization tools."
+msgstr "Google Optimize提供A / B测试，网站测试和个性化工具。"
+
+#: inc/admin/callbacks/Analytics.php:592
+msgid "GTM-XXXXXXX"
+msgstr "GTM-XXXXXXX"
+
+#: inc/admin/callbacks/Analytics.php:592
+msgid "Enter your Google Optimize container ID"
+msgstr "输入您的Google Optimize容器ID"
+
+#: inc/admin/settings/ImageSEO.php:72
+msgid "Automatically set the image Description"
+msgstr "自动设置图像描述"
+
+#: inc/admin/settings/ImageSEO.php:64
+msgid "Automatically set the image Caption"
+msgstr "自动设置图像标题"
+
+#: inc/admin/settings/ImageSEO.php:48
+msgid "Automatically set the image Alt text"
+msgstr "自动设置图片的Alt文字"
+
+#: inc/admin/settings/ImageSEO.php:40
+msgid "Automatically set the image Title"
+msgstr "自动设置图像标题"
+
+#: inc/admin/settings/ImageSEO.php:24
+msgid "Redirect attachment pages to their file URL"
+msgstr "将附件页面重定向到其文件URL"
+
+#: inc/admin/settings/Analytics.php:267
+msgid "Enable Google Optimize"
+msgstr "启用Google Optimize"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:732
+msgid "Exclude all parameters and pass them to the redirection"
+msgstr "排除所有参数，并将其传递给重定向"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:729
+msgid "Exclude all parameters"
+msgstr "排除所有参数"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:723
+msgid "Query parameters"
+msgstr "查询参数"
+
+#. Description of the plugin
+msgid "One of the best SEO plugins for WordPress."
+msgstr "WordPress最好的SEO插件之一。"
+
+#: inc/functions/options-advanced-admin.php:53
+msgid "URL rewriting is NOT enabled on your site. Select a permalink structure that is optimized for SEO (NOT Plain)."
+msgstr "您的站点没有启用URL重写。选择适合SEO的permalink结构（不是普通结构）。"
+
+#: inc/functions/options-advanced-admin.php:42
+msgid "Do NOT change your permalink structure on a production site. Changing URLs can severely damage your SEO."
+msgstr "不要在生产站点上改变你的permalink结构。更改URL会严重损害您的SEO。"
+
+#: inc/functions/options-advanced-admin.php:41
+#: inc/functions/options-advanced-admin.php:52
+msgid "WARNING"
+msgstr "警告"
+
+#: src/Services/ContentAnalysis/GetContent.php:684
+msgid "We found no meta robots on this page. It means, your page is index,follow. Search engines will index it, and follow links. "
+msgstr "我们在此页面上找不到元机器人。这意味着，您的页面是index,follow。搜索引擎会将其编入索引，并关注链接.。 "
+
+#: src/Services/ContentAnalysis/GetContent.php:649
+msgid "We found %s meta robots in your page. There is probably something wrong with your theme!"
+msgstr "我们在您的页面中找到了%s元机器人。你的主题可能有问题！"
+
+#: src/Services/ContentAnalysis/GetContent.php:204
+msgid "You should not use more than one H1 heading in your post content. The rule is simple: only one H1 for each web page. It is better for both SEO and accessibility. Below, the list:"
+msgstr "在你的文章内容中，你不应该使用一个以上的H1标题。规则很简单：每个网页只能用一个H1。这对SEO和可访问性都比较好。下面，列出："
+
+#: src/Services/ContentAnalysis/GetContent.php:189
+msgid "Target keywords were found in Heading 1 (H1)."
+msgstr "在标题1（H1）中找到了目标关键词。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:334
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:293
+#: src/Helpers/Metas/RobotSettings.php:109
+msgid "Select a primary category"
+msgstr "选择主要分类"
+
+#: inc/admin/admin-dyn-variables-helper.php:41
+msgid "Single product price taxes excluded"
+msgstr "单个商品价格不含税"
+
+#: inc/admin/admin-dyn-variables-helper.php:40
+msgid "Single product price"
+msgstr "单品价格"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:266
+#: inc/functions/options-advanced-admin.php:787
+msgid "Do not display this page in search engine results / XML - HTML sitemaps <strong>(noindex)</strong>"
+msgstr "不要在搜索引擎结果/XML中显示此页面 -  HTML站点地图<strong>（noindex）</strong>"
+
+#: inc/admin/callbacks/Advanced.php:901
+msgid "Remove the advice if None schema selected"
+msgstr "如果选择了None schema，请删除建议"
+
+#: inc/admin/callbacks/Analytics.php:796 inc/admin/callbacks/Analytics.php:1205
+msgid "Enter your domains: seopress.org,sub.seopress.org,sub2.seopress.org"
+msgstr "输入您的域名：seopress.org,sub.seopress.org,sub2.seopress.org"
+
+#: inc/admin/settings/Advanced.php:350
+msgid "Hide advice in Structured Data Types metabox"
+msgstr "在结构化数据类型元框中隐藏建议"
+
+#: inc/admin/callbacks/Sitemaps.php:343
+msgid "Menu order"
+msgstr "菜单顺序"
+
+#: inc/admin/callbacks/Sitemaps.php:283 inc/admin/settings/Sitemaps.php:106
+msgid "Exclude some Posts, Pages, Custom Post Types or Terms IDs"
+msgstr "排除部分文章，页面，自定义文章类型或分类ID"
+
+#: inc/admin/wizard/admin-wizard.php:1548
+#: inc/functions/options-advanced-admin.php:27
+msgid "Activate License"
+msgstr "激活许可证"
+
+#: inc/admin/wizard/admin-wizard.php:1541
+#: inc/functions/options-advanced-admin.php:25
+msgid "Please activate your license to receive automatic updates and get premium support."
+msgstr "请激活您的许可证，以接收自动更新并获得高级支持。"
+
+#: inc/functions/options-advanced-admin.php:23
+msgid "Welcome to SEOPress PRO!"
+msgstr "欢迎来到SEOPress PRO!"
+
+#: inc/admin/callbacks/Analytics.php:189
+msgid "Shortcode allowed to get the privacy page set in WordPress settings: [seopress_privacy_page]"
+msgstr "允许在WordPress设置中获取隐私页面设置的短码。[seopress_privacy_page]"
+
+#: inc/admin/callbacks/Advanced.php:16
+msgid "Remove ?replytocom link in source code"
+msgstr "在源代码中删除?replytocom链接"
+
+#: inc/admin/callbacks/Titles.php:1239
+msgid "Do not display search archives in search engine results <strong>(noindex)</strong>"
+msgstr "不在搜索引擎的搜索结果中显示搜索档案<strong>（noindex）</strong>"
+
+#: inc/admin/callbacks/Titles.php:1143
+msgid "Do not display date archives in search engine results <strong>(noindex)</strong>"
+msgstr "不在搜索引擎结果中显示日期档案<strong>(noindex)</strong>"
+
+#: inc/admin/settings/ImageSEO.php:32
+msgid "Remove ?replytocom link to avoid duplicate content"
+msgstr "删除?replytocom链接以避免重复内容"
+
+#: inc/admin/callbacks/Titles.php:1051 inc/admin/wizard/admin-wizard.php:1204
+msgid "Do not display author archives in search engine results <strong>(noindex)</strong>"
+msgstr "不在搜索引擎结果中显示作者存档<strong>（noindex）</strong>"
+
+#: inc/admin/callbacks/Social.php:15
+#: inc/admin/metaboxes/admin-metaboxes-form.php:346
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:286
+#: inc/admin/wizard/admin-wizard.php:714 src/Helpers/Metas/RobotSettings.php:19
+msgid "None (will disable this feature)"
+msgstr "无（将禁用此功能）"
+
+#: inc/admin/callbacks/Sitemaps.php:81
+msgid "Your video sitemap is empty? Read our guide to learn more about <a href=\"%s\" target=\"_blank\">adding videos to your sitemap.</a>"
+msgstr "您的视频网站地图是空的？阅读我们的指南，了解更多关于<a href=\"%s\" target=\"_blank\">添加视频到您的网站地图</a>的信息。"
+
+#: inc/admin/callbacks/Sitemaps.php:51
+msgid "Images in XML sitemaps are visible only from the source code."
+msgstr "XML网站地图中的图片只有在源代码中才能看到。"
+
+#: inc/admin/callbacks/Titles.php:17
+msgid "Use this separator with %%sep%% in your title and meta description."
+msgstr "在标题和元描述中使用此分隔符和%%sep%%。"
+
+#: inc/admin/callbacks/Titles.php:12
+msgid "Enter your separator, eg: \"-\""
+msgstr "输入你的分隔符，例如\"-\""
+
+#: inc/admin/callbacks/Titles.php:13 inc/admin/callbacks/Titles.php:42
+#: inc/admin/callbacks/Titles.php:224 inc/admin/callbacks/Titles.php:434
+#: inc/admin/callbacks/Titles.php:652 inc/admin/callbacks/Titles.php:867
+#: inc/admin/callbacks/Titles.php:1010 inc/admin/callbacks/Titles.php:1104
+#: inc/admin/callbacks/Titles.php:1198 inc/admin/callbacks/Titles.php:1271
+#: inc/admin/metaboxes/admin-metaboxes-form.php:136
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:68
+#: inc/admin/settings/Titles.php:16 inc/admin/wizard/admin-wizard.php:685
+#: src/Tags/Separator.php:17
+msgid "Separator"
+msgstr "分隔线"
+
+#: inc/admin/wizard/admin-wizard.php:1123
+msgid "Do not display this taxonomy archive in search engine results <strong>(noindex)</strong>"
+msgstr "不在搜索引擎结果中显示此分类档案<strong>（noindex）</strong>"
+
+#: inc/admin/callbacks/Advanced.php:881
+msgid "Remove Genesis SEO link in WP Admin Menu"
+msgstr "在WP管理菜单中删除Genesis SEO链接"
+
+#: inc/admin/callbacks/Social.php:453
+msgid "The Facebook app ID of the site's app. In order to use Facebook Insights you must add the app ID to your page. Insights lets you view analytics for traffic to your site from Facebook. Find the app ID in your App Dashboard. <a class=\"seopress-help\" href=\"https://developers.facebook.com/apps/redirect/dashboard\" target=\"_blank\">More info here</a> <span class=\"seopress-help dashicons dashicons-external\"></span>"
+msgstr "网站应用的Facebook应用ID。要使用Facebook Insights，您必须将应用程序ID添加到您的页面。通过Insights，您可以查看从Facebook访问您网站的流量分析。在您的应用程序仪表板中找到应用程序ID。<a class=\"seopress-help\" href=\"https://developers.facebook.com/apps/redirect/dashboard\" target=\"_blank\">更多信息请点击这里</a> <span class=\"seopress-help dashicons dashicons-external\"></span>"
+
+#: inc/admin/callbacks/Social.php:434
+msgid "The ID (or comma-separated list for properties that can accept multiple IDs) of an app, person using the app, or Page Graph API object."
+msgstr "应用程序、使用应用程序的人员或 Page Graph API 对象的 ID（或以逗号分隔的属性列表，可接受多个 ID）。"
+
+#: inc/admin/callbacks/Social.php:409
+msgid "One or more Facebook Page IDs that are associated with a URL in order to enable link editing and instant article publishing."
+msgstr "与网址关联的一个或多个Facebook页面ID，以便启用链接编辑和即时文章发布。"
+
+#: inc/admin/callbacks/Sitemaps.php:338
+msgid "Post ID"
+msgstr "文章ID"
+
+#: inc/admin/callbacks/Sitemaps.php:333
+msgid "Modified date"
+msgstr "修改日期"
+
+#: inc/admin/callbacks/Sitemaps.php:323
+msgid "Default (date)"
+msgstr "默认（日期）"
+
+#: inc/admin/callbacks/Sitemaps.php:303
+msgid "ASC (ascending order from lowest to highest values (1, 2, 3; a, b, c))"
+msgstr "升序（从最低值到最高值的升序（1, 2, 3; a, b, c））"
+
+#: inc/admin/callbacks/Sitemaps.php:298
+msgid "DESC (descending order from highest to lowest values (3, 2, 1; c, b, a))"
+msgstr "降序（从最高值到最低值的降序（3, 2, 1; c, b, a））"
+
+#: inc/admin/callbacks/Titles.php:973
+msgid "Do not follow links for this post type archive <strong>(nofollow)</strong>"
+msgstr "不要关注此文章类型存档的链接<strong>（nofollow）</strong>"
+
+#: inc/admin/callbacks/Titles.php:946
+msgid "Do not display this post type archive in search engine results <strong>(noindex)</strong>"
+msgstr "不要在搜索引擎结果中显示此文章类型存档<strong>（noindex）</strong>"
+
+#: inc/admin/callbacks/Titles.php:777
+msgid "Do not follow links for this taxonomy archive <strong>(nofollow)</strong>"
+msgstr "不要关注此分类存档的链接<strong>（nofollow）</strong>"
+
+#: inc/admin/callbacks/Titles.php:739
+msgid "Do not display this taxonomy archive in search engine results <strong>(noindex)</strong>"
+msgstr "不在搜索引擎结果中显示此分类档案<strong>（noindex）</strong>"
+
+#: inc/admin/callbacks/Titles.php:332
+msgid "Do not follow links for this single post type <strong>(nofollow)</strong>"
+msgstr "不要关注此单个文章类型的链接<strong>（nofollow）</strong>"
+
+#: inc/admin/callbacks/Titles.php:295
+msgid "Do not display this single post type in search engine results <strong>(noindex)</strong>"
+msgstr "不要在搜索引擎结果中显示此单个文章类型<strong>（noindex）</strong>"
+
+#: inc/admin/settings/Advanced.php:342
+msgid "Hide Genesis SEO Settings link"
+msgstr "隐Genesis SEO设置链接"
+
+#: inc/admin/settings/Sitemaps.php:122
+msgid "Order posts by"
+msgstr "订阅文章"
+
+#: inc/admin/settings/Sitemaps.php:114
+msgid "Sort order"
+msgstr "排序顺序"
+
+#: inc/admin/callbacks/Titles.php:1469 inc/admin/settings/Titles.php:291
+msgid "nositelinkssearchbox"
+msgstr "nositelinkssearchbox"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:677
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:514
+#: src/Helpers/Metas/RedirectionSettings.php:60
+msgid "451 Unavailable For Legal Reasons"
+msgstr "451 因法律原因不可用"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:674
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:513
+#: src/Helpers/Metas/RedirectionSettings.php:59
+msgid "410 Gone"
+msgstr "410 丢失"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:671
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:512
+#: src/Helpers/Metas/RedirectionSettings.php:58
+msgid "307 Moved Temporarily"
+msgstr "307 临时移动"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:668
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:511
+#: src/Helpers/Metas/RedirectionSettings.php:57
+msgid "302 Found / Moved Temporarily"
+msgstr "302 暂时性转移"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:314
+msgid "Do not display a description in search results for this page <strong>(nosnippet)</strong>"
+msgstr "不要在此页面的搜索结果中显示描述<strong>（nosnippet）</strong>"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:305
+msgid "Do not display a \"Cached\" link in the Google search results <strong>(noarchive)</strong>"
+msgstr "在谷歌搜索结果中不显示“缓存”链接<strong>（noarchive）</strong>"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:296
+msgid "Do not index images for this page <strong>(noimageindex)</strong>"
+msgstr "不要对本页的图片进行索引<strong>(noimageindex)</strong>"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:287
+msgid "Do not use Open Directory project metadata for titles or excerpts for this page <strong>(noodp)</strong>"
+msgstr "不要将Open Directory项目元数据用于此页面的标题或摘要<strong>（noodp）</strong>"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:277
+#: inc/functions/options-advanced-admin.php:795
+msgid "Do not follow links for this page <strong>(nofollow)</strong>"
+msgstr "不要跟随本页的链接<strong>(nofollow)</strong>"
+
+#: inc/admin/ajax.php:130
+msgid "To get your Google snippet preview, publish your post!"
+msgstr "要想获得谷歌代码段预览，请发布您的文章!"
+
+#: inc/admin/callbacks/Analytics.php:183
+msgid "Hook to filter user consent message - new window"
+msgstr "过滤用户同意信息的钩子 - 新窗口"
+
+#: inc/admin/callbacks/Titles.php:806
+msgid "See archive"
+msgstr "查看存档"
+
+#: inc/admin/sections/Sitemaps.php:87
+msgid "404 error?"
+msgstr "404 错误？"
+
+#: inc/admin/sections/Sitemaps.php:82
+msgid "Blank sitemap?"
+msgstr "空白的网站地图？"
+
+#: inc/admin/callbacks/Advanced.php:947 inc/admin/callbacks/Advanced.php:988
+msgid "Hook to filter structured data types metabox call by post type - new window"
+msgstr "通过文章类型 - 调用新窗口过滤结构化数据类型元框"
+
+#: inc/admin/callbacks/Advanced.php:350
+msgid "If your site is already verified in <strong>Bing Webmaster tools</strong>, you can leave this field empty."
+msgstr "如果您的站点已经在<strong>Bing Webmaster tools</strong>中进行了验证，您可以将此字段留空。"
+
+#: inc/admin/callbacks/Advanced.php:335
+msgid "If your site is already verified in <strong>Google Search Console</strong>, you can leave this field empty."
+msgstr "如果您的站点已经在<strong>Google Search Console</strong>中进行了验证，您可以将此字段留空。"
+
+#: inc/admin/callbacks/Analytics.php:200
+msgid "Change the button value"
+msgstr "改变按钮值"
+
+#: inc/admin/callbacks/Analytics.php:123
+msgid "Hook to add custom tracking code with user consent - new window"
+msgstr "钩子添加用户同意的自定义跟踪代码 - 新窗口"
+
+#: inc/admin/callbacks/Sitemaps.php:78
+msgid "Guide to enable XML video sitemaps - new window"
+msgstr "启用XML视频网站地图指南 - 新窗口"
+
+#: inc/admin/sections/Social.php:21
+msgid "Learn more on Google official website."
+msgstr "了解更多信息请登录谷歌官网。"
+
+#: inc/admin/settings/Advanced.php:202
+msgid "Hide Notifications Center"
+msgstr "隐藏通知中心"
+
+#: inc/admin/callbacks/Analytics.php:846 inc/admin/settings/Analytics.php:383
+msgid "Track downloads' clicks"
+msgstr "跟踪下载的点击"
+
+#: inc/admin/settings/Analytics.php:97
+msgid "Accept button for user tracking"
+msgstr "接受用户追踪的按钮"
+
+#: inc/admin/admin-pages/Tools.php:315
+msgid "By clicking Reset Notices, all notices in the notifications center will be set to their initial status."
+msgstr "点击重置通知，通知中心的所有通知将被设置为初始状态。"
+
+#: inc/admin/admin-pages/Social.php:21 inc/admin/sections/Social.php:98
+msgid "Twitter (Twitter card)"
+msgstr "推特"
+
+#: inc/admin/admin-pages/Social.php:20 inc/admin/sections/Social.php:60
+msgid "Facebook (Open Graph)"
+msgstr "脸书(Open Graph)"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:767
+msgid "Need help with your redirections? Read our guide."
+msgstr "需要帮助您重定向？请阅读我们的指南。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:170
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:70
+#: src/Tags/PostExcerpt.php:17
+msgid "Post Excerpt"
+msgstr "文章摘录"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:73
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:51
+msgid "Enter a keyword, or a phrase, to find the top 10 Google suggestions instantly. This is useful if you want to work with the long tail technique."
+msgstr "输入一个关键词，或者一个短语，就能立即找到前10名的谷歌建议。如果你想使用长尾技术，这很有用。"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:72
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:73
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:579
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:50
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:51
+msgid "Google suggestions"
+msgstr "谷歌建议"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:35
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:568
+msgid "Separate target keywords with commas. Do not use spaces after the commas, unless you want to include them"
+msgstr "用逗号分隔目标关键词。不要在逗号后面使用空格，除非你想把它们包括在内"
+
+#: inc/admin/callbacks/Sitemaps.php:75
+msgid "Enable Video Sitemaps"
+msgstr "启用视频网站地图"
+
+#: inc/admin/callbacks/Sitemaps.php:45
+msgid "Enable Image Sitemaps (standard images, image galleries, featured image, WooCommerce product images)"
+msgstr "启用图像站点地图（标准图像，图像库，特色图像，WooCommerce商品图像）"
+
+#: inc/admin/settings/Sitemaps.php:33
+msgid "Enable XML Video Sitemaps"
+msgstr "启用XML视频网站地图"
+
+#: inc/admin/blocks/notifications-center.php:809
+msgid "Rate us!"
+msgstr "给我评分！"
+
+#: inc/admin/blocks/notifications-center.php:802
+msgid "You like SEOPress? Please help us by rating us 5 stars!"
+msgstr "您喜欢SEOPress吗？请给我们评分5星！"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:981
+msgid "Add video"
+msgstr "添加视频"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:971
+msgid "Remove video"
+msgstr "删除视频"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:968
+msgid "The video will be available only to users with SafeSearch turned off."
+msgstr "只有关闭了SafeSearch的用户才能看到该视频。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:966
+msgid "NOT family friendly?"
+msgstr "不是家庭友好？"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:955
+msgid "32 tags max., separate tags with commas. Default: target keywords + post tags if available."
+msgstr "最多32个标签，用逗号分隔标签。默认值：目标关键字+文章标签（如果有）。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:952
+msgid "Enter your video tags"
+msgstr "输入你的视频标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:947
+#: inc/admin/metaboxes/admin-metaboxes-form.php:953
+msgid "Video tags"
+msgstr "视频标签"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:941
+msgid "Number of views"
+msgstr "浏览次数"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:936
+#: inc/admin/metaboxes/admin-metaboxes-form.php:942
+msgid "View count"
+msgstr "表示回数"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:932
+msgid "Allowed values are float numbers in the range 0.0 to 5.0."
+msgstr "允许的值是0.0-5.0范围内的浮点数。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:929
+#: inc/admin/metaboxes/admin-metaboxes-form.php:930
+msgid "Video rating"
+msgstr "视频评分"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:924
+msgid "Video Rating"
+msgstr "视频评分"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:920
+msgid "The duration of the video in seconds. Value must be between 0 and 28800 (8 hours)."
+msgstr "视频的持续时间，以秒为单位。值必须在0和28800之间（8小时）。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:918
+msgid "Video duration"
+msgstr "食谱视频时长"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:917
+msgid "Duration in seconds"
+msgstr "持续时间（以秒为单位）"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:912
+msgid "Video Duration (recommended)"
+msgstr "视频时长（已建议）"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:907
+msgid "Minimum size: 160x90px (1920x1080 max), JPG, PNG or GIF formats. Default: your post featured image."
+msgstr "最小尺寸：160x90px（最大1920x1080），JPG，PNG或GIF格式。默认值：您的文章特色图像。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:904
+msgid "Video Thumbnail"
+msgstr "视频缩略图"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:897
+msgid "Select your video thumbnail"
+msgstr "选择您要的视频缩略图"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:890
+msgid "Video Thumbnail (required)"
+msgstr "视频缩略图（需要）"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:886
+msgid "2048 characters max.; default: meta description. If not available, use the beginning of the post content."
+msgstr "最多2048个字符；默认：元描述。如果不可用，请使用文章的开头内容。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:885
+msgid "Video description"
+msgstr "视频描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:884
+msgid "Enter your video description"
+msgstr "输入您要的视频描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:879
+msgid "Video Description (required)"
+msgstr "视频描述（必填）"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:875
+msgid "Default: title tag, if not available, post title."
+msgstr "默认值：标题标签，如果不可用，则文章标题。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:873
+msgid "Video title"
+msgstr "视屏标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:872
+msgid "Enter your video title"
+msgstr "输入您要的视频标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:867
+msgid "Video Title (required)"
+msgstr "视频标题（必填）"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:862
+msgid "NOT an external video (eg: video hosting on YouTube, Vimeo, Wistia...)? Check this if your video is hosting on this server."
+msgstr "不是外部视频（例如：在YouTube，Vimeo，Wistia等上的视频托管）？如果您的视频在此服务器上托管，请选中。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:850
+msgid "Video URL"
+msgstr "视频URL"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:849
+msgid "Enter your video URL"
+msgstr "输入您的视频URL"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:844
+msgid "Video URL (required)"
+msgstr "视频URL (必填)"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:839
+msgid "Video "
+msgstr "视频 "
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:821
+msgid "If your post is set to noindex, it will be automatically excluded from the sitemap."
+msgstr "如果您的文章设置为noindex，它将自动从站点地图中排除。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:819
+msgid "Exclude this post from Video Sitemap?"
+msgstr "从视频站点地图中排除此文章？"
+
+#: inc/admin/callbacks/Social.php:527
+#: inc/admin/metaboxes/admin-metaboxes-form.php:539
+#: src/Helpers/Metas/SocialSettings.php:91
+msgid "Minimum size: 144x144px (300x157px with large card enabled), ideal ratio 1:1 (2:1 with large card), 5Mb max."
+msgstr "最小尺寸：144x144px（启用大卡后为300x157px），理想比例1:1（启用大卡后为2:1），最大5Mb。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:71
+msgid "Video Sitemap"
+msgstr "视频地图"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:82
+#: inc/admin/page-builders/elementor/inc/controls/class-google-suggestions-control.php:53
+msgid "Get suggestions!"
+msgstr "获取建议！"
+
+#: inc/admin/blocks/insights.php:234
+msgid "No domain found."
+msgstr "没有找到域名。"
+
+#: inc/admin/blocks/insights.php:229
+msgid "No scrape."
+msgstr "没有抓取。"
+
+#: inc/admin/blocks/insights.php:224
+msgid "Not found"
+msgstr "未找到"
+
+#: inc/functions/options-google-analytics.php:283
+msgid "X"
+msgstr "X"
+
+#: inc/admin/callbacks/Analytics.php:200
+#: inc/functions/options-google-analytics.php:277
+msgid "Accept"
+msgstr "接受"
+
+#: inc/functions/options-google-analytics.php:264
+msgid "By visiting our site, you agree to our privacy policy regarding cookies, tracking statistics, etc."
+msgstr "通过访问我们的站点，您同意我们关于cookies、跟踪统计等的隐私政策。"
+
+#: inc/admin/callbacks/Analytics.php:186
+msgid "HTML tags allowed: strong, em, br, a href / target"
+msgstr "允许使用的HTML标签：strong, em, br, a href / target"
+
+#: inc/admin/callbacks/Analytics.php:180
+msgid "This message will only appear if request user's consent is enabled."
+msgstr "只有当请求用户的同意被启用时，才会出现此消息。"
+
+#: inc/admin/callbacks/Analytics.php:180
+msgid "Enter your message (HTML allowed)"
+msgstr "请输入您的信息（允许使用HTML）。"
+
+#: inc/admin/callbacks/Analytics.php:107
+msgid "Request user's consent for analytics tracking (required by GDPR)"
+msgstr "请求用户同意进行分析跟踪（GDPR要求）。"
+
+#: inc/admin/settings/Analytics.php:89
+msgid "Consent message for user tracking"
+msgstr "用户跟踪的同意信息"
+
+#: inc/admin/admin-features-list.php:141
+msgid "Customize your permalinks."
+msgstr "自定义您的永久链接。"
+
+#: inc/admin/admin-features-list.php:140
+msgid "URL Rewriting"
+msgstr "URL重写"
+
+#: inc/admin/admin-pages/Tools.php:197
+msgid "Import completed!"
+msgstr "导入完成！"
+
+#: inc/admin/admin-dyn-variables-helper.php:48
+msgid "Current time"
+msgstr "当前时间"
+
+#: inc/admin/admin-dyn-variables-helper.php:47
+msgid "Current date"
+msgstr "当前日期"
+
+#: inc/admin/admin-dyn-variables-helper.php:46
+msgid "Current year"
+msgstr "今年"
+
+#: inc/admin/admin-dyn-variables-helper.php:44
+msgid "Current month"
+msgstr "本月"
+
+#: inc/admin/admin-dyn-variables-helper.php:43
+msgid "Current day"
+msgstr "当日"
+
+#: inc/admin/admin-dyn-variables-helper.php:34
+msgid "Year Archive title"
+msgstr "年归档名称"
+
+#: inc/admin/admin-dyn-variables-helper.php:32
+msgid "Month Archive title"
+msgstr "月存档标题"
+
+#: inc/admin/admin-dyn-variables-helper.php:31
+msgid "Day Archive date"
+msgstr "日存档"
+
+#: inc/admin/admin-dyn-variables-helper.php:29
+msgid "Archive title"
+msgstr "归档标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:513
+msgid "Preview your Twitter card using the official validator"
+msgstr "使用官方验证器预览您的Twitter卡片"
+
+#: inc/functions/options-advanced-admin.php:724
+msgid "%s redirection disabled."
+msgid_plural "%s redirections disabled."
+msgstr[0] "%s重定向已禁用。"
+
+#: inc/functions/options-advanced-admin.php:696
+msgid "Disable redirection"
+msgstr "禁用重定向"
+
+#: inc/functions/options-advanced-admin.php:680
+msgid "%s redirections enabled."
+msgid_plural "%s redirections enabled."
+msgstr[0] "%s 重定向已启用。"
+
+#: inc/functions/options-advanced-admin.php:651
+msgid "Enable redirection"
+msgstr "启用重定向"
+
+#: inc/admin/migrate/MigrationTools.php:37
+#: src/Actions/Admin/ManageColumn.php:64
+msgid "Redirect URL"
+msgstr "重定向URL"
+
+#: src/Actions/Admin/ManageColumn.php:61
+msgid "Redirect?"
+msgstr "重定向？"
+
+#: inc/admin/callbacks/Advanced.php:658
+msgid "Add redirection URL column"
+msgstr "添加重定向URL列"
+
+#: inc/admin/callbacks/Advanced.php:638
+msgid "Add redirection enable column"
+msgstr "添加重定向启用列"
+
+#: inc/admin/settings/Advanced.php:250
+msgid "Show Redirect URL column in post types"
+msgstr "在文章类型中显示重定向URL列"
+
+#: inc/admin/settings/Advanced.php:242
+msgid "Show Redirection Enable column in post types"
+msgstr "在职位类型中显示重定向启用列"
+
+#: inc/admin/callbacks/Advanced.php:35
+msgid "Add TINYMCE editor to term description"
+msgstr "将WP编辑器添加到分类描述"
+
+#: inc/admin/callbacks/Sitemaps.php:48
+msgid "Guide to enable XML image sitemaps - new window"
+msgstr "启用XML图像网站地图的指南 - 新窗口"
+
+#: inc/admin/callbacks/Sitemaps.php:23
+msgid "Guide to enable XML Sitemaps - new window"
+msgstr "启用XML网站地图的指南 - 新窗口"
+
+#: inc/admin/sections/Analytics.php:123
+msgid "Guide to create custom dimensions in Google Analytics - new window"
+msgstr "在谷歌分析中创建自定义维度指南 - 新窗口"
+
+#: inc/admin/callbacks/Sitemaps.php:135 inc/admin/sections/Sitemaps.php:140
+msgid "Guide to enable a HTML Sitemap - new window"
+msgstr "启用HTML网站地图的指南 - 新窗口"
+
+#: inc/admin/settings/Advanced.php:16
+msgid "Add WP Editor to taxonomy description textarea"
+msgstr "将WP编辑器添加到分类描述文本域"
+
+#: inc/admin/help-tabs/Analytics.php:22 inc/admin/help-tabs/Sitemaps.php:21
+#: inc/admin/help-tabs/Social.php:21
+msgid "Read our guide"
+msgstr "阅读我们的指南"
+
+#: inc/admin/help-tabs/Analytics.php:11
+msgid "Watch our video to learn how to connect your WordPress site with Google Analytics and get statistics right in your dashboard (PRO only)."
+msgstr "观看我们的视频，了解如何将您的WordPress网站与Google Analytics连接起来，并在您的仪表板上直接获取统计数据（仅限PRO版）。"
+
+#: inc/functions/options-google-analytics.php:975
+#: inc/functions/options-matomo.php:286
+msgid "Connected users"
+msgstr "连接的用户"
+
+#: inc/functions/options-google-analytics.php:961
+#: inc/functions/options-matomo.php:277
+msgid "Post types"
+msgstr "文章类型"
+
+#: inc/functions/options-google-analytics.php:947
+#: inc/functions/options-matomo.php:268
+msgid "Tags"
+msgstr "标签"
+
+#: inc/functions/options-google-analytics.php:921
+#: inc/functions/options-matomo.php:248
+msgid "Categories"
+msgstr "类别"
+
+#: inc/functions/options-google-analytics.php:902
+#: inc/functions/options-matomo.php:234
+msgid "Authors"
+msgstr "作者"
+
+#: inc/admin/callbacks/Analytics.php:17
+msgid "Enable Google Analytics tracking (Global Site Tag: gtag.js)"
+msgstr "启用Google Analytics跟踪（全局网站代码：gtag.js）"
+
+#: inc/admin/callbacks/Social.php:211
+msgid "Twitter Page URL"
+msgstr "Twitter页面URL"
+
+#: inc/functions/options-advanced-admin.php:778
+#: src/Actions/Admin/ManageColumn.php:67
+msgid "Canonical"
+msgstr "典范"
+
+#: inc/admin/callbacks/Advanced.php:678
+msgid "Add canonical URL column"
+msgstr "增加典范URL列"
+
+#: inc/admin/settings/Advanced.php:258
+msgid "Show canonical URL column in post types"
+msgstr "在文章类型中显示典范网址列"
+
+#: inc/admin/settings/Social.php:162
+msgid "Facebook Link Ownership ID"
+msgstr "Facebook Link Ownership ID"
+
+#: inc/admin/admin-features-list.php:72
+msgid "Improve Easy Digital Downloads SEO"
+msgstr "改善Easy Digital Downloads SEO"
+
+#: inc/admin/admin-features-list.php:71
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: inc/admin/callbacks/Advanced.php:311
+msgid "Remove Really Simple Discovery meta tag in source code (eg:"
+msgstr "在源代码中删除Really Simple Discovery元标签（例如："
+
+#: inc/admin/callbacks/Advanced.php:288
+msgid "Remove Windows Live Writer meta tag in source code (eg:"
+msgstr "删除源代码中的Windows Live Writer元标签（例如："
+
+#: inc/admin/callbacks/Advanced.php:265
+msgid "Remove WordPress shortlink meta tag in source code (eg:"
+msgstr "在源代码中删除WordPress短链接元标签（例如："
+
+#: inc/admin/callbacks/Advanced.php:165
+msgid "Remove WordPress meta generator in source code"
+msgstr "在源代码中删除WordPress元生成器"
+
+#: inc/admin/settings/Advanced.php:104
+msgid "Remove RSD meta tag"
+msgstr "删除RSD元标签"
+
+#: inc/admin/settings/Advanced.php:96
+msgid "Remove Windows Live Writer meta tag"
+msgstr "删除Windows Live Writer元标签"
+
+#: inc/admin/settings/Advanced.php:88
+msgid "Remove WordPress shortlink meta tag"
+msgstr "删除WordPress短链接元标签"
+
+#: inc/admin/settings/Advanced.php:48
+msgid "Remove WordPress generator meta tag"
+msgstr "删除WordPress生成器元标签"
+
+#: src/Actions/Admin/ManageColumn.php:70
+msgid "Target Kw"
+msgstr "目标关键词"
+
+#: inc/admin/callbacks/Advanced.php:698
+msgid "Add target keyword column"
+msgstr "增加目标关键词栏"
+
+#: inc/admin/settings/Advanced.php:383
+msgid "Block Content analysis metabox to user roles"
+msgstr "阻止内容分析元框到用户角色"
+
+#: inc/admin/settings/Advanced.php:266
+msgid "Show Target Keyword column in post types"
+msgstr "在文章类型中显示目标关键词列"
+
+#: inc/admin/metaboxes/admin-metaboxes.php:638
+#: src/Services/ContentAnalysis/RenderContentAnalysis.php:19
+msgid "Content analysis"
+msgstr "内容分析"
+
+#: src/Services/ContentAnalysis/GetContent.php:783
+msgid "This page doesn't have any nofollow links."
+msgstr "此页没有任何nofollow链接。"
+
+#: src/Services/ContentAnalysis/GetContent.php:772
+msgid "We found %d links with nofollow attribute in your page. Do not overuse nofollow attribute in links. Below, the list:"
+msgstr "我们在您的网页中找到了%d链接和nofollow属性。不要在链接中过度使用nofollow属性。下面，列表："
+
+#: src/Helpers/ContentAnalysis.php:73
+msgid "NoFollow Links"
+msgstr "NoFollow链接"
+
+#: src/Services/ContentAnalysis/GetContent.php:754
+msgid "We could not find any image in your content. Content with media is a plus for your SEO."
+msgstr "我们在您的内容中找不到任何图像。内容与媒体是您的SEO的一个优势。"
+
+#: src/Services/ContentAnalysis/GetContent.php:751
+msgid "All alternative tags are filled in. Good work!"
+msgstr "所有的备选标签都填好了。做得好！"
+
+#: src/Services/ContentAnalysis/GetContent.php:358
+msgid "The length of your meta description is correct"
+msgstr "元描述的长度是正确的"
+
+#: src/Services/ContentAnalysis/GetContent.php:353
+msgid "You custom meta description is too long."
+msgstr "您自定义元描述太长。"
+
+#: src/Services/ContentAnalysis/GetContent.php:348
+msgid "None of your target keywords were found in the Meta description."
+msgstr "在元描述中没有找到您的目标关键词。"
+
+#: src/Services/ContentAnalysis/GetContent.php:334
+msgid "Target keywords were found in the Meta description."
+msgstr "在元描述中找到了目标关键字。"
+
+#: src/Services/ContentAnalysis/GetContent.php:309
+msgid "The length of your title is correct"
+msgstr "你标题的长度是正确的"
+
+#: src/Services/ContentAnalysis/GetContent.php:304
+msgid "Your custom title is too long."
+msgstr "您的自定义标题太长。"
+
+#: src/Services/ContentAnalysis/GetContent.php:299
+msgid "None of your target keywords were found in the Meta Title."
+msgstr "在元标题中找不到任何目标关键字。"
+
+#: src/Services/ContentAnalysis/GetContent.php:285
+msgid "Target keywords were found in the Meta Title."
+msgstr "目标关键字在元标题中找到。"
+
+#: inc/admin/admin-pages/Tools.php:60 inc/admin/admin-pages/Tools.php:106
+#: inc/admin/metaboxes/admin-metaboxes-form.php:104
+#: src/Helpers/ContentAnalysis.php:48
+msgid "Meta title"
+msgstr "元标题"
+
+#: src/Services/ContentAnalysis/GetContent.php:261
+msgid "None of your target keywords were found in Heading 3 (H3)."
+msgstr "在标题3（H3）中没有找到您的目标关键词。"
+
+#: src/Services/ContentAnalysis/GetContent.php:249
+msgid "Target keywords were found in Heading 3 (H3)."
+msgstr "在标题3（H3）中找到了目标关键词。"
+
+#: src/Services/ContentAnalysis/GetContent.php:247
+msgid "H3 (Heading 3)"
+msgstr "H3（标题3）"
+
+#: src/Services/ContentAnalysis/GetContent.php:240
+msgid "None of your target keywords were found in Heading 2 (H2)."
+msgstr "在标题2（H2）中没有找到您的目标关键词。"
+
+#: src/Services/ContentAnalysis/GetContent.php:228
+msgid "Target keywords were found in Heading 2 (H2)."
+msgstr "在标题2（H2）中找到了目标关键词。"
+
+#: src/Services/ContentAnalysis/GetContent.php:226
+msgid "H2 (Heading 2)"
+msgstr "H2（标题2）"
+
+#: src/Services/ContentAnalysis/GetContent.php:203
+msgid "We found %d Heading 1 (H1) in your content."
+msgstr "我们在您的内容中找到了%d标题1（H1）。"
+
+#: src/Services/ContentAnalysis/GetContent.php:181
+msgid "H1 (Heading 1)"
+msgstr "H1（标题1）"
+
+#: src/Services/ContentAnalysis/GetContent.php:198
+#: src/Services/ContentAnalysis/GetContent.php:236
+#: src/Services/ContentAnalysis/GetContent.php:257
+#: src/Services/ContentAnalysis/GetContent.php:293
+#: src/Services/ContentAnalysis/GetContent.php:342
+msgid "%s was found %d times."
+msgstr "%s 被找到 %d 次。"
+
+#: src/Services/ContentAnalysis/GetContent.php:90
+msgid "Your content is too short. Add a few more paragraphs!"
+msgstr "您的内容太短了。再添几个段落！"
+
+#: src/Services/ContentAnalysis/GetContent.php:88
+msgid "Your content is composed of more than 300 words, which is the minimum for a post."
+msgstr "您的内容由300多个单词组成，这是文章的最小值。"
+
+#: src/Services/ContentAnalysis/GetContent.php:85
+msgid "unique words found."
+msgstr "找到的独特词汇。"
+
+#: src/Services/ContentAnalysis/GetContent.php:84
+msgid "words found."
+msgstr "找到的单词。"
+
+#: src/Helpers/ContentAnalysis.php:28
+msgid "Words counter"
+msgstr "字数计算"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:51
+#: inc/admin/page-builders/elementor/inc/controls/class-content-analysis-control.php:46
+msgid "Refresh analysis"
+msgstr "刷新分析"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:46
+msgid "Analyze my content"
+msgstr "分析我的内容"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:38
+msgid "Enter your target keywords"
+msgstr "输入您的目标关键字"
+
+#: inc/admin/admin-pages/Tools.php:84 inc/admin/admin-pages/Tools.php:130
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:34
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:35
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:39
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:566
+#: inc/functions/options-advanced-admin.php:770
+msgid "Target keywords"
+msgstr "目标关键字"
+
+#: inc/admin/metaboxes/admin-metaboxes-content-analysis-form.php:22
+msgid "Enter a few keywords for analysis to help you write optimized content."
+msgstr "输入几个关键词进行分析，帮助您写出优化的内容。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:360
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:310
+msgid "Enter a custom value, useful if your title is too long"
+msgstr "输入一个自定义值，如果你的标题太长的话，很有用"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:359
+#: inc/admin/metaboxes/admin-metaboxes-form.php:366
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:309
+msgid "Custom breadcrumbs"
+msgstr "自定义面包屑"
+
+#: inc/admin/admin-dyn-variables-helper.php:18
+msgid "Post tag"
+msgstr "文章标签"
+
+#: inc/admin/admin-dyn-variables-helper.php:17
+msgid "Post category"
+msgstr "文章分类"
+
+#: inc/admin/settings/Social.php:203
+msgid "Use Open Graph if no Twitter Card is filled"
+msgstr "如果没有填写Twitter卡，则使用Open Graph"
+
+#: inc/admin/callbacks/Social.php:501
+msgid "Use OG if no Twitter Cards"
+msgstr "如果没有Twitter卡片使用OG"
+
+#: inc/admin/admin-dyn-variables-helper.php:39
+msgid "Single product short description"
+msgstr "单个商品简短描述"
+
+#: inc/admin/admin-dyn-variables-helper.php:38
+msgid "Single product tag"
+msgstr "单个商品标签"
+
+#: inc/admin/admin-dyn-variables-helper.php:37
+msgid "Single product category"
+msgstr "单个商品分类"
+
+#: inc/admin/help-tabs/Titles.php:41
+msgid "Check our website"
+msgstr "查看我们的网站"
+
+#: inc/admin/help-tabs/Titles.php:40
+msgid "Read our FAQ"
+msgstr "阅读我们的常见问题解答"
+
+#: inc/admin/help-tabs/Titles.php:39
+msgid "Browse our guides"
+msgstr "浏览我们的指南"
+
+#: inc/admin/callbacks/Sitemaps.php:365
+msgid "Disable date after each post, page, post type?"
+msgstr "每个文章，页面，文章类型后禁用日期？"
+
+#: inc/admin/callbacks/Sitemaps.php:264
+msgid "You can also use this shortcode:"
+msgstr "你也可以使用这个短代码"
+
+#: inc/admin/settings/Sitemaps.php:130
+msgid "Disable the display of the publication date"
+msgstr "禁用出版日期的显示"
+
+#: inc/admin/blocks/notifications-center.php:284
+msgid "Your theme doesn't use <strong>add_theme_support('title-tag');</strong>"
+msgstr "你的主题没有使用<strong>add_theme_support('title-tag')。</strong>"
+
+#: inc/functions/sitemap/template-xml-sitemaps-xsl.php:129
+msgid "XML Sitemaps"
+msgstr "XML站点地图"
+
+#: inc/admin/callbacks/Analytics.php:886
+msgid "Separate each keyword with a pipe \"|\""
+msgstr "用“|”分隔每个关键字"
+
+#: inc/admin/callbacks/Analytics.php:882
+msgid "aff|go|out"
+msgstr "aff|go|out"
+
+#: inc/admin/callbacks/Analytics.php:868
+msgid "Enable affiliate/outbound tracking"
+msgstr "启用联盟/出站跟踪"
+
+#: inc/admin/callbacks/Analytics.php:813 inc/admin/settings/Analytics.php:367
+msgid "Enable external links tracking"
+msgstr "启用外部链接跟踪"
+
+#: inc/admin/callbacks/Analytics.php:882 inc/admin/settings/Analytics.php:399
+msgid "Track affiliate/outbound links"
+msgstr "追踪联盟/外链"
+
+#: inc/admin/settings/Analytics.php:391
+msgid "Enable affiliate/outbound links tracking (eg: aff, go, out, recommends)"
+msgstr "启用联盟/外链跟踪（例如：aff、go、out、recommendation）。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:391
+msgid "Ask Facebook to update its cache"
+msgstr "要求Facebook更新其缓存"
+
+#: inc/admin/callbacks/Titles.php:74
+msgid "Looking to edit your blog page?"
+msgstr "想编辑你的博客页面？"
+
+#: inc/admin/callbacks/Advanced.php:492
+msgid "Low priority"
+msgstr "低优先级"
+
+#: inc/admin/callbacks/Advanced.php:487
+msgid "Normal priority (default)"
+msgstr "普通级（默认）"
+
+#: inc/admin/callbacks/Advanced.php:482
+msgid "High priority (top)"
+msgstr "高度优先（顶部）"
+
+#: inc/admin/callbacks/Analytics.php:850
+msgid "Separate each file type extensions with a pipe \"|\""
+msgstr "用\"|\"分隔每个文件类型扩展名\""
+
+#: inc/admin/callbacks/Analytics.php:846
+msgid "pdf|docx|pptx|zip"
+msgstr "pdf|docx|pptx|zip"
+
+#: inc/admin/callbacks/Analytics.php:833
+msgid "Enable download tracking"
+msgstr "启用下载跟踪"
+
+#: inc/admin/callbacks/Titles.php:1495
+msgid "Add rel next/prev link in head of paginated archive pages"
+msgstr "在分页存档页面的头部添加rel next/prev链接"
+
+#: inc/admin/callbacks/Titles.php:1165
+msgid "Disable date archives"
+msgstr "禁用日期存档"
+
+#: inc/admin/callbacks/Titles.php:1072
+msgid "Disable author archives"
+msgstr "禁用作者档案"
+
+#: inc/admin/sections/Sitemaps.php:55
+msgid "Your server uses NGINX. If XML Sitemaps doesn't work properly, you need to add this rule to your configuration:"
+msgstr "你的服务器使用NGINX。如果XML网站地图不能正常工作，你需要在你的配置中添加这个规则："
+
+#: inc/admin/settings/Analytics.php:375
+msgid "Enable downloads tracking (eg: PDF, XLSX, DOCX...)"
+msgstr "启用下载跟踪(例如：PDF, XLSX, DOCX...)"
+
+#: inc/admin/settings/Titles.php:299
+msgid "Indicate paginated content to Google"
+msgstr "向Google显示分页内容"
+
+#: inc/admin/admin-features-list.php:156
+msgid "Configure default WordPress RSS."
+msgstr "配置默认的WordPress RSS。"
+
+#: inc/admin/blocks/insights.php:280
+msgid "Get list"
+msgstr "获取列表"
+
+#: inc/admin/blocks/insights.php:259
+msgid "Number of websites on your server: "
+msgstr "服务器上的网站数： "
+
+#: inc/admin/blocks/insights.php:252
+msgid "Last scrape: "
+msgstr "上次抓取： "
+
+#: inc/admin/blocks/insights.php:245
+msgid "Server IP Address: "
+msgstr "服务器IP地址： "
+
+#: inc/admin/blocks/insights.php:215
+msgid "Check websites setup on your server"
+msgstr "检查服务器上的站点设置"
+
+#: inc/admin/blocks/insights.php:70
+msgid "SEO Tools"
+msgstr "SEO 工具"
+
+#: inc/admin/admin-pages/Analytics.php:25
+#: inc/admin/admin-pages/Analytics.php:37 inc/admin/sections/Analytics.php:80
+msgid "Events"
+msgstr "活动事件"
+
+#: inc/admin/admin-features-list.php:155
+msgid "RSS"
+msgstr "RSS"
+
+#: src/Actions/Admin/ManageColumn.php:172
+msgid "Analyze this page with Google Page Speed"
+msgstr "用Google Page Speed分析此页面"
+
+#: src/Actions/Admin/ManageColumn.php:85
+msgid "Page Speed"
+msgstr "Page Speed"
+
+#: inc/admin/callbacks/Advanced.php:779
+msgid "Display Page Speed column to check performances"
+msgstr "显示页面Page Speed，以检查性能"
+
+#: inc/admin/settings/Advanced.php:299
+msgid "Show Google Page Speed column in post types"
+msgstr "在文章类型中显示Google Page Speed列"
+
+#: inc/admin/callbacks/Advanced.php:139 inc/admin/settings/Advanced.php:40
+msgid "Disable trailing slash for metas"
+msgstr "禁用元的尾部斜杠"
+
+#: inc/functions/options-import-export.php:134
+#: inc/functions/options-import-export.php:256
+msgid "Please upload a valid .csv file"
+msgstr "请上传有效的.csv文件"
+
+#: inc/admin/callbacks/Advanced.php:758
+msgid "Display total number of words in content"
+msgstr "显示内容的总字数"
+
+#: inc/admin/callbacks/Analytics.php:778
+msgid "Cross domain tracking makes it possible for Analytics to see sessions on two related sites (such as an ecommerce site and a separate shopping cart site) as a single session. This is sometimes called site linking."
+msgstr "跨域跟踪使Analytics可以将两个相关网站（如电子商务网站和单独的购物车网站）上的会话视为一个会话。这有时被称为网站链接。"
+
+#: inc/admin/callbacks/Analytics.php:749
+msgid "Enhanced Link Attribution improves the accuracy of your In-Page Analytics report by automatically differentiating between multiple links to the same URL on a single page by using link element IDs."
+msgstr "增强型链接归属通过使用链接元素ID自动区分单个页面上指向同一URL的多个链接，提高了您的页内分析报告的准确性。"
+
+#: inc/admin/callbacks/Analytics.php:721
+msgid "When a customer of Analytics requests IP address anonymization, Analytics anonymizes the address as soon as technically feasible at the earliest possible stage of the collection network."
+msgstr "当Analytics（分析）的客户要求IP地址匿名化时，Analytics（分析）会在收集网络的最早阶段在技术上可行的情况下尽快对地址进行匿名化。"
+
+#: inc/admin/callbacks/Analytics.php:694
+msgid "A remarketing audience is a list of cookies or mobile-advertising IDs that represents a group of users you want to re-engage because of their likelihood to convert."
+msgstr "再营销受众是一个由Cookie或移动广告ID组成的列表，它代表了您想重新接触的用户群体，因为他们有可能转化。"
+
+#: inc/admin/callbacks/Analytics.php:37
+msgid "Find your tracking ID"
+msgstr "查找您的跟踪ID"
+
+#: inc/admin/settings/Advanced.php:290
+msgid "Show total number of words column in post types"
+msgstr "在文章类型中显示单词总数列"
+
+#: inc/admin/admin-features-list.php:78
+msgid "Add Google Local Business data type"
+msgstr "添加Google Local Business数据类型"
+
+#: inc/admin/admin-features-list.php:77
+msgid "Local Business"
+msgstr "Local Business"
+
+#: inc/admin/blocks/notifications-center.php:865
+msgid "Display more posts per page on homepage and archives"
+msgstr "在首页和存档中显示每页的更多文章"
+
+#: inc/admin/admin-features-list.php:109
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: inc/admin/admin-bar/admin-bar.php:195
+msgid "Broken Links"
+msgstr "断开链接"
+
+#: inc/admin/admin-bar/admin-bar.php:159
+msgid "BOT"
+msgstr "BOT"
+
+#: inc/admin/callbacks/Social.php:461
+msgid "How to create a Facebook App ID"
+msgstr "如何创建Facebook App ID"
+
+#: inc/admin/admin-bar/admin-bar.php:151 inc/admin/admin-features-list.php:163
+#: inc/admin/admin.php:106
+msgid "Tools"
+msgstr "工具"
+
+#: inc/admin/admin-bar/admin-bar.php:118 inc/admin/admin-features-list.php:30
+#: inc/admin/admin.php:102
+msgid "Social Networks"
+msgstr "社交网络"
+
+#: inc/admin/admin.php:99
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:665
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:510
+#: src/Helpers/Metas/RedirectionSettings.php:56
+msgid "301 Moved Permanently"
+msgstr "301永久移动"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:58
+msgid "Redirection"
+msgstr "重定向"
+
+#: inc/admin/admin-features-list.php:135
+msgid "Scan your site to find SEO problems."
+msgstr "扫描您的站点以查找SEO问题。"
+
+#: inc/admin/settings/Advanced.php:367
+msgid "Block SEO metabox to user roles"
+msgstr "在用户角色阻止SEO元框显现"
+
+#: inc/admin/settings/Sitemaps.php:24
+msgid "Enable XML Image Sitemaps"
+msgstr "启用XML图像站点地图"
+
+#: inc/admin/admin-pages/Advanced.php:23 inc/admin/sections/Advanced.php:40
+msgid "Security"
+msgstr "安全"
+
+#: inc/functions/options-advanced-admin.php:635
+msgid "%s post to follow."
+msgid_plural "%s posts to follow."
+msgstr[0] "%s个文章已follow。"
+
+#: inc/functions/options-advanced-admin.php:598
+msgid "Enable follow"
+msgstr "启用follow"
+
+#: inc/functions/options-advanced-admin.php:576
+msgid "%s post to nofollow."
+msgid_plural "%s posts to nofollow."
+msgstr[0] "%s个文章已nofollow。"
+
+#: inc/functions/options-advanced-admin.php:540
+msgid "Enable nofollow"
+msgstr "启用nofollow"
+
+#: inc/functions/options-advanced-admin.php:518
+msgid "%s post to index."
+msgid_plural "%s posts to index."
+msgstr[0] "%s个文章已index（索引）。"
+
+#: inc/functions/options-advanced-admin.php:481
+msgid "Enable index"
+msgstr "启用index"
+
+#: inc/functions/options-advanced-admin.php:457
+msgid "%s post to noindex."
+msgid_plural "%s posts to noindex."
+msgstr[0] "%s个文章已noindex（不索引）。"
+
+#: inc/functions/options-advanced-admin.php:420
+msgid "Enable noindex"
+msgstr "启用noindex"
+
+#: inc/admin/callbacks/Advanced.php:861
+msgid "Remove Genesis SEO Metabox"
+msgstr "移除Genesis SEO元框"
+
+#: inc/admin/settings/Advanced.php:334
+msgid "Hide Genesis SEO Metabox"
+msgstr "隐藏Genesis SEO元框"
+
+#: inc/admin/blocks/notifications-center.php:840
+msgid "Disable this!"
+msgstr "禁用它！"
+
+#: inc/admin/blocks/notifications-center.php:833
+msgid "Break comments into pages is ON!"
+msgstr "将评论分成不同的页面已开启！"
+
+#: inc/admin/blocks/notifications-center.php:701
+msgid "Your RSS feed shows full text!"
+msgstr "您的RSS订阅会显示全文！"
+
+#: inc/admin/admin-pages/Tools.php:321
+msgid "Reset notices"
+msgstr "重置通知"
+
+#: inc/admin/admin-pages/Tools.php:312
+msgid "Reset All Notices From Notifications Center"
+msgstr "从通知中心重置所有通知"
+
+#: inc/admin/admin-pages/Analytics.php:27
+msgid "Stats in Dashboard"
+msgstr "仪表盘中的统计数据"
+
+#: inc/admin/settings/Advanced.php:24
+msgid "Remove /category/ in URL"
+msgstr "网址中移除/category/"
+
+#: inc/admin/callbacks/Sitemaps.php:283
+msgid "eg: 13, 8, 38"
+msgstr "例如：13, 8, 38"
+
+#: inc/admin/callbacks/Sitemaps.php:259
+msgid "eg: 2, 28, 68"
+msgstr "例如：2, 28, 68"
+
+#: inc/admin/callbacks/Sitemaps.php:259 inc/admin/settings/Sitemaps.php:98
+msgid "Enter a post, page or custom post type ID(s) to display the sitemap"
+msgstr "输入文章，页面或自定义文章类型ID以显示站点地图"
+
+#: inc/admin/callbacks/Sitemaps.php:132 inc/admin/settings/Sitemaps.php:50
+msgid "Enable HTML Sitemap"
+msgstr "启用HTML网站地图"
+
+#: inc/admin/admin-bar/admin-bar.php:112
+msgid "XML / HTML Sitemap"
+msgstr "XML/HTML站点地图"
+
+#: inc/admin/callbacks/Social.php:185
+msgid "Hearing impaired supported"
+msgstr "听障人士支持"
+
+#: inc/admin/callbacks/Social.php:180
+msgid "Toll Free"
+msgstr "免费电话"
+
+#: inc/admin/callbacks/Social.php:155
+msgid "Package tracking"
+msgstr "包裹跟踪"
+
+#: inc/admin/callbacks/Social.php:150
+msgid "Roadside assistance"
+msgstr "道路救援"
+
+#: inc/admin/callbacks/Social.php:145
+msgid "Baggage tracking"
+msgstr "行李跟踪"
+
+#: inc/admin/callbacks/Social.php:140
+msgid "Emergency"
+msgstr "警务人员"
+
+#: inc/admin/callbacks/Social.php:135
+msgid "Credit card support"
+msgstr "信用卡支持"
+
+#: inc/admin/callbacks/Social.php:130
+msgid "Sales"
+msgstr "销售"
+
+#: inc/admin/callbacks/Social.php:125
+msgid "Bill payment"
+msgstr "缴费"
+
+#: inc/admin/callbacks/Social.php:120
+msgid "Billing support"
+msgstr "账单支持"
+
+#: inc/admin/callbacks/Social.php:115
+msgid "Technical support"
+msgstr "技术支持"
+
+#: inc/admin/callbacks/Social.php:110
+msgid "Customer support"
+msgstr "客户支持"
+
+#: inc/admin/callbacks/Social.php:94
+msgid "eg: +33123456789 (internationalized version required)"
+msgstr "例如：+33123456789（需要国际化版本）"
+
+#: inc/admin/settings/Social.php:56
+msgid "Contact option (only for Organizations)"
+msgstr "联系选项（仅适用于组织）"
+
+#: inc/admin/settings/Social.php:48
+msgid "Contact type (only for Organizations)"
+msgstr "联系人类型（仅适用于组织）"
+
+#: inc/admin/callbacks/Social.php:94 inc/admin/settings/Social.php:40
+msgid "Organization's phone number (only for Organizations)"
+msgstr "本组织的电话号码（仅适用于本组织）"
+
+#: inc/admin/admin-features-list.php:90
+msgid "Add data types to your content: articles, courses, recipes, videos, events, products and more."
+msgstr "将数据类型添加到您的内容中：文章，课程，食谱，视频，事件，产品等。"
+
+#: inc/admin/admin-features-list.php:89
+msgid "Structured Data Types"
+msgstr "结构化数据类型"
+
+#: inc/admin/admin-features-list.php:84
+msgid "Add Dublin Core meta tags"
+msgstr "添加Dublin Core元标签"
+
+#: inc/admin/admin-features-list.php:83
+msgid "Dublin Core"
+msgstr "Dublin Core"
+
+#: inc/admin/callbacks/Advanced.php:738
+msgid "Display nofollow status"
+msgstr "显示nofollow状态"
+
+#: inc/admin/callbacks/Advanced.php:718
+msgid "Display noindex status"
+msgstr "显示noindex状态"
+
+#: inc/admin/settings/Advanced.php:282
+msgid "Show nofollow column in post types"
+msgstr "在文章类型中显示nofollow列"
+
+#: inc/admin/settings/Advanced.php:274
+msgid "Show noindex column in post types"
+msgstr "在文章类型中显示noindex列"
+
+#: inc/admin/blocks/notifications-center.php:991
+msgid "You have to enter your licence key to get updates and support"
+msgstr "您必须输入您的许可证密钥才能获得更新和支持"
+
+#: inc/admin/blocks/notifications-center.php:961
+msgid "Add your site to Search Console!"
+msgstr "将您的网站添加到Search Console！"
+
+#: inc/admin/blocks/notifications-center.php:954
+msgid "Add your site to Google. It's free!"
+msgstr "将您的网站添加到Google。它是免费的！"
+
+#: inc/admin/blocks/notifications-center.php:920
+msgid "Create your page now!"
+msgstr "现在就创建您的页面！"
+
+#: inc/admin/blocks/notifications-center.php:913
+msgid "Do you have a Google My Business page? It's free!"
+msgstr "您有Google My Business页面吗？它是免费的！"
+
+#: inc/admin/blocks/notifications-center.php:292
+#: inc/admin/blocks/notifications-center.php:559
+#: inc/admin/blocks/notifications-center.php:579
+#: inc/admin/blocks/notifications-center.php:597
+#: inc/admin/callbacks/Analytics.php:599 inc/admin/callbacks/Analytics.php:696
+#: inc/admin/callbacks/Analytics.php:724 inc/admin/callbacks/Analytics.php:753
+#: inc/admin/callbacks/Analytics.php:781
+msgid "Learn more"
+msgstr "了解更多"
+
+#: src/Actions/Admin/ManageColumn.php:58
+msgid "Meta Desc."
+msgstr "元描述"
+
+#: inc/functions/options-advanced-admin.php:753
+#: src/Actions/Admin/ManageColumn.php:55
+msgid "Title tag"
+msgstr "标题标签"
+
+#: inc/admin/callbacks/Advanced.php:618
+msgid "Add meta description column"
+msgstr "添加元描述列"
+
+#: inc/admin/callbacks/Advanced.php:598
+msgid "Add title column"
+msgstr "增加标题栏"
+
+#: inc/admin/callbacks/Analytics.php:907 inc/admin/callbacks/Analytics.php:933
+#: inc/admin/callbacks/Analytics.php:960 inc/admin/callbacks/Analytics.php:987
+#: inc/admin/callbacks/Analytics.php:1014
+msgid "Custom Dimension #%d"
+msgstr "自定义尺寸#%d"
+
+#: inc/admin/callbacks/Analytics.php:30
+msgid "Enter your Tracking ID (UA-XXXX-XX)"
+msgstr "输入你的追踪ID（UA-XXXX-XX）。"
+
+#: inc/admin/callbacks/Titles.php:1193 src/Tags/SearchKeywords.php:15
+msgid "Search Keywords"
+msgstr "搜索关键字"
+
+#: inc/admin/callbacks/Titles.php:862
+msgid "Post Type Archive Name"
+msgstr "文章类型存档名称"
+
+#: inc/admin/callbacks/Titles.php:717 src/Tags/TermDescription.php:15
+msgid "Term Description"
+msgstr "术语描述"
+
+#: inc/admin/callbacks/Titles.php:709 src/Tags/TagDescription.php:15
+msgid "Tag Description"
+msgstr "标签描述"
+
+#: inc/admin/callbacks/Titles.php:701 src/Tags/CategoryDescription.php:15
+msgid "Category Description"
+msgstr "分类描述"
+
+#: inc/admin/callbacks/Titles.php:644
+#: inc/admin/metaboxes/admin-metaboxes-form.php:128 src/Tags/TermTitle.php:15
+msgid "Term Title"
+msgstr "术语标题"
+
+#: inc/admin/callbacks/Titles.php:636 src/Tags/TagTitle.php:15
+msgid "Tag Title"
+msgstr "标签标题"
+
+#: inc/admin/callbacks/Titles.php:628 src/Tags/CategoryTitle.php:15
+msgid "Category Title"
+msgstr "分类名称"
+
+#: inc/admin/admin-dyn-variables-helper.php:9
+#: inc/admin/callbacks/Sitemaps.php:328 inc/admin/callbacks/Titles.php:217
+#: inc/admin/callbacks/Titles.php:430
+#: inc/admin/metaboxes/admin-metaboxes-form.php:131
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:66
+#: src/Tags/PostTitle.php:17
+msgid "Post Title"
+msgstr "文章标题"
+
+#: inc/admin/settings/Advanced.php:234
+msgid "Show Meta description column in post types"
+msgstr "在文章类型中显示元描述列"
+
+#: inc/admin/settings/Advanced.php:226
+msgid "Show Title tag column in post types"
+msgstr "在文章类型中显示标题标签列"
+
+#: inc/admin/settings/ImageSEO.php:16
+msgid "Redirect attachment pages to post parent"
+msgstr "将附件页面重定向到父级文章"
+
+#: inc/admin/settings/Analytics.php:449
+msgid "Track Logged In Users"
+msgstr "追踪登录用户"
+
+#: inc/admin/settings/Analytics.php:441
+msgid "Track Post Types"
+msgstr "跟踪文章类型"
+
+#: inc/admin/settings/Analytics.php:433
+msgid "Track Tags"
+msgstr "跟踪标签"
+
+#: inc/admin/settings/Analytics.php:425
+msgid "Track Categories"
+msgstr "跟踪分类"
+
+#: inc/admin/settings/Analytics.php:417
+msgid "Track Authors"
+msgstr "追踪作者"
+
+#: inc/admin/callbacks/Analytics.php:796 inc/admin/callbacks/Analytics.php:1206
+#: inc/admin/settings/Analytics.php:315
+msgid "Cross domains"
+msgstr "跨域名"
+
+#: inc/admin/callbacks/Analytics.php:774 inc/admin/settings/Analytics.php:307
+msgid "Enable cross-domain tracking"
+msgstr "启用跨域跟踪"
+
+#: inc/admin/callbacks/Analytics.php:745 inc/admin/settings/Analytics.php:299
+msgid "Enhanced Link Attribution"
+msgstr "增强链接归因"
+
+#: inc/admin/callbacks/Analytics.php:717 inc/admin/settings/Analytics.php:291
+msgid "Enable IP Anonymization"
+msgstr "启用IP匿名化"
+
+#: inc/admin/callbacks/Analytics.php:690 inc/admin/settings/Analytics.php:283
+msgid "Enable remarketing, demographics, and interests reporting"
+msgstr "启用再营销、人口统计和兴趣报告"
+
+#: inc/admin/admin.php:69 inc/admin/admin.php:71
+msgid "Click to enable this feature"
+msgstr "单击以启用此功能"
+
+#: inc/admin/admin.php:68 inc/admin/admin.php:72
+msgid "Click to disable this feature"
+msgstr "单击以禁用此功能"
+
+#: inc/admin/callbacks/Analytics.php:30 inc/admin/settings/Analytics.php:24
+#: inc/admin/settings/Analytics.php:482
+msgid "Enter your tracking ID"
+msgstr "输入您的跟踪ID"
+
+#: inc/admin/settings/Analytics.php:16
+msgid "Enable Google Analytics tracking"
+msgstr "启用 Google Analytics跟踪"
+
+#: inc/admin/admin-bar/admin-bar.php:166 inc/admin/admin-features-list.php:171
+#: inc/admin/blocks/notifications-center.php:994
+msgid "License"
+msgstr "许可证"
+
+#: inc/admin/admin-features-list.php:148
+msgid "Edit your htaccess file."
+msgstr "编辑您的htaccess文件。"
+
+#: inc/admin/admin-features-list.php:147
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: inc/admin/admin-features-list.php:129
+msgid "Monitor 404, create 301, 302 and 307 redirections"
+msgstr "监控404，创建301、302和307重定向"
+
+#: inc/admin/admin-features-list.php:117
+msgid "Optimize your site for Google News"
+msgstr "为Google News优化您的站点"
+
+#: inc/admin/admin-features-list.php:116
+msgid "Google News Sitemap"
+msgstr "Google新闻站点地图"
+
+#: inc/admin/admin-features-list.php:110
+msgid "Edit your robots.txt file"
+msgstr "编辑您的robots.txt文件"
+
+#: inc/admin/admin-features-list.php:102
+msgid "Track your website performance to improve SEO with Google Page Speed"
+msgstr "跟踪您的站点性能，以提高谷歌页面速度的SEO"
+
+#: inc/admin/admin-features-list.php:101
+msgid "Google Page Speed"
+msgstr "Google Page Speed"
+
+#: inc/admin/admin-features-list.php:96
+msgid "Enable Breadcrumbs for your theme and improve your SEO in SERPs"
+msgstr "为您的主题启用面包屑导航，并在SERP中改进您的SEO"
+
+#: inc/admin/admin-features-list.php:95
+msgid "Breadcrumbs"
+msgstr "面包屑导航"
+
+#: inc/admin/admin-features-list.php:66
+msgid "Improve WooCommerce SEO"
+msgstr "改善WooCommerce SEO"
+
+#: inc/admin/admin-features-list.php:65
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/admin-features-list.php:37
+msgid "Track everything about your visitors with Google Analytics / Matomo"
+msgstr "使用Google Analytics（分析）/ Matomo跟踪有关访客的所有信息"
+
+#: inc/admin/blocks/notifications-center.php:704
+#: inc/admin/blocks/notifications-center.php:773
+#: inc/admin/blocks/notifications-center.php:868
+#: inc/admin/blocks/notifications-center.php:886
+msgid "Medium impact"
+msgstr "中等"
+
+#: inc/admin/blocks/notifications-center.php:185
+#: inc/admin/blocks/notifications-center.php:205
+#: inc/admin/blocks/notifications-center.php:223
+#: inc/admin/blocks/notifications-center.php:254
+#: inc/admin/blocks/notifications-center.php:287
+#: inc/admin/blocks/notifications-center.php:332
+#: inc/admin/blocks/notifications-center.php:369
+#: inc/admin/blocks/notifications-center.php:396
+#: inc/admin/blocks/notifications-center.php:445
+#: inc/admin/blocks/notifications-center.php:465
+#: inc/admin/blocks/notifications-center.php:484
+#: inc/admin/blocks/notifications-center.php:503
+#: inc/admin/blocks/notifications-center.php:522
+#: inc/admin/blocks/notifications-center.php:574
+#: inc/admin/blocks/notifications-center.php:592
+#: inc/admin/blocks/notifications-center.php:637
+#: inc/admin/blocks/notifications-center.php:656
+#: inc/admin/blocks/notifications-center.php:673
+#: inc/admin/blocks/notifications-center.php:836
+#: inc/admin/blocks/notifications-center.php:916
+#: inc/admin/blocks/notifications-center.php:957
+#: inc/admin/blocks/notifications-center.php:975
+#: inc/admin/blocks/notifications-center.php:1072
+#: inc/admin/blocks/notifications-center.php:1102
+msgid "High impact"
+msgstr "高影响"
+
+#: inc/admin/blocks/notifications-center.php:555
+msgid "Low impact"
+msgstr "低效"
+
+#: inc/admin/blocks/notifications-center.php:552
+msgid "Your site doesn't use an SSL certificate!"
+msgstr "您的站点没有使用SSL证书！"
+
+#: inc/admin/blocks/notifications-center.php:373
+msgid "Migrate!"
+msgstr "迁移！"
+
+#: inc/admin/migrate/MigrationTools.php:48
+msgid "Migrate now"
+msgstr "立即迁移"
+
+#: inc/admin/migrate/MigrationTools.php:25
+msgid "Meta Robots (noindex, nofollow...)"
+msgstr "Meta Robots（noindex，nofollow ...）"
+
+#: inc/admin/migrate/MigrationTools.php:22
+msgid "Twitter tags (title, description and image thumbnail)"
+msgstr "Twitter标签（标题、描述和图片缩略图）。"
+
+#: inc/admin/migrate/MigrationTools.php:20
+msgid "Facebook Open Graph tags (title, description and image thumbnail)"
+msgstr "Facebook Open Graph标签（标题、描述和图片缩略图）。"
+
+#: inc/admin/migrate/MigrationTools.php:18
+msgid "Title tags"
+msgstr "标题标签"
+
+#: inc/admin/migrate/MigrationTools.php:15
+msgid "By clicking Migrate, we'll import:"
+msgstr "点击迁移，我们就会导入："
+
+#: inc/admin/admin-pages/Advanced.php:22 inc/admin/sections/Advanced.php:25
+msgid "Appearance"
+msgstr "外观"
+
+#: inc/admin/admin-pages/Analytics.php:26
+#: inc/admin/admin-pages/Analytics.php:38 inc/admin/sections/Analytics.php:101
+msgid "Custom Dimensions"
+msgstr "自定义尺寸"
+
+#: inc/admin/admin-pages/Analytics.php:22
+#: inc/admin/admin-pages/Analytics.php:35 inc/admin/sections/Analytics.php:44
+msgid "Tracking"
+msgstr "跟踪"
+
+#: inc/admin/admin-dyn-variables-helper.php:28
+#: src/Tags/CustomPostTypePlural.php:15
+msgid "Plural Post Type Archive name"
+msgstr "多个文章类型存档名称"
+
+#: src/Actions/Options/Init.php:266
+msgid "404 - Page not found"
+msgstr "404 - 页面未找到"
+
+#: inc/admin/callbacks/Analytics.php:900 inc/admin/callbacks/Analytics.php:926
+#: inc/admin/callbacks/Analytics.php:953 inc/admin/callbacks/Analytics.php:980
+#: inc/admin/callbacks/Analytics.php:1008
+#: inc/admin/callbacks/InstantIndexing.php:220
+#: inc/admin/callbacks/Social.php:175
+msgid "None"
+msgstr "无"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:785
+msgid "Exclude this post from Google News Sitemap?"
+msgstr "从Google新闻站点地图中排除?"
+
+#: inc/admin/callbacks/Titles.php:1447
+msgid "Do not display a description in the Google search results for all pages."
+msgstr "不要在谷歌搜索结果中显示所有页面的描述。"
+
+#: inc/admin/callbacks/Titles.php:1421
+msgid "Do not display a \"Cached\" link in the Google search results."
+msgstr "不要在谷歌搜索结果中显示 \"缓存 \"链接。"
+
+#: inc/admin/callbacks/Titles.php:1396
+msgid "Do not index images from the entire site."
+msgstr "不要对整个站点的图片进行索引。"
+
+#: inc/admin/callbacks/Titles.php:1370
+msgid "Do not use Open Directory project metadata for titles or excerpts for all pages."
+msgstr "不要将Open Directory项目元数据用于所有页面的标题或摘要。"
+
+#: inc/admin/callbacks/Titles.php:1344
+msgid "Do not follow links for all pages."
+msgstr "不要跟随所有页面的链接。"
+
+#: inc/admin/callbacks/Titles.php:1314
+msgid "Do not display all pages of the site in Google search results and do not display \"Cached\" links in search results."
+msgstr "不要在谷歌搜索结果中显示站点的所有页面，不要在搜索结果中显示 \"缓存 \"链接。"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:64
+msgid "Google News"
+msgstr "Google News"
+
+#: inc/admin/admin-bar/admin-bar.php:26 inc/admin/admin.php:93
+#: inc/admin/metaboxes/admin-metaboxes-form.php:39
+#: inc/admin/metaboxes/admin-metaboxes.php:237
+#: inc/admin/metaboxes/admin-metaboxes.php:240
+#: inc/admin/page-builders/gutenberg/gutenberg-addon.php:39
+#: inc/functions/options-advanced-admin.php:750
+msgid "SEO"
+msgstr "SEO"
+
+#: seopress.php:605
+msgid "GO PRO!"
+msgstr "获取PRO!"
+
+#: inc/admin/sections/Sitemaps.php:111
+msgid "Flush permalinks"
+msgstr "冲洗固定链接"
+
+#: inc/admin/sections/Sitemaps.php:107
+msgid "Ping Google manually"
+msgstr "手动Ping Google"
+
+#: inc/admin/blocks/notifications-center.php:670
+msgid "Your permalinks are not SEO Friendly! Enable pretty permalinks to fix this."
+msgstr "您的永久链接不是SEO友好的！启用相当永久链接来解决此问题。"
+
+#: inc/admin/blocks/notifications-center.php:653
+msgid "Your site title is empty!"
+msgstr "你的站点标题是空的!"
+
+#: inc/admin/callbacks/Advanced.php:371
+msgid "Enter Yandex meta value site verification"
+msgstr "输入Yandex元值网站验证"
+
+#: inc/admin/callbacks/Advanced.php:361
+msgid "Enter Pinterest meta value site verification"
+msgstr "输入Pinterest元值网站验证"
+
+#: inc/admin/callbacks/Advanced.php:346
+msgid "Enter Bing meta value site verification"
+msgstr "输入必应元值站点验证"
+
+#: inc/admin/callbacks/Advanced.php:331
+msgid "Enter Google meta value site verification"
+msgstr "输入Google元值网站验证"
+
+#: inc/admin/callbacks/Advanced.php:371 inc/admin/settings/Advanced.php:136
+msgid "Yandex site verification"
+msgstr "Yandex网站验证"
+
+#: inc/admin/callbacks/Advanced.php:361 inc/admin/settings/Advanced.php:128
+msgid "Pinterest site verification"
+msgstr "Pinterest站点验证"
+
+#: inc/admin/callbacks/Advanced.php:346 inc/admin/settings/Advanced.php:120
+msgid "Bing site verification"
+msgstr "必应网站验证"
+
+#: inc/admin/callbacks/Advanced.php:331 inc/admin/settings/Advanced.php:112
+msgid "Google site verification"
+msgstr "谷歌网站验证"
+
+#: inc/admin/blocks/notifications-center.php:883
+msgid "You don't have an XML Sitemap!"
+msgstr "您没有XML网站地图！"
+
+#: inc/admin/blocks/notifications-center.php:189
+#: inc/admin/blocks/notifications-center.php:209
+#: inc/admin/blocks/notifications-center.php:227
+#: inc/admin/blocks/notifications-center.php:259
+#: inc/admin/blocks/notifications-center.php:336
+#: inc/admin/blocks/notifications-center.php:400
+#: inc/admin/blocks/notifications-center.php:449
+#: inc/admin/blocks/notifications-center.php:469
+#: inc/admin/blocks/notifications-center.php:488
+#: inc/admin/blocks/notifications-center.php:507
+#: inc/admin/blocks/notifications-center.php:526
+#: inc/admin/blocks/notifications-center.php:641
+#: inc/admin/blocks/notifications-center.php:660
+#: inc/admin/blocks/notifications-center.php:677
+#: inc/admin/blocks/notifications-center.php:708
+#: inc/admin/blocks/notifications-center.php:777
+#: inc/admin/blocks/notifications-center.php:872
+#: inc/admin/blocks/notifications-center.php:890
+#: inc/admin/blocks/notifications-center.php:979
+#: inc/admin/blocks/notifications-center.php:998
+#: inc/admin/blocks/notifications-center.php:1106
+#: inc/admin/sections/InstantIndexing.php:43
+#: src/Services/ContentAnalysis/RenderGSCInspectUrl.php:30
+msgid "Fix this!"
+msgstr "修复它！"
+
+#: inc/admin/blocks/notifications-center.php:634
+msgid "Your site is not visible to Search Engines!"
+msgstr "您的站点在搜索引擎中是不可见的!"
+
+#: inc/admin/admin-dyn-variables-helper.php:26
+msgid "Current number page"
+msgstr "当前页面数"
+
+#: inc/admin/admin-dyn-variables-helper.php:25
+msgid "Search keywords"
+msgstr "搜索关键字"
+
+#: inc/admin/admin-dyn-variables-helper.php:24
+msgid "Term description"
+msgstr "术语描述"
+
+#: inc/admin/admin-dyn-variables-helper.php:23
+msgid "Term title"
+msgstr "术语标题"
+
+#: inc/admin/admin-dyn-variables-helper.php:22
+msgid "Tag description"
+msgstr "标签描述"
+
+#: inc/admin/admin-dyn-variables-helper.php:21
+msgid "Tag title"
+msgstr "标签标题"
+
+#: inc/admin/admin-dyn-variables-helper.php:20
+msgid "Category description"
+msgstr "类别描述"
+
+#: inc/admin/admin-dyn-variables-helper.php:19
+msgid "Category title"
+msgstr "类别标题"
+
+#: inc/admin/admin-dyn-variables-helper.php:16
+#: inc/admin/callbacks/Titles.php:1006
+msgid "Post author"
+msgstr "文章作者"
+
+#: inc/admin/admin-dyn-variables-helper.php:14
+msgid "Post date"
+msgstr "发布日期"
+
+#: inc/admin/admin-dyn-variables-helper.php:10
+#: inc/admin/callbacks/Titles.php:270
+msgid "Post excerpt"
+msgstr "文章摘要"
+
+#: inc/admin/admin-dyn-variables-helper.php:8 inc/admin/callbacks/Titles.php:47
+#: inc/admin/callbacks/Titles.php:65
+msgid "Tagline"
+msgstr "标语"
+
+#: inc/admin/admin-dyn-variables-helper.php:7 inc/admin/callbacks/Titles.php:37
+#: inc/admin/callbacks/Titles.php:231 inc/admin/callbacks/Titles.php:439
+#: inc/admin/callbacks/Titles.php:659 inc/admin/callbacks/Titles.php:872
+#: inc/admin/callbacks/Titles.php:1015 inc/admin/callbacks/Titles.php:1108
+#: inc/admin/callbacks/Titles.php:1203 inc/admin/callbacks/Titles.php:1267
+#: inc/admin/metaboxes/admin-metaboxes-form.php:134
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:67
+#: src/Tags/SiteTitle.php:22
+msgid "Site Title"
+msgstr "站点标题"
+
+#: inc/admin/callbacks/ImageSEO.php:16
+msgid "Redirect attachment pages to post parent (or homepage if none)"
+msgstr "将附件页面重定向到文章的上级页面（如果没有，则重定向到主页）。"
+
+#: inc/admin/admin-features-list.php:49
+msgid "Advanced SEO options for advanced users!"
+msgstr "高级用户的SEO高级选项！"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:756
+msgid "Test your URL"
+msgstr "测试您的URL"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:682
+#: inc/admin/metaboxes/admin-metaboxes-form.php:686
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:505
+#: src/Helpers/Metas/RedirectionSettings.php:68
+msgid "URL redirection"
+msgstr "URL重定向"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:631
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:494
+msgid "Enable redirection?"
+msgstr "启用重定向？"
+
+#: inc/admin/admin-bar/admin-bar.php:187 inc/admin/admin-features-list.php:128
+#: inc/admin/admin-pages/Tools.php:24
+msgid "Redirections"
+msgstr "重定向"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:327
+#: src/Helpers/Metas/RobotSettings.php:98
+msgid "Default value: "
+msgstr "默认值: "
+
+#: inc/admin/wizard/admin-wizard.php:1648
+msgid "Knowledge base"
+msgstr "知识库"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "SEOPress"
+msgstr "SEOPress"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:53
+msgid "Titles settings"
+msgstr "标题设置"
+
+#: inc/admin/admin-bar/admin-bar.php:136 inc/admin/admin-features-list.php:48
+#: inc/admin/admin-pages/Advanced.php:21 inc/admin/admin-pages/Titles.php:24
+#: inc/admin/admin.php:105 inc/admin/metaboxes/admin-metaboxes-form.php:55
+#: inc/admin/sections/Advanced.php:10 inc/admin/sections/Titles.php:63
+#: inc/admin/wizard/admin-wizard.php:234 inc/admin/wizard/admin-wizard.php:244
+msgid "Advanced"
+msgstr "高级"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:54
+msgid "Social"
+msgstr "社交"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:103
+#: inc/admin/metaboxes/admin-metaboxes-form.php:110
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:126
+msgid "Title"
+msgstr "标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:109
+msgid "Enter your title"
+msgstr "输入您的标题"
+
+#: inc/admin/admin-pages/Tools.php:63 inc/admin/admin-pages/Tools.php:109
+#: inc/admin/callbacks/Titles.php:60
+#: inc/admin/metaboxes/admin-metaboxes-form.php:143
+#: inc/admin/metaboxes/admin-metaboxes-form.php:144
+#: inc/admin/metaboxes/admin-metaboxes-form.php:150
+#: inc/admin/migrate/MigrationTools.php:19 inc/admin/settings/Titles.php:32
+#: inc/functions/options-advanced-admin.php:761
+#: src/Helpers/ContentAnalysis.php:53
+msgid "Meta description"
+msgstr "元描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:149
+msgid "Enter your meta description"
+msgstr "输入您的元描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:122
+#: inc/admin/metaboxes/admin-metaboxes-form.php:161
+#: inc/admin/page-builders/elementor/inc/controls/class-text-letter-counter-control.php:61
+msgid " (maximum recommended limit)"
+msgstr " (最大建议限制)"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:187
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:150
+msgid "Google Snippet Preview"
+msgstr "Google Snippet预览"
+
+#: inc/admin/callbacks/Titles.php:1310 inc/admin/settings/Titles.php:243
+msgid "noindex"
+msgstr "noindex"
+
+#: inc/admin/callbacks/Titles.php:1340 inc/admin/settings/Titles.php:251
+msgid "nofollow"
+msgstr "nofollow"
+
+#: inc/admin/callbacks/Titles.php:1366 inc/admin/settings/Titles.php:259
+msgid "noodp"
+msgstr "noodp"
+
+#: inc/admin/callbacks/Titles.php:1392 inc/admin/settings/Titles.php:267
+msgid "noimageindex"
+msgstr "noimageindex"
+
+#: inc/admin/callbacks/Titles.php:1443 inc/admin/settings/Titles.php:283
+msgid "nosnippet"
+msgstr "nosnippet"
+
+#: inc/admin/callbacks/Titles.php:1417 inc/admin/settings/Titles.php:275
+msgid "noarchive"
+msgstr "noarchive"
+
+#: inc/admin/admin-pages/Tools.php:81 inc/admin/admin-pages/Tools.php:127
+#: inc/admin/metaboxes/admin-metaboxes-form.php:321
+#: inc/admin/metaboxes/admin-metaboxes-form.php:322
+#: inc/admin/metaboxes/admin-metaboxes-form.php:328
+#: inc/admin/migrate/MigrationTools.php:28
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:263
+#: src/Helpers/ContentAnalysis.php:13 src/Helpers/Metas/RobotSettings.php:100
+msgid "Canonical URL"
+msgstr "规范链接"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:395
+#: inc/admin/metaboxes/admin-metaboxes-form.php:399
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:372
+#: src/Helpers/Metas/SocialSettings.php:31
+msgid "Facebook Title"
+msgstr "Facebook 标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:403
+#: inc/admin/metaboxes/admin-metaboxes-form.php:407
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:383
+#: src/Helpers/Metas/SocialSettings.php:40
+msgid "Facebook description"
+msgstr "Facebook描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:398
+#: src/Helpers/Metas/SocialSettings.php:28
+msgid "Enter your Facebook title"
+msgstr "输入你的Facebook标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:406
+#: src/Helpers/Metas/SocialSettings.php:37
+msgid "Enter your Facebook description"
+msgstr "输入您的Facebook描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:411
+#: inc/admin/metaboxes/admin-metaboxes-form.php:416
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:394
+msgid "Facebook Thumbnail"
+msgstr "Facebook缩略图"
+
+#: inc/admin/callbacks/Social.php:298 inc/admin/callbacks/Social.php:375
+#: inc/admin/callbacks/Social.php:521
+#: inc/admin/metaboxes/admin-metaboxes-form.php:415
+#: inc/admin/metaboxes/admin-metaboxes-form.php:535
+#: src/Helpers/Metas/SocialSettings.php:46
+#: src/Helpers/Metas/SocialSettings.php:86
+msgid "Select your default thumbnail"
+msgstr "选择您的默认缩略图"
+
+#: inc/admin/callbacks/Social.php:60 inc/admin/callbacks/Social.php:306
+#: inc/admin/callbacks/Social.php:382 inc/admin/callbacks/Social.php:524
+#: inc/admin/metaboxes/admin-metaboxes-form.php:430
+#: inc/admin/metaboxes/admin-metaboxes-form.php:550
+#: inc/admin/metaboxes/admin-metaboxes-form.php:905
+#: inc/admin/wizard/admin-wizard.php:745
+msgid "Upload an Image"
+msgstr "上传图片"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:517
+#: inc/admin/metaboxes/admin-metaboxes-form.php:521
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:421
+#: src/Helpers/Metas/SocialSettings.php:71
+#: src/Services/ContentAnalysis/GetContent.php:536
+msgid "Twitter Title"
+msgstr "Twitter标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:520
+#: src/Helpers/Metas/SocialSettings.php:68
+msgid "Enter your Twitter title"
+msgstr "输入您的Twitter标题"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:525
+#: inc/admin/metaboxes/admin-metaboxes-form.php:529
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:432
+#: src/Helpers/Metas/SocialSettings.php:80
+msgid "Twitter description"
+msgstr "推特描述"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:532
+#: inc/admin/metaboxes/admin-metaboxes-form.php:549
+#: inc/admin/page-builders/elementor/inc/admin/class-document-settings-section.php:443
+#: src/Helpers/Metas/SocialSettings.php:89
+msgid "Twitter Thumbnail"
+msgstr "推特缩略图"
+
+#: inc/admin/metaboxes/admin-metaboxes-form.php:528
+#: src/Helpers/Metas/SocialSettings.php:77
+msgid "Enter your Twitter description"
+msgstr "输入您的Twitter描述"
+
+#: inc/admin/admin-bar/admin-bar.php:106 inc/admin/admin-features-list.php:18
+#: inc/admin/admin.php:100
+msgid "Titles & Metas"
+msgstr "标题和目标"
+
+#: inc/admin/admin-pages/Sitemaps.php:21 inc/admin/sections/Sitemaps.php:125
+msgid "HTML Sitemap"
+msgstr "HTML网站地图"
+
+#: inc/admin/sections/Sitemaps.php:22
+msgid "Change this settings"
+msgstr "更改此设置"
+
+#: inc/admin/admin-pages/Sitemaps.php:20 inc/admin/admin-pages/Titles.php:23
+#: inc/admin/sections/Sitemaps.php:168 inc/admin/sections/Titles.php:78
+#: inc/admin/wizard/admin-wizard.php:202 inc/admin/wizard/admin-wizard.php:213
+#: inc/admin/wizard/admin-wizard.php:224
+msgid "Taxonomies"
+msgstr "分类法"
+
+#: inc/admin/admin-bar/admin-header.php:14 inc/admin/admin-pages/Titles.php:20
+#: inc/admin/sections/Titles.php:10
+msgid "Home"
+msgstr "首页"
+
+#: inc/admin/admin-pages/Titles.php:22 inc/admin/sections/Titles.php:93
+#: inc/admin/wizard/admin-wizard.php:201 inc/admin/wizard/admin-wizard.php:212
+#: inc/admin/wizard/admin-wizard.php:223
+msgid "Archives"
+msgstr "归档"
+
+#: inc/admin/admin-pages/Analytics.php:21
+#: inc/admin/admin-pages/Analytics.php:34
+#: inc/admin/admin-pages/InstantIndexing.php:24
+#: inc/admin/admin-pages/Sitemaps.php:18 inc/admin/sections/Analytics.php:10
+#: inc/admin/sections/Sitemaps.php:10 inc/admin/wizard/admin-wizard.php:179
+#: inc/admin/wizard/admin-wizard.php:189
+msgid "General"
+msgstr "常规"
+
+#: inc/admin/admin-pages/Sitemaps.php:19 inc/admin/admin-pages/Titles.php:21
+#: inc/admin/sections/Sitemaps.php:153 inc/admin/sections/Titles.php:48
+#: inc/admin/wizard/admin-wizard.php:200 inc/admin/wizard/admin-wizard.php:211
+#: inc/admin/wizard/admin-wizard.php:222
+msgid "Post Types"
+msgstr "文章类型"
+
+#: inc/admin/admin-pages/Social.php:18 inc/admin/sections/Social.php:10
+msgid "Knowledge Graph"
+msgstr "知识图"
+
+#: inc/admin/admin-pages/Social.php:19 inc/admin/sections/Social.php:34
+#: inc/admin/wizard/admin-wizard.php:180 inc/admin/wizard/admin-wizard.php:190
+msgid "Your social accounts"
+msgstr "您的社交帐户"
+
+#: inc/admin/admin-pages/Tools.php:162
+msgid "Export the plugin settings for this site as a .json file. This allows you to easily import the configuration into another site."
+msgstr "将此站点的插件设置导出为.json文件。这允许您轻松地将配置导入到另一个站点。"
+
+#: inc/admin/admin-pages/Tools.php:138 inc/admin/admin-pages/Tools.php:170
+msgid "Export"
+msgstr "导出"
+
+#: inc/admin/admin-pages/Tools.php:181
+msgid "Import the plugin settings from a .json file. This file can be obtained by exporting the settings on another site using the form above."
+msgstr "从.json文件导入插件设置。可以通过使用上面的表单在另一个站点上导出设置来获得该文件。"
+
+#: inc/admin/admin-pages/Tools.php:193
+msgid "Import"
+msgstr "导入"
+
+#: inc/admin/admin-pages/Tools.php:328
+msgid "Reset All Settings"
+msgstr "重置所有设置"
+
+#: inc/admin/admin-bar/admin-bar.php:172
+#: inc/admin/blocks/notifications-center.php:1025
+#: inc/admin/wizard/admin-wizard.php:261
+msgid "PRO"
+msgstr "PRO版"
+
+#: inc/admin/admin-pages/Tools.php:339
+msgid "Reset settings"
+msgstr "重新设置"
+
+#: inc/admin/wizard/admin-wizard.php:1614
+msgid "Follow us on Twitter"
+msgstr "在推特上关注我们"
+
+#: inc/admin/callbacks/Social.php:200 inc/admin/settings/Social.php:73
+msgid "Facebook Page URL"
+msgstr "Facebook页面URL"
+
+#: inc/admin/callbacks/Social.php:56 inc/admin/settings/Social.php:32
+#: inc/admin/wizard/admin-wizard.php:740
+msgid "Your photo/organization logo"
+msgstr "您的照片/组织商标"
+
+#: inc/admin/callbacks/Social.php:40 inc/admin/settings/Social.php:24
+#: inc/admin/wizard/admin-wizard.php:733
+msgid "Your name/organization"
+msgstr "您的名字/组织"
+
+#: inc/admin/settings/Social.php:16 inc/admin/wizard/admin-wizard.php:707
+msgid "Person or organization"
+msgstr "个人或组织"
+
+#: inc/admin/settings/Sitemaps.php:82
+msgid "Check to INCLUDE Taxonomies"
+msgstr "勾选包含分类"
+
+#: inc/admin/settings/Sitemaps.php:66
+msgid "Check to INCLUDE Post Types"
+msgstr "勾选包含文章类型"
+
+#: inc/admin/callbacks/Sitemaps.php:20 inc/admin/settings/Sitemaps.php:16
+msgid "Enable XML Sitemap"
+msgstr "启用XML网站地图"
+
+#: inc/admin/callbacks/Titles.php:31 inc/admin/settings/Titles.php:24
+msgid "Site title"
+msgstr "网站标题"
+
+#: inc/admin/admin-features-list.php:164
+msgid "Import/Export plugin settings from site to site."
+msgstr "从站点到站点导入/导出插件设置。"
+
+#: inc/admin/admin-features-list.php:31
+msgid "Open Graph, Twitter Card, Google Knowledge Graph and more..."
+msgstr "打开图，Twitter卡，Google知识图等..."
+
+#: inc/admin/settings/Social.php:81 inc/admin/wizard/admin-wizard.php:823
+msgid "Twitter Username"
+msgstr "Twitter用户名"
+
+#: inc/admin/callbacks/Social.php:222 inc/admin/settings/Social.php:89
+#: inc/admin/wizard/admin-wizard.php:830
+#: src/Tags/Schema/SocialAccount/Pinterest.php:15
+msgid "Pinterest URL"
+msgstr "Pinterest URL"
+
+#: inc/admin/callbacks/Social.php:255 inc/admin/settings/Social.php:113
+#: inc/admin/wizard/admin-wizard.php:851
+#: src/Tags/Schema/SocialAccount/Linkedin.php:15
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: inc/admin/callbacks/Social.php:244 inc/admin/settings/Social.php:105
+#: inc/admin/wizard/admin-wizard.php:844
+#: src/Tags/Schema/SocialAccount/Youtube.php:15
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: inc/admin/callbacks/Social.php:233 inc/admin/settings/Social.php:97
+#: inc/admin/wizard/admin-wizard.php:837
+#: src/Tags/Schema/SocialAccount/Instagram.php:15
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/admin/settings/Social.php:130
+msgid "Enable Open Graph Data"
+msgstr "启用Open Graph Data"
+
+#: inc/admin/settings/Social.php:178
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: inc/admin/settings/Social.php:170
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin ID"
+
+#: inc/admin/callbacks/Social.php:297 inc/admin/callbacks/Social.php:374
+#: inc/admin/settings/Social.php:138
+msgid "Select a default image"
+msgstr "选择默认图像"
+
+#: inc/admin/settings/Social.php:195
+msgid "Enable Twitter Card"
+msgstr "启用Twitter卡片"
+
+#: inc/admin/callbacks/Social.php:520 inc/admin/settings/Social.php:211
+msgid "Default Twitter Image"
+msgstr "默认Twitter图像"
+
+#: inc/admin/settings/Social.php:219
+msgid "Image size for Twitter Summary card"
+msgstr "微博摘要卡的图片尺寸"
+
+#: inc/admin/sections/Sitemaps.php:43
+msgid "To view your sitemap, enable permalinks (not default one), and save settings to flush them."
+msgstr "要查看站点地图，请启用永久链接（不是默认第一个），并保存设置以刷新它们。"
+
+#: inc/admin/sections/Sitemaps.php:102
+msgid "View your sitemap"
+msgstr "查看站点地图"
+
+#: inc/admin/callbacks/Titles.php:1084 inc/admin/callbacks/Titles.php:1100
+msgid "Date archives"
+msgstr "日期归档"
+
+#: inc/admin/callbacks/Titles.php:990
+msgid "Author archives"
+msgstr "作者归档"
+
+#: inc/admin/callbacks/Titles.php:241 inc/admin/callbacks/Titles.php:452
+#: inc/admin/callbacks/Titles.php:670 inc/admin/callbacks/Titles.php:882
+#: inc/admin/callbacks/Titles.php:1026 inc/admin/callbacks/Titles.php:1119
+#: inc/admin/callbacks/Titles.php:1213 inc/admin/callbacks/Titles.php:1283
+msgid "Meta description template"
+msgstr "元描述模板"
+
+#: inc/admin/callbacks/Titles.php:170 inc/admin/callbacks/Titles.php:418
+#: inc/admin/callbacks/Titles.php:582 inc/admin/callbacks/Titles.php:815
+#: inc/admin/callbacks/Titles.php:994 inc/admin/callbacks/Titles.php:1088
+#: inc/admin/callbacks/Titles.php:1181 inc/admin/callbacks/Titles.php:1255
+msgid "Title template"
+msgstr "标题模板"
+
+#: inc/admin/callbacks/Titles.php:59
+msgid "This is a cool website about Wookiees"
+msgstr "这是一个关于Wookiees的很酷的站点"
+
+#: inc/admin/callbacks/Titles.php:30
+msgid "My awesome website"
+msgstr "我的超级网站"
+
+#: inc/admin/callbacks/Social.php:57
+msgid "Select your logo"
+msgstr "选择您的商标"
+
+#: inc/admin/callbacks/Social.php:25 inc/admin/wizard/admin-wizard.php:724
+msgid "Organization"
+msgstr "组织"
+
+#: inc/admin/callbacks/Social.php:20 inc/admin/wizard/admin-wizard.php:719
+msgid "Person"
+msgstr "个人"
+
+#: inc/admin/callbacks/Sitemaps.php:183 inc/admin/callbacks/Sitemaps.php:241
+msgid "Include"
+msgstr "包括"
+
+#: inc/admin/callbacks/Titles.php:1251
+msgid "404 archives"
+msgstr "404个档案"
+
+#: inc/admin/callbacks/Titles.php:1177
+msgid "Search archives"
+msgstr "搜索存档"
+
+#: inc/functions/options-import-export.php:61
+#: inc/functions/options-import-export.php:470
+msgid "Please upload a valid .json file"
+msgstr "请上传有效的.json文件"
+
+#: inc/admin/callbacks/Social.php:551
+msgid "Large"
+msgstr "大"
+
+#: inc/admin/callbacks/Social.php:546 seopress.php:407
+msgid "Default"
+msgstr "默认"
+
+#: inc/admin/callbacks/Social.php:480
+msgid "Enable Twitter card"
+msgstr "启用Twitter卡片"
+
+#: inc/admin/callbacks/Social.php:273
+msgid "Enable OG data"
+msgstr "启用OG数据"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.seopress.org/"
+msgstr "https://www.seopress.org/"
+
+#: inc/admin/admin-pages/InstantIndexing.php:25
+#: inc/admin/admin-pages/Tools.php:22 inc/admin/admin-pages/Tools.php:155
+#: inc/admin/sections/InstantIndexing.php:54 seopress.php:601
+msgid "Settings"
+msgstr "设置"
+
+#: inc/functions/options-import-export.php:66
+#: inc/functions/options-import-export.php:138
+#: inc/functions/options-import-export.php:260
+#: inc/functions/options-import-export.php:474
+#: inc/functions/options-import-export.php:549
+msgid "Please upload a file to import"
+msgstr "请上传要导入的文件"

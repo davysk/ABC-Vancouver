@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;phpseclib3\System\SSH\Common\Traits\ReadBytes&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wp-seopress\vendor\phpseclib\phpseclib\phpseclib\System\SSH\Agent\Identity.php</b> on line <b>42</b><br>

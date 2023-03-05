@@ -1,0 +1,2 @@
+<br>
+<b>Warning</b>:  Class "Automattic\Jetpack\Automatic_Install_Skin" not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\jetpack\_inc\lib\class.jetpack-automatic-install-skin.php</b> on line <b>10</b><br>

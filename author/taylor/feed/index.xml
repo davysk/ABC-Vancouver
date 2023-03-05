@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Taylor &#8211; ABC Vancouver</title>
+	<atom:link href="/author/taylor/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>for A Better City</description>
+	<lastBuildDate>Sun, 25 Sep 2022 17:29:20 +0000</lastBuildDate>
+	<language>en-CA</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/07/ABC-Logo_Full-Colour-No-Van.svg</url>
+	<title>Taylor &#8211; ABC Vancouver</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ABC Vancouver Statement: Christopher Richardson</title>
+		<link>/abc-vancouver-statement-christopher-richardson/</link>
+					<comments>/abc-vancouver-statement-christopher-richardson/#respond</comments>
+		
+		<dc:creator><![CDATA[Taylor]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2022 17:26:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://abcvancouver.ca/?p=9202</guid>
+
+					<description><![CDATA[FOR IMMEDIATE RELEASE September 25, 2022 VANCOUVER — ABC Vancouver released the following statement regarding the candidacy of School Board Trustee candidate Christopher Richardson: “Late Friday afternoon ABC Vancouver was made aware that a charitable organization that Christopher Richardson was a board member of had its charitable status revoked by the Canada Revenue Agency on [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>FOR IMMEDIATE RELEASE</p>
+
+
+
+<p>September 25, 2022</p>
+
+
+
+<p>VANCOUVER — ABC Vancouver released the following statement regarding the candidacy of School Board Trustee candidate Christopher Richardson:</p>
+
+
+
+<p>“Late Friday afternoon ABC Vancouver was made aware that a charitable organization that Christopher Richardson was a board member of had its charitable status revoked by the Canada Revenue Agency on September 10th.</p>
+
+
+
+<p>“On Saturday, ABC conducted several queries. At the conclusion, ABC sent an email at 8pm Saturday evening to the Chief Election Officer that ABC’s endorsement of Christopher Richardson be removed, knowing that the deadline to do so may have passed.</p>
+
+
+
+<p>“Should Mr. Richardson be elected, he would not be able to join the ABC Caucus until the matter is resolved to satisfaction.”</p>
+
+
+
+<p>-30-</p>
+
+
+
+<p>Media Contact:<br>Kareem Allam<br>604-351-1536</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/abc-vancouver-statement-christopher-richardson/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\Api\Parser\MetadataParserTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\updraftplus\vendor\aws\aws-sdk-php\src\Api\ErrorParser\AbstractErrorParser.php</b> on line <b>11</b><br>

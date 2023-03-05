@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\TestData\Framework\ProviderForwarder&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\TestData\Framework\Factory.php</b> on line <b>7</b><br>

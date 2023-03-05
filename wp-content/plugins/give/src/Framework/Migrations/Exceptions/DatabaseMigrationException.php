@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Give\Framework\Exceptions\Traits\Loggable&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\src\Framework\Migrations\Exceptions\DatabaseMigrationException.php</b> on line <b>14</b><br>

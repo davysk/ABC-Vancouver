@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://abcvancouver.ca
+Data file = /www/abcvancouverca_471/public/wp-content/themes/egovt/install_resource/demo_import/demo-content.xml
+Widget file = /www/abcvancouverca_471/public/wp-content/themes/egovt/install_resource/demo_import/widgets.wie
+Customizer file = /www/abcvancouverca_471/public/wp-content/themes/egovt/install_resource/demo_import/customize.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import give_forms_category Childrends
+[WARNING] Failed to import give_forms_category Education
+[WARNING] Failed to import give_forms_category Food
+[WARNING] Failed to import give_forms_category Health
+[WARNING] Failed to import give_forms_category Water
+
+
+------
+New AJAX call!
+[WARNING] Failed to import give_forms_category Childrends
+[WARNING] Failed to import give_forms_category Education
+[WARNING] Failed to import give_forms_category Food
+[WARNING] Failed to import give_forms_category Health
+[WARNING] Failed to import give_forms_category Water
+
+
+------
+New AJAX call!
+[WARNING] Failed to import give_forms_category Childrends
+[WARNING] Failed to import give_forms_category Education
+[WARNING] Failed to import give_forms_category Food
+[WARNING] Failed to import give_forms_category Health
+[WARNING] Failed to import give_forms_category Water
+
+
+------
+New AJAX call!
+[WARNING] Failed to import give_forms_category Childrends
+[WARNING] Failed to import give_forms_category Education
+[WARNING] Failed to import give_forms_category Food
+[WARNING] Failed to import give_forms_category Health
+[WARNING] Failed to import give_forms_category Water
+
+
+------
+New AJAX call!
+

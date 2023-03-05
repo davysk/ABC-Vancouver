@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;SimplePay\Core\License\LicenseAwareTrait&quot; not found in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\wp-simple-pay-pro-3\src\Admin\Education\InstantPayouts.php</b> on line <b>25</b><br>

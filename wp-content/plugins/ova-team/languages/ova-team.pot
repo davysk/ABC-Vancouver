@@ -1,0 +1,503 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovatheme Team\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 09:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-5.6.1"
+
+#: inc/class-customize.php:63
+msgid "2 column"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:89
+msgid "2 Columns"
+msgstr ""
+
+#: inc/class-customize.php:64
+msgid "3 column"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:90
+msgid "3 Columns"
+msgstr ""
+
+#: inc/class-customize.php:65
+msgid "4 column"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:91
+msgid "4 Columns"
+msgstr ""
+
+#: inc/ova-core-functions.php:127
+msgid "</ul></div>"
+msgstr ""
+
+#: inc/ova-core-functions.php:91
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: inc/ova-core-functions.php:104 inc/ova-core-functions.php:117
+msgid "<li><span class=\"pagi_dots\">...</span></li>"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:64 inc/class-ova-custom-post-type.php:65
+msgid "Add New Category Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:26 inc/class-ova-custom-post-type.php:27
+msgid "Add New Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:69
+msgid "Add or remove items"
+msgstr ""
+
+#: admin/class-ova-metabox.php:101
+msgid "Add Social"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:60
+msgid "All Category Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:25
+msgid "All Teams"
+msgstr ""
+
+#: admin/class-ova-metabox.php:35
+msgid "Avatar"
+msgstr ""
+
+#: inc/class-customize.php:78
+msgid "Background Archive Team"
+msgstr ""
+
+#: inc/class-customize.php:91
+msgid "Background Single Team"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:66 elementor/widgets/ova_team_slider.php:68
+#: elementor/widgets/ova_team_slider_2.php:68
+msgid "Category"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:59
+msgid "Category Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:70
+msgid "Choose from the most used"
+msgstr ""
+
+#: admin/class-ova-metabox.php:90
+msgid "Class Icon Background"
+msgstr ""
+
+#: admin/class-ova-metabox.php:109
+msgid "Class icon social"
+msgstr ""
+
+#: inc/class-ova-get-data.php:29
+msgid "Comment: "
+msgstr ""
+
+#: elementor/widgets/ova_team.php:42 elementor/widgets/ova_team_slider.php:44
+#: elementor/widgets/ova_team_slider_2.php:44
+#: elementor/widgets/ova_form_mail.php:42
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:104 elementor/widgets/ova_team_slider.php:92
+#: elementor/widgets/ova_team_slider_2.php:92
+msgid "Custom Order"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:66
+msgid "Edit Category Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:29
+msgid "Edit Team"
+msgstr ""
+
+#: admin/class-ova-metabox.php:66 templates/elementor/ova_form_mail.php:17
+msgid "Email"
+msgstr ""
+
+#: templates/single-team.php:68
+msgid "Email:"
+msgstr ""
+
+#: inc/class-ova-get-data.php:28
+msgid "Email: "
+msgstr ""
+
+#: elementor/widgets/ova_form_mail.php:82
+msgid "Error Page"
+msgstr ""
+
+#: admin/class-ova-metabox.php:78
+msgid "Excerpt 1"
+msgstr ""
+
+#: admin/class-ova-metabox.php:84
+msgid "Excerpt 2"
+msgstr ""
+
+#: admin/class-ova-metabox.php:60
+msgid "Experience"
+msgstr ""
+
+#: templates/single-team.php:59
+msgid "Experience:"
+msgstr ""
+
+#: admin/class-ova-metabox.php:54
+msgid "Expertise"
+msgstr ""
+
+#: templates/single-team.php:50
+msgid "Expertise:"
+msgstr ""
+
+#: templates/elementor/ova_form_mail.php:12
+#: templates/elementor/ova_form_mail.php:16
+#: templates/elementor/ova_form_mail.php:21
+#: templates/elementor/ova_form_mail.php:29
+msgid "field is required"
+msgstr ""
+
+#: inc/class-customize.php:107
+msgid "Header Archive"
+msgstr ""
+
+#: inc/class-customize.php:143
+msgid "Header Single"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:116 elementor/widgets/ova_team.php:128
+#: elementor/widgets/ova_team.php:140 elementor/widgets/ova_team.php:152
+#: elementor/widgets/ova_team.php:164 elementor/widgets/ova_team_slider.php:103
+#: elementor/widgets/ova_team_slider.php:115
+#: elementor/widgets/ova_team_slider_2.php:103
+#: elementor/widgets/ova_team_slider_2.php:115
+#: elementor/widgets/ova_team_slider_2.php:127
+#: elementor/widgets/ova_team_slider_2.php:139
+#: elementor/widgets/ova_team_slider_2.php:151
+msgid "Hide"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://themeforest.net/user/ovatheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themeforest.net/user/ovatheme/portfolio"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:103 elementor/widgets/ova_team_slider.php:91
+#: elementor/widgets/ova_team_slider_2.php:91
+msgid "ID"
+msgstr ""
+
+#: elementor/widgets/ova_form_mail.php:84
+msgid "If Sending an Email is failed, it will redirect to this page"
+msgstr ""
+
+#: elementor/widgets/ova_form_mail.php:74
+msgid "If Sending an Email is success, it will redirect to this page"
+msgstr ""
+
+#: admin/class-ova-metabox.php:137
+msgid "Insert Number"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:22
+msgid "Item Archives"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:23
+msgid "Item Attributes"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:75
+msgid "Items list"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:76
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/class-ova-metabox.php:48
+msgid "Job"
+msgstr ""
+
+#: inc/class-customize.php:58
+msgid "Layout"
+msgstr ""
+
+#: admin/class-ova-metabox.php:116
+msgid "Link social"
+msgstr ""
+
+#: admin/class-ova-metabox.php:98
+msgid "List Social"
+msgstr ""
+
+#: inc/class-ova-get-data.php:20
+msgid "Mail to our team"
+msgstr ""
+
+#: templates/elementor/ova_form_mail.php:13
+msgid "Name"
+msgstr ""
+
+#: inc/class-ova-get-data.php:27
+msgid "Name: "
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:28
+msgid "New Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:63
+msgid "New Item Name"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:74
+msgid "No items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:73
+msgid "Not Found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:33
+msgid "Not found"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:34
+msgid "Not found in Trash"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:85
+msgid "Number Of Column"
+msgstr ""
+
+#: inc/class-customize.php:41
+msgid "Number of posts per page"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:99 elementor/widgets/ova_team_slider.php:87
+#: elementor/widgets/ova_team_slider_2.php:87
+msgid "OrderBy Post"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:22
+msgid "Our Team"
+msgstr ""
+
+#: elementor/widgets/ova_team_slider.php:22
+msgid "Our Team Slide"
+msgstr ""
+
+#: elementor/widgets/ova_team_slider_2.php:22
+msgid "Our Team Slide 2"
+msgstr ""
+
+#: elementor/widgets/ova_form_mail.php:21
+msgid "Ova Contact Form"
+msgstr ""
+
+#. Author of the plugin
+#: elementor/class-ova-register-elementor.php:61
+msgid "Ovatheme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Ovatheme Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:61
+msgid "Parent Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:24 inc/class-ova-custom-post-type.php:62
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/class-ova-metabox.php:72
+msgid "Phone"
+msgstr ""
+
+#: templates/single-team.php:76
+msgid "Phone:"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:71
+msgid "Popular Items"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:21
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:37
+msgid "Post Type Description"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:57
+msgctxt "Post Type General Name"
+msgid "Category Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:18
+msgctxt "Post Type General Name"
+msgid "Teams"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:58
+msgctxt "Post Type Singular Name"
+msgid "Category Team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:19
+msgctxt "Post Type Singular Name"
+msgid "Team"
+msgstr ""
+
+#: admin/class-ova-metabox.php:102
+msgid "Remove"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:32
+msgid "Search Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:72
+msgid "Search Items"
+msgstr ""
+
+#: inc/class-ova-get-data.php:43
+msgid "Send Mail To Our Team"
+msgstr ""
+
+#: templates/elementor/ova_form_mail.php:34
+msgid "Send Message"
+msgstr ""
+
+#: elementor/widgets/ova_form_mail.php:64
+msgid "Send to Email Address"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:68
+msgid "Separate items with commas"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:115 elementor/widgets/ova_team.php:127
+#: elementor/widgets/ova_team.php:139 elementor/widgets/ova_team.php:151
+#: elementor/widgets/ova_team.php:163 elementor/widgets/ova_team_slider.php:102
+#: elementor/widgets/ova_team_slider.php:114
+#: elementor/widgets/ova_team_slider_2.php:102
+#: elementor/widgets/ova_team_slider_2.php:114
+#: elementor/widgets/ova_team_slider_2.php:126
+#: elementor/widgets/ova_team_slider_2.php:138
+#: elementor/widgets/ova_team_slider_2.php:150
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:149
+#: elementor/widgets/ova_team_slider_2.php:136
+msgid "Show Email"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:137 elementor/widgets/ova_team_slider.php:112
+#: elementor/widgets/ova_team_slider_2.php:124
+msgid "Show Job"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:125 elementor/widgets/ova_team_slider.php:100
+#: elementor/widgets/ova_team_slider_2.php:112
+msgid "Show Name"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:161
+#: elementor/widgets/ova_team_slider_2.php:148
+msgid "Show Phone"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:113
+#: elementor/widgets/ova_team_slider_2.php:100
+msgid "Show Social"
+msgstr ""
+
+#: admin/class-ova-metabox.php:122
+msgid "Signature"
+msgstr ""
+
+#: admin/class-ova-metabox.php:100
+msgid "Social"
+msgstr ""
+
+#: admin/class-ova-metabox.php:135
+msgid "Sort Order"
+msgstr ""
+
+#: templates/elementor/ova_form_mail.php:22
+msgid "Subject"
+msgstr ""
+
+#. Description of the plugin
+#: inc/class-customize.php:26
+msgid "Team"
+msgstr ""
+
+#: admin/class-ova-metabox.php:26
+msgid "Team settings"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:89
+msgctxt "Team Slug"
+msgid "cat_team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:20
+msgid "Teams"
+msgstr ""
+
+#: elementor/widgets/ova_form_mail.php:72
+msgid "Thank Page"
+msgstr ""
+
+#: elementor/widgets/ova_team.php:76 elementor/widgets/ova_team_slider.php:78
+#: elementor/widgets/ova_team_slider_2.php:78
+msgid "Total"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:48
+msgctxt "URL slug"
+msgid "team"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:30 inc/class-ova-custom-post-type.php:67
+msgid "View Item"
+msgstr ""
+
+#: inc/class-ova-custom-post-type.php:31
+msgid "View Items"
+msgstr ""
+
+#: templates/elementor/ova_form_mail.php:30
+msgid "Write your message..."
+msgstr ""

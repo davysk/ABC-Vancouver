@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Declaration of GoogleChartCandlestickMarker::compute($index) must be compatible with GoogleChartMarker::compute($index, $chart_type = null) in <b>D:\Apps\xamp\htdocs\backup\wp-content\plugins\give\includes\libraries\googlechartlib\markers\GoogleChartCandlestickMarker.php</b> on line <b>35</b><br>

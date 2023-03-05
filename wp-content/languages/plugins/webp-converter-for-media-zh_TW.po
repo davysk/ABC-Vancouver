@@ -1,0 +1,239 @@
+# Translation of Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-28 21:44:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Converter for Media &#8211; Optimize images | Convert WebP &amp; AVIF - Stable (latest release)\n"
+
+#. translators: %1$s: loader name
+#: src/Error/Notice/PassthruNotWorkingNotice.php:26
+msgid "%1$s loading mode is not compatible with your server. Sorry for the inconvenience."
+msgstr "%1$s 載入模式與這台伺服器不相容。很抱歉造成使用上的不便。"
+
+#. translators: %1$s: open strong tag, %2$s: close strong tag
+#: src/Error/Notice/RewritesNotWorkingNotice.php:26
+msgid "Redirects on your server are not working. Check the correct configuration for you in %1$sthe plugin FAQ%2$s. If you have checked the configuration, it means that your server does not support redirects from the .htaccess file or your server configuration is not compatible with this plugin."
+msgstr "這台伺服器的重新導向無法運作，請參閱外掛的%1$s常見問題集%2$s檢查組態是否正確。如果伺服器組態正確，則代表這台伺服器不支援透過 .htaccess 檔案設定重新導向，或伺服器組態與這個外掛不相容。"
+
+#: templates/components/notices/thanks.php:38
+#: templates/components/notices/upgrade.php:38
+msgid "Hide, do not show again"
+msgstr "隱藏，不要再顯示"
+
+#: templates/components/notices/thanks.php:33
+msgid "Add plugin review"
+msgstr "撰寫使用者評論"
+
+#: src/Error/Notice/RewritesCachedNotice.php:24
+msgid "Your server uses the cache for HTTP requests. The rules from .htaccess file or from Nginx configuration are not executed every time when the image is loaded, but the last redirect from cache is performed. With each request to image, your server should execute the rules from .htaccess file or from Nginx configuration. Now it only does this the first time and then uses cache. This means that if your server redirected image to WebP format the first time, it does so on every request. It should check the rules from .htaccess file or from Nginx configuration each time during request to image and redirect only when the conditions are met."
+msgstr "這個網站的伺服器使用快取回應 HTTP 要求。這個網站載入圖片時，並未每次執行 .htaccess 檔案中的規則或 NGINX 的組態，而會執行快取中的最後重新導向。對於每一個網站圖片要求，伺服器必須執行 .htaccess 檔案中的規則或 NGINX 的組態，但現在僅有第一個要求會執行，之後便使用快取。這代表這個網站的伺服器第一次將圖片重新導向至 WebP 格式後，它會在之後的每次要求都取用快取。伺服器應該為每次的圖片要求執行 .htaccess 檔案中的規則或 NGINX 的組態，並僅有符合規則時才進行重新導向。"
+
+#. translators: %1$s: open strong tag, %2$s: close strong tag, %3$s: errors
+#. codes
+#: templates/components/widgets/errors.php:32
+msgid "%1$sError codes:%2$s %3$s"
+msgstr "%1$s錯誤代碼:%2$s %3$s"
+
+#: src/Error/Notice/SettingsIncorrectNotice.php:24
+msgid "The plugin settings are incorrect! Check them out and save them again. Please remember that you must have at least one option selected for each field."
+msgstr "外掛設定不正確，請檢查設定後再次儲存設定。請注意，一定要為每項設定設定至少一個設定值。"
+
+#: src/Error/Notice/PassthruExecutionNotice.php:33
+#: src/Error/Notice/RewritesCachedNotice.php:25
+#: src/Error/Notice/RewritesNotExecutedNotice.php:51
+#: src/Error/Notice/RewritesNotWorkingNotice.php:30
+msgid "In this case, please contact your server administrator."
+msgstr "如果需要檢查伺服器相關安全性設定，請聯絡網站伺服器管理員。"
+
+#. translators: %1$s: open anchor tag, %2$s: close anchor tag
+#: src/Plugin/Links.php:78
+msgid "%1$sSettings%2$s"
+msgstr "%1$s設定%2$s"
+
+#: src/Settings/Option/OutputFormatsOption.php:65
+msgid "List of supported output formats"
+msgstr "支援的輸出格式清單"
+
+#. translators: %s: loader type
+#: src/Settings/Option/LoaderTypeOption.php:64
+msgid "%s (without rewrites in .htaccess files or Nginx configuration)"
+msgstr "%s (在 .htacces 檔或 Nginx 組態檔中沒有重寫規則)"
+
+#: src/Settings/Option/LoaderTypeOption.php:60
+msgid "via .htaccess"
+msgstr "透過 .htaccess"
+
+#: src/Settings/Option/LoaderTypeOption.php:47
+msgid "By changing image loading mode it allows you to bypass some server configuration problems."
+msgstr "變更圖片載入模式，可以讓網站管理員略過某些伺服器組態問題。"
+
+#: src/Settings/Option/LoaderTypeOption.php:40
+msgid "Image loading mode"
+msgstr "圖片載入模式"
+
+#. translators: %s: anchor tag
+#: src/Error/Notice/PassthruExecutionNotice.php:29
+msgid "Execution of the PHP file from path \"%s\" is blocked on your server, or access to this file is blocked. Add an exception and enable this file to be executed via HTTP request. To do this, check the security plugin settings (if you are using) or the security settings of your server."
+msgstr "伺服器上 %s 路徑的 PHP 檔案執行已遭封鎖，或存取這個檔案的權限已遭封鎖。請新增例外狀況或啟用這個檔案，以便透過 HTTP 要求執行。要進行這些設定，如果網站使用安全性外掛，請檢查外掛相關設定，或檢查伺服器的相關安全性設定。"
+
+#: templates/components/widgets/about.php:24
+msgid "The plugin in default loading mode (via .htaccess) does not change file URLs, so there are no problems with saving the page to the cache and the page generation time does not increase."
+msgstr "外掛的預設載入模式為 [透過 .htaccess]，這個模式不會變更檔案網址，因此將頁面進行快取不會產生問題，也不會增加頁面產生時間。"
+
+#: templates/components/widgets/regenerate.php:158
+#: templates/views/settings.php:43
+msgid "Please flush cache if you use caching plugin or caching via hosting."
+msgstr "如果這個網站使用快取外掛或網站主機會產生快取，請清除快取。"
+
+#: src/Service/DeactivationModalGenerator.php:57
+msgid "Skip and Deactivate"
+msgstr "略過並停用"
+
+#: src/Service/DeactivationModalGenerator.php:56
+msgid "Submit and Deactivate"
+msgstr "傳送並停用"
+
+#: src/Service/DeactivationModalGenerator.php:131
+msgid "What is reason? What can we improve for you?"
+msgstr "煩請告知原因，以及我們能夠更加改進的部分。"
+
+#: src/Service/DeactivationModalGenerator.php:129
+msgid "Other reason"
+msgstr "其他原因"
+
+#: src/Service/DeactivationModalGenerator.php:120
+msgid "This is a temporary deactivation"
+msgstr "暫時停用外掛"
+
+#: src/Service/DeactivationModalGenerator.php:113
+msgid "What is name of this plugin? Why is it better?"
+msgstr "煩請告知這個外掛的名稱。"
+
+#: src/Service/DeactivationModalGenerator.php:111
+msgid "I found a better plugin"
+msgstr "找到更適合的外掛"
+
+#: src/Service/DeactivationModalGenerator.php:104
+msgid "What exactly happened?"
+msgstr "煩請告知網站問題的實際狀況。"
+
+#: src/Service/DeactivationModalGenerator.php:102
+msgid "This plugin broke my website"
+msgstr "這個外掛造成我的網站停擺"
+
+#: src/Service/DeactivationModalGenerator.php:79
+msgid "What is your error? Have you been looking for solution to this issue?"
+msgstr "發生了哪些錯誤？是否尋找過相關問題的解決方案？"
+
+#: src/Service/DeactivationModalGenerator.php:65
+msgid "I have \"Server configuration error\" in plugin settings"
+msgstr "在外掛設定頁中出現 [伺服器組態錯誤] 訊息"
+
+#: templates/components/widgets/regenerate.php:176
+msgid "Additional informations about process:"
+msgstr "關於這個程序的其他資訊:"
+
+#: templates/components/notices/welcome.php:37
+msgid "Speed up my website"
+msgstr "為這個網站提升速度"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:72
+msgid "Log errors while converting to debug.log file (when debugging in WordPress is active)"
+msgstr "轉換圖片時將錯誤記錄至 debug.log 檔案中 (必須先啟用 WordPress 的偵錯功能)"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:68
+msgid "Enable cron to automatically convert images from outside Media Library (images from Media Library are converted immediately after upload)"
+msgstr "啟用 Cron 將外部媒體庫的圖片排程進行自動轉換 (內部媒體庫圖片在上傳後會立即轉換)"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:64
+msgid "Keep images metadata stored in EXIF or XMP formats (unavailable for GD conversion method)"
+msgstr "保留以 EXIF 或 XMP 格式儲存的圖片中繼資料 (不適用於 GD 轉換方法)"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:50
+msgid "Options allow you to enable new functionalities that will increase capabilities of plugin"
+msgstr "網站管理員可以在下方啟用增加外掛處理能力的新功能。"
+
+#: src/Settings/Option/SupportedDirectoriesOption.php:39
+msgid "List of supported directories"
+msgstr "支援的目錄清單"
+
+#. translators: %1$s: filter name, %2$s: server path, %3$s: open anchor tag,
+#. %4$s: close anchor tag
+#: src/Error/Notice/PathWebpNotWritableNotice.php:26
+msgid "The path for saving converted WebP files does not exist and cannot be created (function is_writable() returns false). Use filter %1$s to set the correct path. The current using path is: %2$s. Please read %3$sthe plugin FAQ%4$s to learn more."
+msgstr "儲存 WebP 檔案的路徑不存在或無法建立 (is_writable() 函式傳回 false)。目前使用的路徑為 %2$s，請使用 %1$s 篩選器以設定正確路徑。請參閱外掛的%3$s常見問題集%4$s以進一步了解相關資訊。"
+
+#. translators: %1$s: filter name, %2$s: server path, %3$s: open anchor tag,
+#. %4$s: close anchor tag
+#: src/Error/Notice/PathUploadsUnavailableNotice.php:26
+msgid "The path for /uploads files does not exist (function is_dir() returns false). Use filter %1$s to set the correct path. The current using path is: %2$s. Please read %3$sthe plugin FAQ%4$s to learn more."
+msgstr "/uploads 檔案的路徑不存在 (is_dir() 函式傳回 false)。目前使用的路徑為 %2$s，請使用 %1$s 篩選器以設定正確路徑。請參閱外掛的%3$s常見問題集%4$s以進一步了解相關資訊。"
+
+#. translators: %1$s: server path
+#: src/Error/Notice/PathHtaccessNotWritableNotice.php:26
+msgid "Unable to create or edit .htaccess file (function is_readable() or is_writable() returns false). Change directory permissions. The current using path of file is: %1$s. Please contact your server administrator."
+msgstr "無法建立或編輯 .htaccess 檔案 (is_readable() 或 is_writable() 函式傳回 false)。目前使用的路徑為 %1$s，請變更目錄權限。請聯絡這台主機的伺服器管理員。"
+
+#. translators: %1$s: filter name, %2$s: server path
+#: src/Error/Notice/PathWebpDuplicatedNotice.php:26
+msgid "The paths for /uploads files and for saving converted WebP files are the same. Change them using filter %1$s. The current path for them is: %2$s."
+msgstr "/uploads 檔案及儲存轉換完畢的 WebP 檔案路徑相同。目前使用的路徑為 %2$s，請使用 %1$s 篩選器以設定兩者的路徑。"
+
+#. translators: %1$s: anchor tag, %2$s: anchor tag, %3$s: anchor tag
+#: src/Error/Notice/RestApiDisabledNotice.php:26
+msgid "The REST API on your website is not available. Please verify this and try again. Pay special attention to the filters: %1$s, %2$s and %3$s."
+msgstr "這個網站無法使用 REST API。請確認問題原因，解決後再試一次。請注意 %1$s、%2$s 及 %3$s 這幾個篩選器。"
+
+#: templates/components/widgets/errors.php:15
+msgid "Server configuration error"
+msgstr "伺服器組態錯誤"
+
+#: src/Settings/Option/ExtraFeaturesOption.php:43
+msgid "Extra features"
+msgstr "額外功能"
+
+#. translators: %s: loader type
+#: src/Settings/Option/LoaderTypeOption.php:59
+msgid "%s (recommended)"
+msgstr "%s (建議使用)"
+
+#: src/Settings/Option/ConversionMethodOption.php:57
+msgid "Conversion method"
+msgstr "轉換方法"
+
+#: src/Settings/Option/SupportedExtensionsOption.php:37
+msgid "List of supported files extensions"
+msgstr "支援的檔案副檔名清單"
+
+#: templates/views/settings.php:42
+msgid "Changes were successfully saved!"
+msgstr "設定已成功儲存。"
+
+#: templates/components/widgets/options.php:44
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: templates/components/widgets/regenerate.php:22
+msgid "An error occurred while connecting to REST API. Please try again."
+msgstr "連接 REST API 時發生錯誤。請再試一次。"
+
+#: src/Service/WpCliManager.php:115
+#: templates/components/widgets/regenerate.php:157
+msgid "The process was completed successfully. Your images have been converted!"
+msgstr "處理程序已完成。這個網站的圖片已完成轉換。"
+
+#. translators: %s progress value
+#: src/Service/WpCliManager.php:122
+#: templates/components/widgets/regenerate.php:132
+msgid "Saving the weight of your images: %s"
+msgstr "正在儲存圖片大小: %s"
+
+#: templates/components/widgets/support.php:13
+msgid "We are waiting for your message"
+msgstr "隨時聆聽使用者意見"
